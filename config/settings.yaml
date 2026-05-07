@@ -1,0 +1,33 @@
+# Roles to flag — fuzzy match. The agent uses Claude to judge fit, so these
+# are seed keywords, not a strict allowlist. Anything in the spirit of these
+# titles will match.
+target_roles:
+  - Product Manager
+  - Data Product Manager
+  - AI Product Manager
+  - Data Manager
+  - Product Manager, Data
+  - Product Manager, AI
+  - Senior Product Manager
+  - Group Product Manager
+  - Lead Product Manager
+  - Principal Product Manager
+
+# Gmail scrape window (days). Default to 7; first run can go larger.
+gmail_lookback_days: 7
+
+# Gmail search hints. The query is built as:
+#   newer_than:Nd (gmail_search_hints joined with OR)
+gmail_search_hints:
+  - subject:(job OR role OR position OR opening OR opportunity)
+  - from:(jobs OR careers OR talent OR recruiting OR noreply)
+  - "\"product manager\""
+  - "\"data product\""
+  - "\"AI product\""
+
+# Anthropic model for matching + tailoring. Opus 4.7 is the most capable;
+# downgrade to claude-sonnet-4-6 for cheaper runs.
+anthropic_model: claude-opus-4-7
+
+# Max jobs to tailor per run (cost guard).
+max_tailored_per_run: 10

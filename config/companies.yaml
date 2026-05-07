@@ -1,0 +1,34 @@
+# Target companies. Paste your list here.
+#
+# Each entry needs a `name` and at least one ATS handle. Most companies use
+# Greenhouse, Lever, or Ashby — those are public APIs and work without
+# scraping. Workday is harder and best-effort.
+#
+# How to find the handle:
+#   Greenhouse: career page is boards.greenhouse.io/<handle>  -> use <handle>
+#   Lever:      career page is jobs.lever.co/<handle>          -> use <handle>
+#   Ashby:      career page is jobs.ashbyhq.com/<handle>       -> use <handle>
+#   Workday:    career page is <tenant>.wd1.myworkdayjobs.com/<site>
+#               -> set tenant, site, and host (wd1/wd5/etc).
+#
+# Examples (uncomment and edit):
+#
+# - name: Anthropic
+#   ashby: anthropic
+#
+# - name: Stripe
+#   greenhouse: stripe
+#
+# - name: OpenAI
+#   ashby: openai
+#
+# - name: Netflix
+#   workday:
+#     tenant: netflix
+#     site: Netflix_External
+#     host: wd1
+#
+# - name: Figma
+#   greenhouse: figma
+
+companies: []
