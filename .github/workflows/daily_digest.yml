@@ -1,0 +1,66 @@
+name: Daily Job Search Digest
+
+on:
+  schedule:
+    # 7:30 AM ET (12:30 UTC) on weekdays
+    - cron: "30 12 * * 1-5"
+  workflow_dispatch:   # allow manual trigger from Actions tab
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Restore the SQLite state DB from the previous run so we don't
+      # re-alert on jobs we've already seen.
+      - name: Restore state DB
+        uses: actions/cache@v4
+        with:
+          path: state.sqlite
+          key: state-db-${{ runner.os }}
+          restore-keys: state-db-
+
+      # Restore the Gmail OAuth token so the agent can send without re-auth.
+      # The token JSON is stored as a GitHub Actions secret.
+      - name: Write Gmail OAuth token
+        run: |
+          mkdir -p secrets
+          echo '${{ secrets.GOOGLE_TOKEN_JSON }}' > secrets/token.json
+
+      - name: Write Google client secrets
+        run: |
+          echo '${{ secrets.GOOGLE_CLIENT_SECRETS_JSON }}' > secrets/client_secret.json
+
+      - name: Run job search agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          GOOGLE_CLIENT_SECRETS: ./secrets/client_secret.json
+          GOOGLE_TOKEN_PATH: ./secrets/token.json
+          STATE_DB_PATH: ./state.sqlite
+          LOG_LEVEL: INFO
+        run: |
+          cd $GITHUB_WORKSPACE
+          python -m email_agent.main
+
+      # Persist the updated state DB so the next run can skip already-seen jobs.
+      # (The cache key is fixed so it gets overwritten each run.)
+      - name: Save state DB
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state.sqlite
+          key: state-db-${{ runner.os }}

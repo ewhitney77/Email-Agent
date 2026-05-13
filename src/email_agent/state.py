@@ -1,4 +1,4 @@
-"""SQLite store for jobs we've already seen, so we don't re-alert."""
+"""SQLite store for deduplication: seen jobs, emails, and outreach targets."""
 
 import sqlite3
 from contextlib import contextmanager
@@ -20,6 +20,13 @@ CREATE TABLE IF NOT EXISTS seen_emails (
     message_id   TEXT PRIMARY KEY,
     seen_at      TEXT NOT NULL DEFAULT (datetime('now'))
 );
+
+CREATE TABLE IF NOT EXISTS outreach_targets (
+    company       TEXT PRIMARY KEY,
+    contact_name  TEXT,
+    contact_title TEXT,
+    suggested_at  TEXT NOT NULL DEFAULT (datetime('now'))
+);
 """
 
 
@@ -38,6 +45,8 @@ class State:
             conn.commit()
         finally:
             conn.close()
+
+    # ── jobs ──────────────────────────────────────────────────────────────────
 
     def has_job(self, key: str) -> bool:
         with self._conn() as c:
@@ -58,6 +67,8 @@ class State:
                 (key,),
             )
 
+    # ── emails ────────────────────────────────────────────────────────────────
+
     def has_email(self, message_id: str) -> bool:
         with self._conn() as c:
             cur = c.execute("SELECT 1 FROM seen_emails WHERE message_id = ?", (message_id,))
@@ -68,4 +79,24 @@ class State:
             c.execute(
                 "INSERT OR IGNORE INTO seen_emails (message_id) VALUES (?)",
                 (message_id,),
+            )
+
+    # ── outreach ──────────────────────────────────────────────────────────────
+
+    def recently_suggested_outreach(self, company: str, within_days: int = 21) -> bool:
+        """True if this company was included in a digest within the last N days."""
+        with self._conn() as c:
+            cur = c.execute(
+                "SELECT 1 FROM outreach_targets WHERE company = ? "
+                "AND suggested_at > datetime('now', ?)",
+                (company, f"-{within_days} days"),
+            )
+            return cur.fetchone() is not None
+
+    def record_outreach_suggestion(self, company: str, contact_name: str, contact_title: str) -> None:
+        with self._conn() as c:
+            c.execute(
+                "INSERT OR REPLACE INTO outreach_targets (company, contact_name, contact_title) "
+                "VALUES (?, ?, ?)",
+                (company, contact_name, contact_title),
             )
