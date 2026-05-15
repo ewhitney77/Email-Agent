@@ -138,13 +138,14 @@ def score_new_jobs(
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main() -> int:
-    load_dotenv()
+    # Explicitly resolve the repo root so load_dotenv works on Windows
+    # regardless of which directory the user runs the command from.
+    root = Path(__file__).resolve().parents[2]
+    load_dotenv(dotenv_path=root / ".env")
     logging.basicConfig(
         level=os.environ.get("LOG_LEVEL", "INFO"),
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
-
-    root = Path(__file__).resolve().parents[2]
     settings = load_yaml(root / "config" / "settings.yaml")
     companies_cfg = load_yaml(root / "config" / "companies.yaml")
     companies = companies_cfg.get("companies", []) or []
