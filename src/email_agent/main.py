@@ -186,6 +186,8 @@ def main() -> int:
     top_jobs = sorted(qualified, key=lambda s: s.score, reverse=True)[:top_n]
 
     # 4. Discover outreach targets (Part 2).
+    # Brief pause so scoring API calls don't eat into the outreach rate limit.
+    import time; time.sleep(15)
     log.info("Discovering outreach targets via Claude web search…")
     outreach_targets = discover_outreach_targets(
         client=client,
