@@ -1,123 +1,136 @@
-# Email Job-Search Agent
+# Semantic Job-Posting Monitor
 
-Watches your Gmail and a list of target companies' career boards for Product
-Manager / Data PM / AI PM roles, tailors your resume to each match, and emails
-you a digest with the tailored resumes attached.
+Watches target company career pages and alerts you when a **new** posting
+**semantically** matches your ideal-role profile — no reliance on job-title
+keywords. Everything runs locally; no cloud infrastructure required.
 
-## What it does
+## How it works
 
-1. **Gmail scrape.** Searches the last N days of your inbox for job-related
-   emails from your target companies (recruiter outreach, listing alerts).
-2. **ATS poll.** Hits the public job-board APIs of every target company:
-   Greenhouse, Lever, Ashby, and best-effort Workday.
-3. **Match.** Filters titles with cheap keyword rules; uses Claude only for
-   borderline cases (Product Lead, Head of Product, etc.).
-4. **Tailor.** For each match, uses Claude to produce a resume tailored to the
-   role. Hard rule in the prompt: **never invent or change figures, employers,
-   dates, titles, or technologies** — only rephrase, reorder, and reweight.
-5. **Notify.** Sends you a digest email (from your own Gmail account) with the
-   tailored resumes attached.
+```
+targets.json ──▶ scraper ──▶ new postings ──▶ matcher ──▶ alerts
+(companies +     (requests/   (vs. local      (embeddings +  (matches.log
+ careers URLs)    Playwright)   seen-store)     cosine sim)    + email)
+                                                    ▲
+                                            ideal_roles/*.txt
+                                          (sample target roles)
+```
 
-State is tracked in SQLite, so you only get alerted about each posting once.
+1. **`targets.json`** — the companies you watch and their careers URLs.
+2. **Scraper** (`jobmonitor/scraper.py`) — fetches each listing page, parses out
+   individual postings, follows each link for the full description, and skips
+   anything already recorded in the local seen-store.
+3. **Matcher** (`jobmonitor/matcher.py`) — embeds each new posting and every file
+   in `ideal_roles/`, then scores the posting by its highest cosine similarity to
+   any of your ideal roles. Above the threshold → flagged.
+4. **Alerts** (`jobmonitor/alerts.py`) — writes flagged matches to `matches.log`
+   and (optionally) emails you a digest via SMTP.
 
-## Setup
+## Install
 
-### 1. Install
+Requires Python 3.10+.
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env
-# Fill in ANTHROPIC_API_KEY and NOTIFY_EMAIL in .env
+
+# Needed only if a career page is JavaScript-rendered (the scraper auto-detects
+# this and falls back to Playwright):
+playwright install chromium
 ```
 
-### 2. Configure Google OAuth (for Gmail)
+The default embedding backend is **sentence-transformers** — free and fully
+local (the first run downloads the `all-MiniLM-L6-v2` model, ~80 MB). To use
+OpenAI instead, see "Configuration" below.
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/) → create a project
-2. Enable the **Gmail API** for the project
-3. Configure OAuth consent screen (External, your own email as test user)
-4. Create OAuth 2.0 Client ID → **Desktop app** → download the JSON
-5. Save it to `./secrets/client_secret.json` (or set `GOOGLE_CLIENT_SECRETS` in
-   `.env` to point elsewhere)
+## Configure
 
-First run will pop a browser asking you to grant Gmail read + send access.
-After that, the token is cached.
+### 1. Companies to watch — `targets.json`
 
-### 3. Add your master resume
-
-Replace `config/resume_master.md` with your actual resume in markdown. The
-agent will refuse to run while the placeholder is still in place.
-
-### 4. Add target companies
-
-Edit `config/companies.yaml`. Each entry needs a `name` and at least one ATS
-handle. To find a handle, look at the company's career page URL:
-
-| Career page                              | ATS         | Handle    |
-| ---------------------------------------- | ----------- | --------- |
-| `boards.greenhouse.io/stripe`            | Greenhouse  | `stripe`  |
-| `jobs.lever.co/netflix`                  | Lever       | `netflix` |
-| `jobs.ashbyhq.com/anthropic`             | Ashby       | `anthropic` |
-| `xyz.wd1.myworkdayjobs.com/External`     | Workday     | tenant=`xyz`, host=`wd1`, site=`External` |
-
-Example:
-
-```yaml
-companies:
-  - name: Anthropic
-    ashby: anthropic
-  - name: Stripe
-    greenhouse: stripe
-  - name: Netflix
-    workday:
-      tenant: netflix
-      site: Netflix_External
-      host: wd1
+```json
+[
+  { "company": "Cribl", "url": "https://cribl.io/careers/" }
+]
 ```
 
-### 5. Tune settings
+Optional per-target fields:
 
-`config/settings.yaml` controls target roles, Gmail lookback window, model
-choice, and per-run tailoring cap.
+| field           | default  | meaning                                                            |
+| --------------- | -------- | ------------------------------------------------------------------ |
+| `render`        | `"auto"` | `"static"` (requests only), `"js"` (Playwright only), or `"auto"`  |
+| `link_selector` | `null`   | CSS selector for posting links, overriding the generic heuristic   |
+
+`targets.json` ships pre-seeded with: Cribl, Zillow, Snowflake, Dynatrace,
+Datadog, HubSpot, Wasabi Technologies, Cyera, and Snyk. ("Boston Tech Companies"
+from the brief isn't a single page — add specific companies/URLs as you find
+them.)
+
+### 2. Ideal roles — `ideal_roles/*.txt`
+
+Drop one `.txt` file per sample job description you'd love to land. Two are
+included to calibrate matching (a Cribl Sr. PM – Pipeline Generation role and a
+Distribution Intelligence / AI Strategy PM role). The more representative
+samples you add, the better the matching.
+
+### 3. Settings — `.env` (optional)
+
+Copy `.env.example` to `.env`. Defaults work with no config. Key options:
+
+- `MATCH_THRESHOLD` (default `0.75`) — similarity cutoff for a flag.
+- `EMBEDDING_BACKEND` — `sentence-transformers` (default) or `openai`.
+  For OpenAI set `OPENAI_API_KEY` and optionally
+  `OPENAI_EMBED_MODEL=text-embedding-ada-002`.
+- `SMTP_*` — set `SMTP_ENABLED=true` plus host/credentials to receive email
+  digests. For Gmail, use an [App Password](https://support.google.com/accounts/answer/185833).
 
 ## Run
 
 ```bash
-python -m email_agent.main
+python -m jobmonitor.run                 # one full pass over all targets
+python -m jobmonitor.run --company Cribl  # just one company
+python -m jobmonitor.run --threshold 0.8  # override threshold for this run
+python -m jobmonitor.run --dry-run        # score but don't persist state / email
+python -m jobmonitor.run --reprocess      # re-score everything, ignoring seen-store
 ```
 
-Schedule it with cron / launchd / GitHub Actions for daily runs:
+First run is the noisiest — every posting is "new". After that, only postings
+not yet in `state/seen.json` are fetched and scored.
+
+Output: flagged matches are appended to `matches.log`, one tab-separated line:
+
+```
+<timestamp>  <company>  <title>  score=<0.xxxx>  matched_role=<file>  <url>
+```
+
+## Schedule it
+
+### macOS / Linux (cron) — every 6 hours
 
 ```cron
-0 8 * * * cd /path/to/Email-Agent && /usr/bin/python -m email_agent.main >> agent.log 2>&1
+0 */6 * * * cd /path/to/Email-Agent && /path/to/Email-Agent/.venv/bin/python -m jobmonitor.run >> cron.log 2>&1
 ```
 
-## Project layout
+Edit with `crontab -e`.
 
+### Windows (Task Scheduler)
+
+Create a Basic Task → trigger Daily/recurring → Action "Start a program":
+
+- Program: `C:\path\to\Email-Agent\.venv\Scripts\python.exe`
+- Arguments: `-m jobmonitor.run`
+- Start in: `C:\path\to\Email-Agent`
+
+## Tuning notes
+
+- **Career pages vary wildly.** The generic parser keeps links whose URL looks
+  like a job detail (`/jobs/`, `greenhouse.io`, `lever.co`, `myworkdayjobs`,
+  etc.). If a site returns 0 or junk postings, set a `link_selector` for that
+  target (inspect the page's HTML to find the right CSS selector), or set
+  `"render": "js"` to force Playwright.
+- **Threshold calibration.** Run with `--dry-run` and watch the printed scores
+  for postings you know are good vs. bad, then set `MATCH_THRESHOLD` between
+  them. 0.75 is a reasonable start for `all-MiniLM-L6-v2`; OpenAI embeddings
+  often sit a bit higher.
+- **Be a good citizen.** Scraping happens at human pace and only fetches new
+  postings; keep the schedule modest (a few times a day).
 ```
-config/
-  settings.yaml        # roles, model, lookback window
-  companies.yaml       # target companies + ATS handles
-  resume_master.md     # your master resume — paste here
-src/email_agent/
-  ats/                 # Greenhouse / Lever / Ashby / Workday clients
-  gmail_client.py      # OAuth, inbox scrape, send
-  matcher.py           # title prefilter + LLM judge
-  tailor.py            # Claude resume tailoring (with prompt caching)
-  notifier.py          # outbox files + Gmail digest
-  state.py             # SQLite seen-jobs store
-  main.py              # orchestrator
-```
-
-## Notes
-
-- **Resume integrity.** The tailor prompt is deliberate and strict: no
-  fabricated metrics, employers, dates, or technologies. Read
-  `src/email_agent/tailor.py` if you want to adjust the rules.
-- **Cost guard.** `max_tailored_per_run` (default 10) caps how many resumes
-  Claude tailors per run. Matches above the cap are still recorded; they'll
-  just wait for the next run.
-- **Workday is best-effort.** Workday tenants vary; if a company's endpoint
-  shape diverges, that company will silently return 0 jobs. Check the agent
-  logs.
-- **Gmail scope.** We use `gmail.readonly` + `gmail.send`. We never modify
-  or delete email.

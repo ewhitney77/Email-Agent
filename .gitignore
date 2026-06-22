@@ -6,10 +6,11 @@ venv/
 .env
 .env.local
 secrets/
-credentials.json
-token.json
-*.sqlite
-*.db
-outbox/
+
+# Local runtime state and outputs
+state/seen.json
+state/embed_cache.json
+matches.log
+
 .pytest_cache/
 .DS_Store

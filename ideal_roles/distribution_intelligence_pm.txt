@@ -1,0 +1,19 @@
+Product Manager - Distribution Intelligence & AI Strategy
+
+A data and AI product leadership role owning business intelligence, analytics, and data strategy for a distribution / go-to-market organization.
+
+Responsibilities:
+- Distribution Business Intelligence: Design and oversee the deployment of dashboards that deliver actionable, data-driven insights to sales teams (Tableau / Salesforce CRMA) that track distribution performance, advisor engagement, and asset flow attribution.
+- Stakeholder Collaboration: Partner with Distribution leadership and sales personnel to translate business solutions and pain points into technical requirements for data engineering teams.
+- Data Architecture: Lead the definition and alignment of client data models across multiple data sources to create a flexible, trusted foundation for Business Intelligence, Analytics, and Reporting.
+- Data Strategy & Roadmap: Define and execute a Distribution Intelligence roadmap and prioritize strategic client data initiatives for engineering and technology teams to implement within an enterprise distribution data lake. Prioritize the integration of CRM data (Salesforce), marketing automation, internal sales results, and third-party industry data.
+- AI Strategy & Roadmap: Develop an AI strategy working across teams that drives sustainable business growth, boosts internal productivity, and improves operational efficiency.
+
+Requirements:
+- Product management experience owning data platform, analytics, or business intelligence products for enterprise / GTM organizations.
+- Strong data architecture and data modeling orientation across multiple source systems.
+- Experience building dashboards and analytics with Tableau and/or Salesforce CRM Analytics.
+- Fluency with Salesforce CRM data and enterprise data lake / warehouse environments.
+- Ability to translate ambiguous business problems into scalable data and AI solutions by partnering with engineering and data science.
+- Experience defining and executing data and AI strategy and roadmaps.
+- Strong cross-functional stakeholder management and communication.

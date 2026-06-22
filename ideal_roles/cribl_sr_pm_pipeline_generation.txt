@@ -1,0 +1,36 @@
+Sr. Product Manager - Pipeline Generation Systems
+
+We are seeking a talented and experienced Sr. Product Manager to focus on Cribl's Pipeline Generation Systems portfolio.
+
+This is a high-impact AI innovation role focused on finding and scaling practical ways AI can increase pipeline across Marketing and Sales. You will partner closely with business stakeholders to shape the roadmap for the systems, workflows, and data foundations behind lead capture, prioritization, routing, attribution, personalization, and orchestration.
+
+Sitting at the intersection of go-to-market strategy, enterprise systems, and AI innovation, you will help turn promising ideas into measurable business outcomes.
+
+Responsibilities:
+- AI Innovation Strategy for Pipeline Generation: Define and execute a compelling product vision and roadmap centered on how AI can materially increase pipeline, improve seller focus, and make GTM execution more intelligent across lead capture, prioritization, routing, attribution, and account-based motions.
+- AI Use Case Discovery & Facilitation: Partner with Marketing, SDR, Sales, and RevOps stakeholders to identify high-value AI opportunities, facilitate tradeoff discussions, and translate business pain points into practical experiments, product requirements, and scalable delivery plans.
+- Account Prioritization, Personalization & Orchestration: Drive roadmap investments that help identify, rank, and activate against the highest-value accounts through AI-assisted account scoring, richer account context, seller-facing insights, and scalable personalization workflows.
+- Lead-to-Account, Routing & Data Quality Foundations: Own the product strategy for the data and workflow patterns that ensure leads and accounts are matched, normalized, enriched, and routed correctly.
+- Marketing Attribution & Campaign Intelligence: Partner with Marketing and RevOps leaders to improve how campaigns and demand programs are measured, connecting engagement signals, campaign-member data, and opportunity creation.
+- Vendor & Platform Evaluation: Evaluate and operationalize external tools and internal capabilities for enrichment, hierarchy management, prioritization, orchestration, and personalization platforms.
+- Cross-Functional Stakeholder Partnership: Build strong relationships across Marketing, Sales Development, Revenue, Marketing and Revenue Operations teams, and technical teams.
+- Operational Excellence, Experimentation & Measurement: Define KPIs, success criteria, and experiment frameworks for pipeline generation systems.
+- Responsible AI Adoption in GTM Systems: Balance innovation with data quality, usability, operational readiness, and change management.
+
+Requirements:
+- 5+ years of product management experience in a B2B SaaS environment, ideally with ownership of internal systems, GTM systems, or revenue technology portfolios.
+- AI-forward product mindset: ability to spot where AI can create real business value and shape practical use cases.
+- Pipeline Generation / GTM Systems domain knowledge: demand generation, SDR workflows, lead management, attribution, enrichment, and account-based motions.
+- Salesforce ecosystem fluency: deep functional understanding of Salesforce supporting lead, contact, account, opportunity, campaign, and routing workflows.
+- Systems thinking and data quality orientation: identity, matching, hierarchy, normalization, sync behavior, and routing designed intentionally.
+- Stakeholder facilitation and influence across business and technical teams.
+- Analytical and experimental mindset using metrics, experimentation, and operational data.
+- Technical collaboration with engineering and systems teams.
+- Builder mentality, comfortable in ambiguity.
+- Exceptional written and verbal communication.
+
+Preferred:
+- Experience with Salesforce Sales Cloud, Marketo and adjacent GTM tooling for enrichment, routing, attribution, or orchestration.
+- Familiarity with ABX, account prioritization, and personalized digital experiences.
+- Experience building, piloting, or scaling agentic workflows or AI-assisted business process automation in a GTM, operations, or enterprise systems context.
+- Comfort operating in a high-growth, remote-first B2B SaaS environment.

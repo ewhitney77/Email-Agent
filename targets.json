@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Cribl",
+    "url": "https://cribl.io/careers/",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Zillow",
+    "url": "https://www.zillow.com/careers/",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Snowflake",
+    "url": "https://careers.snowflake.com/us/en/search-results",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Dynatrace",
+    "url": "https://careers.dynatrace.com/jobs/",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Datadog",
+    "url": "https://careers.datadoghq.com/all-jobs/",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "HubSpot",
+    "url": "https://www.hubspot.com/careers/jobs",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Wasabi Technologies",
+    "url": "https://wasabi.com/company/careers",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Cyera",
+    "url": "https://www.cyera.com/careers",
+    "render": "auto",
+    "link_selector": null
+  },
+  {
+    "company": "Snyk",
+    "url": "https://snyk.io/careers/",
+    "render": "auto",
+    "link_selector": null
+  }
+]
