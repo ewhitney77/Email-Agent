@@ -11,7 +11,7 @@
   },
   {
     "company": "Snyk",
-    "url": "https://snyk.io/careers/",
+    "url": "https://job-boards.greenhouse.io/snyk",
     "ats": { "type": "greenhouse", "token": "snyk" }
   },
   {
@@ -27,12 +27,13 @@
   {
     "company": "Cyera",
     "url": "https://www.cyera.com/careers",
+    "render": "js",
     "ats": { "type": "greenhouse", "token": "cyera" }
   },
   {
     "company": "Dynatrace",
     "url": "https://careers.dynatrace.com/",
-    "ats": { "type": "smartrecruiters", "company": "dynatrace1" }
+    "ats": { "type": "smartrecruiters", "company": "Dynatrace1" }
   },
   {
     "company": "Zillow",

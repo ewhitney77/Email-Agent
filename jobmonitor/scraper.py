@@ -253,8 +253,10 @@ def scrape_target(target: dict, cfg: Config) -> list[Posting]:
     Prefers the target's ATS API (postings come back with descriptions already
     populated). Falls back to generic HTML scraping otherwise.
     """
+    # Prefer the ATS API; if it's declared but returns nothing (e.g. the board's
+    # JSON API is disabled or the id is wrong), fall through to HTML scraping.
     ats_postings = _fetch_via_ats(target, cfg)
-    if ats_postings is not None:
+    if ats_postings:
         return ats_postings
 
     render = target.get("render", "auto")
