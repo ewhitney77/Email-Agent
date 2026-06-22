@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-06-22T00:00:00+00:00",
+  "threshold": 0.75,
+  "embedding_backend": "sentence-transformers",
+  "ideal_roles": [
+    "cribl_sr_pm_pipeline_generation",
+    "distribution_intelligence_pm"
+  ],
+  "company_count": 2,
+  "total_matches": 2,
+  "sample": true,
+  "companies": [
+    {
+      "company": "Cribl",
+      "url": "https://cribl.io/careers/",
+      "error": null,
+      "match_count": 2,
+      "top_score": 0.83,
+      "roles": [
+        {
+          "title": "Sr. Product Manager - Pipeline Generation Systems",
+          "url": "https://cribl.io/careers/",
+          "score": 0.83,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Manager - GTM Data & Analytics",
+          "url": "https://cribl.io/careers/",
+          "score": 0.78,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Staff Software Engineer, Stream",
+          "url": "https://cribl.io/careers/",
+          "score": 0.41,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com/us/en/search-results",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.62,
+      "roles": [
+        {
+          "title": "Senior Product Manager, Data Platform",
+          "url": "https://careers.snowflake.com/us/en/search-results",
+          "score": 0.62,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sales Engineer",
+          "url": "https://careers.snowflake.com/us/en/search-results",
+          "score": 0.33,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    }
+  ]
+}
