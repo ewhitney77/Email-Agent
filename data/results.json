@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-22T18:03:39+00:00",
-  "threshold": 0.75,
+  "generated_at": "2026-06-22T18:16:55+00:00",
+  "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
     "cribl_sr_pm_pipeline_generation",
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 1,
+  "total_matches": 28,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 1,
+      "match_count": 23,
       "top_score": 0.8236,
       "roles": [
         {
@@ -27,154 +27,154 @@
           "title": "Regional Sales Manager, Minneapolis (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
           "score": 0.6447,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Colorado (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5826128004",
           "score": 0.6444,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sr Revenue Operations Analyst",
           "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
           "score": 0.6441,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, PacNW (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5730993004",
           "score": 0.6402,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, France (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5777906004",
           "score": 0.6371,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Ottawa (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5753996004",
           "score": 0.6328,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Atlanta (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
           "score": 0.6295,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Western Canada (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5814097004",
           "score": 0.628,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Minneapolis (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
           "score": 0.6216,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, NYC (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5720688004",
           "score": 0.6208,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Mid-Atlantic (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5809784004",
           "score": 0.6205,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Indianapolis (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
           "score": 0.6191,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Montreal (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5781943004",
           "score": 0.6164,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Philadelphia (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
           "score": 0.6156,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Miami (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6026759004",
           "score": 0.6125,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Director, Midwest (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5990909004",
           "score": 0.6124,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Product Sales Specialist - ASEAN",
           "url": "https://cribl.io/job-detail/?gh_jid=6019222004",
           "score": 0.6099,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Director, Ohio Valley (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
           "score": 0.6094,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Bay Area (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5787981004",
           "score": 0.6093,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Director, Australia (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
           "score": 0.6039,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Director, UK (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5978949004",
           "score": 0.6029,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Engineer, Storage & Analysis (West region)",
           "url": "https://cribl.io/job-detail/?gh_jid=5711526004",
           "score": 0.6025,
-          "matched": false,
+          "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
@@ -442,14 +442,14 @@
       "company": "Datadog",
       "url": "https://careers.datadoghq.com/all-jobs/",
       "error": null,
-      "match_count": 0,
+      "match_count": 1,
       "top_score": 0.6518,
       "roles": [
         {
           "title": "Director, Product Management - AI Observability",
           "url": "https://careers.datadoghq.com/detail/7798672/?gh_jid=7798672",
           "score": 0.6518,
-          "matched": false,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
@@ -871,35 +871,35 @@
       "company": "Cyera",
       "url": "https://www.cyera.com/careers",
       "error": null,
-      "match_count": 0,
+      "match_count": 4,
       "top_score": 0.6362,
       "roles": [
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/40.767",
           "score": 0.6362,
-          "matched": false,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/24.C60",
           "score": 0.6065,
-          "matched": false,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/06.F5B",
           "score": 0.605,
-          "matched": false,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/78.76E",
           "score": 0.6012,
-          "matched": false,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
@@ -1669,7 +1669,7 @@
         {
           "title": "Engineering Manager - Transformation & Data Lake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
-          "score": 0.5148,
+          "score": 0.5155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1683,7 +1683,14 @@
         {
           "title": "Senior Software Engineer - Customer Experience Engineering",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E9382DE39534A90A51624FB714641D5EXTERNALENUS3B15E96942D448C08E01A95985AEC533/Senior-Software-Engineer-Customer-Experience-Engineering",
-          "score": 0.4771,
+          "score": 0.477,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Enterprise Account Executive - Expansion",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
+          "score": 0.4743,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1721,13 +1728,6 @@
           "score": 0.3582,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Enterprise Account Executive - Expansion",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
-          "score": 0.3066,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
