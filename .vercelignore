@@ -1,0 +1,11 @@
+# The Python scrape/match pipeline runs in GitHub Actions, not on Vercel.
+# Hide it so Vercel builds the Next.js dashboard (which only needs the app
+# code + data/results.json) and doesn't auto-detect a Python project.
+jobmonitor/
+ideal_roles/
+state/
+.github/
+requirements.txt
+.env.example
+matches.log
+*.py
