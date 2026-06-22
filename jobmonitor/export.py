@@ -40,9 +40,11 @@ def build_snapshot(cfg: Config) -> dict:
             print(f"  ! scrape failed: {exc}")
 
         for posting in postings:
-            posting.description = fetch_description(
-                posting.url, cfg, target.get("render", "auto")
-            )
+            # ATS APIs already include the full description; only fetch when missing.
+            if not posting.description:
+                posting.description = fetch_description(
+                    posting.url, cfg, target.get("render", "auto")
+                )
             text = f"{posting.title}\n\n{posting.description}"
             result = matcher.score(text)
             roles.append(

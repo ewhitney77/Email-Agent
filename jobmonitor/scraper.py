@@ -13,6 +13,7 @@ override the heuristic.
 
 from __future__ import annotations
 
+import html as html_lib
 import re
 from dataclasses import dataclass
 from urllib.parse import urljoin, urlparse
@@ -156,8 +157,106 @@ def fetch_description(url: str, cfg: Config, render: str = "auto") -> str:
     return re.sub(r"\n{3,}", "\n\n", text)
 
 
+def _html_to_text(raw_html: str) -> str:
+    """Strip tags from an HTML fragment and normalize whitespace."""
+    soup = BeautifulSoup(raw_html or "", "html.parser")
+    return re.sub(r"\n{3,}", "\n\n", soup.get_text("\n", strip=True))
+
+
+# --------------------------------------------------------------------------- #
+# ATS APIs -- structured, reliable, and selector-free. Preferred when a target
+# declares an "ats" block in targets.json.
+# --------------------------------------------------------------------------- #
+def fetch_greenhouse(token: str, company: str, cfg: Config) -> list[Posting]:
+    """Greenhouse Job Board API. One call returns every job *with* full content.
+
+    https://developers.greenhouse.io/job-board.html
+    """
+    api = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
+    try:
+        resp = requests.get(api, timeout=cfg.request_timeout, headers={"User-Agent": cfg.user_agent})
+        resp.raise_for_status()
+        data = resp.json()
+    except (requests.RequestException, ValueError):
+        return []
+    postings: list[Posting] = []
+    for job in data.get("jobs", [])[: cfg.max_listings_per_company]:
+        content = html_lib.unescape(job.get("content", "") or "")
+        postings.append(
+            Posting(
+                company=company,
+                title=(job.get("title") or "").strip(),
+                url=job.get("absolute_url", ""),
+                description=_html_to_text(content),
+            )
+        )
+    return postings
+
+
+def fetch_smartrecruiters(company_id: str, company: str, cfg: Config) -> list[Posting]:
+    """SmartRecruiters public Posting API (list + per-posting detail for text).
+
+    https://dev.smartrecruiters.com/customer-api/posting-api/
+    """
+    base = f"https://api.smartrecruiters.com/v1/companies/{company_id}/postings"
+    try:
+        resp = requests.get(
+            base,
+            params={"limit": min(cfg.max_listings_per_company, 100)},
+            timeout=cfg.request_timeout,
+            headers={"User-Agent": cfg.user_agent},
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except (requests.RequestException, ValueError):
+        return []
+
+    postings: list[Posting] = []
+    for item in data.get("content", [])[: cfg.max_listings_per_company]:
+        pid = item.get("id")
+        title = (item.get("name") or "").strip()
+        apply_url = f"https://careers.smartrecruiters.com/{company_id}/{pid}"
+        description = ""
+        try:
+            detail = requests.get(
+                f"{base}/{pid}", timeout=cfg.request_timeout, headers={"User-Agent": cfg.user_agent}
+            )
+            if detail.ok:
+                sections = (detail.json().get("jobAd") or {}).get("sections") or {}
+                parts = []
+                for key in ("companyDescription", "jobDescription", "qualifications", "additionalInformation"):
+                    text = (sections.get(key) or {}).get("text") or ""
+                    if text:
+                        parts.append(_html_to_text(html_lib.unescape(text)))
+                description = "\n\n".join(parts)
+        except (requests.RequestException, ValueError):
+            pass
+        postings.append(Posting(company=company, title=title, url=apply_url, description=description))
+    return postings
+
+
+def _fetch_via_ats(target: dict, cfg: Config) -> list[Posting] | None:
+    """Dispatch to an ATS API if the target declares one; else None."""
+    ats = target.get("ats") or {}
+    atype = (ats.get("type") or "").lower()
+    company = target.get("company", "")
+    if atype == "greenhouse" and ats.get("token"):
+        return fetch_greenhouse(ats["token"], company, cfg)
+    if atype == "smartrecruiters" and ats.get("company"):
+        return fetch_smartrecruiters(ats["company"], company, cfg)
+    return None
+
+
 def scrape_target(target: dict, cfg: Config) -> list[Posting]:
-    """Return all postings (without descriptions) found on one target page."""
+    """Return postings for one target.
+
+    Prefers the target's ATS API (postings come back with descriptions already
+    populated). Falls back to generic HTML scraping otherwise.
+    """
+    ats_postings = _fetch_via_ats(target, cfg)
+    if ats_postings is not None:
+        return ats_postings
+
     render = target.get("render", "auto")
     html = get_html(target["url"], cfg, render=render)
     if not html:

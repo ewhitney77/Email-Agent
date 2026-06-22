@@ -7,6 +7,15 @@ on:
   schedule:
     - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch: {} # allow manual runs from the Actions tab
+  push:
+    # Re-run a live scrape whenever the pipeline or target list changes.
+    # (data/results.json is intentionally excluded to avoid a commit loop.)
+    branches: ["claude/gmail-job-search-agent-kYxsf"]
+    paths:
+      - "targets.json"
+      - "ideal_roles/**"
+      - "jobmonitor/**"
+      - ".github/workflows/refresh.yml"
 
 permissions:
   contents: write

@@ -64,7 +64,8 @@ def main(argv: list[str] | None = None) -> int:
             if not args.reprocess and store.has(posting.url):
                 continue
             new_count += 1
-            posting.description = fetch_description(posting.url, cfg, target.get("render", "auto"))
+            if not posting.description:
+                posting.description = fetch_description(posting.url, cfg, target.get("render", "auto"))
             text = f"{posting.title}\n\n{posting.description}"
             matched, result = matcher.is_match(text)
 

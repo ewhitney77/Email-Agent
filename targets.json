@@ -1,56 +1,49 @@
 [
   {
     "company": "Cribl",
-    "url": "https://cribl.io/careers/",
-    "render": "auto",
-    "link_selector": null
+    "url": "https://boards.greenhouse.io/cribl",
+    "ats": { "type": "greenhouse", "token": "cribl" }
+  },
+  {
+    "company": "Datadog",
+    "url": "https://careers.datadoghq.com/all-jobs/",
+    "ats": { "type": "greenhouse", "token": "datadog" }
+  },
+  {
+    "company": "Snyk",
+    "url": "https://snyk.io/careers/",
+    "ats": { "type": "greenhouse", "token": "snyk" }
+  },
+  {
+    "company": "HubSpot",
+    "url": "https://www.hubspot.com/careers/jobs",
+    "ats": { "type": "greenhouse", "token": "hubspotjobs" }
+  },
+  {
+    "company": "Wasabi Technologies",
+    "url": "https://wasabi.com/company/careers",
+    "ats": { "type": "greenhouse", "token": "wasabi" }
+  },
+  {
+    "company": "Cyera",
+    "url": "https://www.cyera.com/careers",
+    "ats": { "type": "greenhouse", "token": "cyera" }
+  },
+  {
+    "company": "Dynatrace",
+    "url": "https://careers.dynatrace.com/",
+    "ats": { "type": "smartrecruiters", "company": "dynatrace1" }
   },
   {
     "company": "Zillow",
-    "url": "https://www.zillow.com/careers/",
-    "render": "auto",
+    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+    "render": "js",
     "link_selector": null
   },
   {
     "company": "Snowflake",
     "url": "https://careers.snowflake.com/us/en/search-results",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "Dynatrace",
-    "url": "https://careers.dynatrace.com/jobs/",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "Datadog",
-    "url": "https://careers.datadoghq.com/all-jobs/",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "HubSpot",
-    "url": "https://www.hubspot.com/careers/jobs",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "Wasabi Technologies",
-    "url": "https://wasabi.com/company/careers",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "Cyera",
-    "url": "https://www.cyera.com/careers",
-    "render": "auto",
-    "link_selector": null
-  },
-  {
-    "company": "Snyk",
-    "url": "https://snyk.io/careers/",
-    "render": "auto",
+    "render": "js",
     "link_selector": null
   }
 ]
