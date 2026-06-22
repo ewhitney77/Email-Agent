@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T17:53:46+00:00",
+  "generated_at": "2026-06-22T18:03:39+00:00",
   "threshold": 0.75,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -868,6 +868,120 @@
       ]
     },
     {
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.6362,
+      "roles": [
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/40.767",
+          "score": 0.6362,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/24.C60",
+          "score": 0.6065,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/06.F5B",
+          "score": 0.605,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/78.76E",
+          "score": 0.6012,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/15.548",
+          "score": 0.5888,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A40",
+          "score": 0.5857,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1D.C62",
+          "score": 0.5712,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63",
+          "score": 0.5707,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B1.953",
+          "score": 0.5694,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.765",
+          "score": 0.5666,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FF.C63",
+          "score": 0.5587,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.C64",
+          "score": 0.551,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D",
+          "score": 0.5393,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/83.C64",
+          "score": 0.5342,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.252",
+          "score": 0.4848,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
       "company": "Zillow",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
@@ -1574,13 +1688,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Enterprise Account Executive - Expansion",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
-          "score": 0.4743,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Sr. Partner Development Manager, Financial Services DCP Partners",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS390E7780319B4B35A2E170420E5327A6EXTERNALENUSBAF7212241D843D28B2EE334B6563290/Sr-Partner-Development-Manager-Financial-Services-DCP-Partners",
           "score": 0.4704,
@@ -1604,7 +1711,7 @@
         {
           "title": "Account Executive, Latin America",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD5CC4AABF504344843C5B9BCF53AB57EXTERNALENUSDC878BA0062A496F8B5AD40B3210EAFC/Account-Executive-Latin-America",
-          "score": 0.3946,
+          "score": 0.3939,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1614,28 +1721,56 @@
           "score": 0.3582,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Enterprise Account Executive - Expansion",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
+          "score": 0.3066,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Dynatrace",
+      "url": "https://careers.dynatrace.com/",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.2981,
+      "roles": [
+        {
+          "title": "Explore what it's like working here",
+          "url": "https://www.dynatrace.com/careers/being-a-dynatracer/",
+          "score": 0.2981,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "See more",
+          "url": "https://www.dynatrace.com/careers/locations/boston/",
+          "score": 0.2325,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "See more",
+          "url": "https://www.dynatrace.com/careers/locations/linz/",
+          "score": 0.2176,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "See all our locations",
+          "url": "https://www.dynatrace.com/careers/locations/",
+          "score": 0.2145,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
     {
       "company": "Snyk",
-      "url": "https://snyk.io/careers/",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.0,
-      "roles": []
-    },
-    {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.0,
-      "roles": []
-    },
-    {
-      "company": "Dynatrace",
-      "url": "https://careers.dynatrace.com/",
+      "url": "https://job-boards.greenhouse.io/snyk",
       "error": null,
       "match_count": 0,
       "top_score": 0.0,
