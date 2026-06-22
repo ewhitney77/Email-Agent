@@ -142,7 +142,8 @@ samples you add, the better the matching.
 
 Copy `.env.example` to `.env`. Defaults work with no config. Key options:
 
-- `MATCH_THRESHOLD` (default `0.75`) — similarity cutoff for a flag.
+- `MATCH_THRESHOLD` (default `0.60`) — similarity cutoff for a flag. Tuned for
+  the local `all-MiniLM-L6-v2` model, whose cosine scores run lower than OpenAI's.
 - `EMBEDDING_BACKEND` — `sentence-transformers` (default) or `openai`.
   For OpenAI set `OPENAI_API_KEY` and optionally
   `OPENAI_EMBED_MODEL=text-embedding-ada-002`.
@@ -195,8 +196,8 @@ Create a Basic Task → trigger Daily/recurring → Action "Start a program":
   `"render": "js"` to force Playwright.
 - **Threshold calibration.** Run with `--dry-run` and watch the printed scores
   for postings you know are good vs. bad, then set `MATCH_THRESHOLD` between
-  them. 0.75 is a reasonable start for `all-MiniLM-L6-v2`; OpenAI embeddings
-  often sit a bit higher.
+  them. 0.60 is a reasonable start for `all-MiniLM-L6-v2`; OpenAI embeddings
+  often sit a bit higher (try ~0.78).
 - **Be a good citizen.** Scraping happens at human pace and only fetches new
   postings; keep the schedule modest (a few times a day).
 ```
