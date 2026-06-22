@@ -1,8 +1,55 @@
 # Semantic Job-Posting Monitor
 
-Watches target company career pages and alerts you when a **new** posting
-**semantically** matches your ideal-role profile — no reliance on job-title
-keywords. Everything runs locally; no cloud infrastructure required.
+Watches target company career pages and ranks open roles by how **semantically**
+they match your ideal-role profile — no reliance on job-title keywords. Ships
+with two front-ends:
+
+- **Web dashboard** (Next.js on Vercel) — open roles per company, stack-ranked
+  by match score, refreshed automatically. *(See "Web dashboard" below.)*
+- **CLI / email** (`python -m jobmonitor.run`) — local alerts + optional SMTP
+  digest. *(See "Run" below.)*
+
+## Web dashboard (Vercel + GitHub Action)
+
+```
+GitHub Action (cron)                 Vercel
+┌───────────────────────┐            ┌──────────────────────┐
+│ jobmonitor.export     │  commits   │ Next.js app reads    │
+│  scrape + score all   │ ─────────▶ │ data/results.json    │
+│  -> data/results.json │  redeploy  │ -> ranked dashboard  │
+└───────────────────────┘            └──────────────────────┘
+```
+
+The web app and the scraper never run on the same box: a scheduled GitHub
+Action (`.github/workflows/refresh.yml`) does the heavy lifting (Playwright +
+embeddings) every 6 hours, writes `data/results.json`, and commits it. Vercel
+serves the dashboard as static pages and redeploys whenever that file changes.
+
+**One-time setup:**
+
+1. **Import the repo into Vercel** → New Project → select this repo. Framework
+   preset auto-detects **Next.js**; root directory is the repo root. Deploy.
+2. **Enable the Action** → in GitHub, the workflow runs on its 6-hour schedule;
+   trigger the first run manually via **Actions → Refresh job matches → Run
+   workflow**. It commits live data, which triggers a Vercel deploy.
+   - The workflow needs write access — GitHub's default `GITHUB_TOKEN`
+     (Settings → Actions → General → Workflow permissions → *Read and write*)
+     is sufficient.
+3. (Optional) tune `MATCH_THRESHOLD` as a repository **Variable**.
+
+**Local preview of the dashboard:**
+
+```bash
+npm install
+npm run dev          # http://localhost:3000  (reads data/results.json)
+python -m jobmonitor.export   # regenerate data/results.json locally
+```
+
+---
+
+## CLI monitor
+
+The pieces below also work standalone, fully local, no cloud required.
 
 ## How it works
 

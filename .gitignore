@@ -14,3 +14,11 @@ matches.log
 
 .pytest_cache/
 .DS_Store
+
+# Node / Next.js (web dashboard)
+node_modules/
+.next/
+out/
+next-env.d.ts
+.vercel/
+*.tsbuildinfo
