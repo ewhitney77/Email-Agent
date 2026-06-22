@@ -104,8 +104,27 @@ Optional per-target fields:
 
 | field           | default  | meaning                                                            |
 | --------------- | -------- | ------------------------------------------------------------------ |
+| `ats`           | —        | Use a structured ATS API instead of HTML scraping (see below)      |
 | `render`        | `"auto"` | `"static"` (requests only), `"js"` (Playwright only), or `"auto"`  |
 | `link_selector` | `null`   | CSS selector for posting links, overriding the generic heuristic   |
+
+**ATS APIs (preferred — no selectors, no Playwright).** When a company hosts its
+jobs on Greenhouse or SmartRecruiters, point the target at the ATS API and get
+clean title + full description + URL for free:
+
+```json
+{ "company": "Cribl",     "url": "https://boards.greenhouse.io/cribl",
+  "ats": { "type": "greenhouse", "token": "cribl" } }
+
+{ "company": "Dynatrace", "url": "https://careers.dynatrace.com/",
+  "ats": { "type": "smartrecruiters", "company": "dynatrace1" } }
+```
+
+Find a Greenhouse `token` from the board URL (`boards.greenhouse.io/<token>`).
+The shipped `targets.json` already uses Greenhouse for Cribl, Datadog, Snyk,
+HubSpot, Wasabi, and Cyera, SmartRecruiters for Dynatrace, and HTML+Playwright
+for Zillow (Workday) and Snowflake. Targets without an `ats` block fall back to
+generic HTML scraping.
 
 `targets.json` ships pre-seeded with: Cribl, Zillow, Snowflake, Dynatrace,
 Datadog, HubSpot, Wasabi Technologies, Cyera, and Snyk. ("Boston Tech Companies"
