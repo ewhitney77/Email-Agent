@@ -62,7 +62,7 @@ class SmtpConfig:
 @dataclass
 class Config:
     # Matching
-    threshold: float = 0.75
+    threshold: float = 0.60
     embedding_backend: str = "sentence-transformers"  # or "openai"
     st_model: str = "all-MiniLM-L6-v2"
     openai_model: str = "text-embedding-3-small"  # ada-002 also supported
@@ -92,7 +92,7 @@ class Config:
             use_tls=_get_bool("SMTP_USE_TLS", True),
         )
         return cls(
-            threshold=float(os.getenv("MATCH_THRESHOLD", "0.75")),
+            threshold=float(os.getenv("MATCH_THRESHOLD", "0.60")),
             embedding_backend=os.getenv("EMBEDDING_BACKEND", "sentence-transformers"),
             st_model=os.getenv("ST_MODEL", "all-MiniLM-L6-v2"),
             openai_model=os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-small"),

@@ -46,7 +46,7 @@ jobs:
       - name: Build results snapshot
         env:
           # Override any of these via repository Variables/Secrets if desired.
-          MATCH_THRESHOLD: ${{ vars.MATCH_THRESHOLD || '0.75' }}
+          MATCH_THRESHOLD: ${{ vars.MATCH_THRESHOLD || '0.60' }}
           EMBEDDING_BACKEND: sentence-transformers
         run: python -m jobmonitor.export
 
