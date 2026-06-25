@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:42:37+00:00",
+  "generated_at": "2026-06-25T20:09:01+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 26,
+  "total_matches": 25,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 22,
+      "match_count": 21,
       "top_score": 0.8236,
       "roles": [
         {
@@ -132,13 +132,6 @@
           "title": "Regional Sales Manager, Bay Area (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5787981004",
           "score": 0.6093,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Italy",
-          "url": "https://cribl.io/job-detail/?gh_jid=5968686004",
-          "score": 0.6059,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -346,6 +339,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Technical Program Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=5990961004",
+          "score": 0.5016,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Sr Software Engineer, Edge",
           "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
           "score": 0.4986,
@@ -368,14 +368,14 @@
         },
         {
           "title": "Staff Professional Services Consultant",
-          "url": "https://cribl.io/job-detail/?gh_jid=6009315004",
+          "url": "https://cribl.io/job-detail/?gh_jid=5855125004",
           "score": 0.4872,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Staff Professional Services Consultant",
-          "url": "https://cribl.io/job-detail/?gh_jid=5855125004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6009315004",
           "score": 0.4872,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -685,14 +685,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -769,14 +769,14 @@
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
+          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
+          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -910,13 +910,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Mid-Market Account Executive, Agent Software and Advertising - Northeast Region",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Agent-Software-and-Advertising_P748828-2",
-          "score": 0.522,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Enterprise Sales Director",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Enterprise-Sales-Director_P750624-1",
           "score": 0.5116,
@@ -992,6 +985,13 @@
           "score": 0.3589,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Loan Officer Development Program (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P750514-1",
+          "score": 0.3265,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Credit Specialist",
@@ -1248,13 +1248,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Deal Desk Analyst",
-          "url": "https://www.hubspot.com/careers/jobs/8002751?gh_jid=8002751",
-          "score": 0.4602,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive, Small Business - Central & East Europe",
           "url": "https://www.hubspot.com/careers/jobs/5986171?gh_jid=5986171",
           "score": 0.4546,
@@ -1335,6 +1328,13 @@
           "title": "Account Executive (Mexican territory, Colombia based)",
           "url": "https://www.hubspot.com/careers/jobs/7137634?gh_jid=7137634",
           "score": 0.3963,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5097150?gh_jid=5097150",
+          "score": 0.3915,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1509,13 +1509,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Social Media Manager, Developer Community",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
-          "score": 0.4258,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Director, Technical Accounting",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS333156D2A51C454BAAD686652772D3B9EXTERNALENUS7D67F48C21D147FAAD41C69920532393/Director-Technical-Accounting",
           "score": 0.4177,
@@ -1528,118 +1521,11 @@
           "score": 0.3939,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5866,
-      "roles": [
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/E2.D69",
-          "score": 0.5866,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1D.C62",
-          "score": 0.5712,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63",
-          "score": 0.5707,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B1.953",
-          "score": 0.5694,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63-89.506",
-          "score": 0.5681,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.765",
-          "score": 0.5666,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FF.C63",
-          "score": 0.5587,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F1.757",
-          "score": 0.5555,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.C64",
-          "score": 0.551,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D",
-          "score": 0.5393,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/83.C64",
-          "score": 0.5342,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F2.D68",
-          "score": 0.495,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A5.76C",
-          "score": 0.4874,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.252",
-          "score": 0.4848,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/61.E26",
-          "score": 0.4847,
+          "title": "Senior Social Media Manager, Developer Community",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
+          "score": 0.2541,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1755,7 +1641,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2172,
+          "score": 0.2166,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1764,6 +1650,14 @@
     {
       "company": "Snyk",
       "url": "https://job-boards.greenhouse.io/snyk",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.0,
+      "roles": []
+    },
+    {
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
       "error": null,
       "match_count": 0,
       "top_score": 0.0,
