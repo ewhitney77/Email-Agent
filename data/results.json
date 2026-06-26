@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:35:24+00:00",
+  "generated_at": "2026-06-26T14:33:26+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 25,
+  "total_matches": 24,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 21,
+      "match_count": 20,
       "top_score": 0.8236,
       "roles": [
         {
@@ -139,13 +139,6 @@
           "title": "Regional Sales Director, Australia (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
           "score": 0.6039,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, UK (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5978949004",
-          "score": 0.6029,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -335,6 +328,13 @@
           "title": "Sr Information Systems Engineer, IT Engineering",
           "url": "https://cribl.io/job-detail/?gh_jid=6020491004",
           "score": 0.5036,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Technical Program manager, AI",
+          "url": "https://cribl.io/job-detail/?gh_jid=6099643004",
+          "score": 0.503,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1200,14 +1200,14 @@
         },
         {
           "title": "Business Development Representative Benelux Market (English-speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5220991?gh_jid=5220991",
+          "url": "https://www.hubspot.com/careers/jobs/6294339?gh_jid=6294339",
           "score": 0.4964,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative Benelux Market (English-speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/6294339?gh_jid=6294339",
+          "url": "https://www.hubspot.com/careers/jobs/5220991?gh_jid=5220991",
           "score": 0.4964,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1277,14 +1277,14 @@
         },
         {
           "title": "Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6667383?gh_jid=6667383",
+          "url": "https://www.hubspot.com/careers/jobs/6567378?gh_jid=6567378",
           "score": 0.4307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6567378?gh_jid=6567378",
+          "url": "https://www.hubspot.com/careers/jobs/6667383?gh_jid=6667383",
           "score": 0.4307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1332,16 +1332,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "German Customer Support Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/5097150?gh_jid=5097150",
-          "score": 0.3915,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive - Mid Market, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
           "score": 0.3867,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5094673?gh_jid=5094673",
+          "score": 0.3866,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1509,13 +1509,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Social Media Manager, Developer Community",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
-          "score": 0.4258,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Director, Technical Accounting",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS333156D2A51C454BAAD686652772D3B9EXTERNALENUS7D67F48C21D147FAAD41C69920532393/Director-Technical-Accounting",
           "score": 0.4177,
@@ -1528,6 +1521,13 @@
           "score": 0.3939,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Social Media Manager, Developer Community",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
+          "score": 0.2541,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
