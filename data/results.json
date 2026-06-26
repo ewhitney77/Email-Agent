@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T20:09:01+00:00",
+  "generated_at": "2026-06-26T03:59:11+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -368,14 +368,14 @@
         },
         {
           "title": "Staff Professional Services Consultant",
-          "url": "https://cribl.io/job-detail/?gh_jid=5855125004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6009315004",
           "score": 0.4872,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Staff Professional Services Consultant",
-          "url": "https://cribl.io/job-detail/?gh_jid=6009315004",
+          "url": "https://cribl.io/job-detail/?gh_jid=5855125004",
           "score": 0.4872,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1095,14 +1095,14 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
+          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
+          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1235,14 +1235,14 @@
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1403,14 +1403,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1509,6 +1509,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Social Media Manager, Developer Community",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
+          "score": 0.4258,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Director, Technical Accounting",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS333156D2A51C454BAAD686652772D3B9EXTERNALENUS7D67F48C21D147FAAD41C69920532393/Director-Technical-Accounting",
           "score": 0.4177,
@@ -1521,11 +1528,118 @@
           "score": 0.3939,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5866,
+      "roles": [
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/E2.D69",
+          "score": 0.5866,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Senior Social Media Manager, Developer Community",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
-          "score": 0.2541,
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1D.C62",
+          "score": 0.5712,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63",
+          "score": 0.5707,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B1.953",
+          "score": 0.5694,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63-89.506",
+          "score": 0.5681,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.765",
+          "score": 0.5666,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FF.C63",
+          "score": 0.5587,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F1.757",
+          "score": 0.5555,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.C64",
+          "score": 0.551,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D",
+          "score": 0.5393,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/83.C64",
+          "score": 0.5342,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F2.D68",
+          "score": 0.495,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A5.76C",
+          "score": 0.4874,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.252",
+          "score": 0.4848,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/61.E26",
+          "score": 0.4847,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1650,14 +1764,6 @@
     {
       "company": "Snyk",
       "url": "https://job-boards.greenhouse.io/snyk",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.0,
-      "roles": []
-    },
-    {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
       "error": null,
       "match_count": 0,
       "top_score": 0.0,
