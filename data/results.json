@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:59:11+00:00",
+  "generated_at": "2026-06-26T09:35:24+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -572,13 +572,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Customer Success Manager - Key Accounts, UKI (Dublin-based)",
-          "url": "https://careers.datadoghq.com/detail/8000877/?gh_jid=8000877",
-          "score": 0.5362,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive (Hong Kong Market)",
           "url": "https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037",
           "score": 0.5349,
@@ -607,6 +600,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Deal Desk Analyst - S\u00e3o Paulo",
+          "url": "https://careers.datadoghq.com/detail/7739837/?gh_jid=7739837",
+          "score": 0.5244,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Commercial Account Executive UKI/Nordics",
           "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176",
           "score": 0.5224,
@@ -615,14 +615,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -685,14 +685,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -769,14 +769,14 @@
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
+          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
+          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -872,145 +872,145 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 2,
-      "top_score": 0.6234,
+      "top_score": 0.6191,
       "roles": [
         {
           "title": "Senior Program Manager, Marketing PMO",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Program-Manager--Marketing-PMO_P750599-1",
-          "score": 0.6234,
+          "score": 0.6191,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Business Intelligence Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Manager_P749259",
-          "score": 0.6142,
+          "score": 0.6057,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Product Technologist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2",
-          "score": 0.5843,
+          "score": 0.5917,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Data Scientist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Data-Scientist_P750307-1",
-          "score": 0.5286,
+          "score": 0.5174,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mid-Market Account Executive, Agent Software and Advertising - Southeast Region",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Agent-Software-and-Advertising---Southeast-Region_P750744-2",
-          "score": 0.5227,
+          "score": 0.5157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Enterprise Sales Director",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Enterprise-Sales-Director_P750624-1",
-          "score": 0.5116,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Manager, Preferred",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Preferred_P750693-2",
-          "score": 0.4769,
+          "score": 0.5067,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Design Technologist, AI Design Tools",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1",
-          "score": 0.462,
+          "score": 0.4801,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Manager, Preferred",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Preferred_P750693-2",
+          "score": 0.4653,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Advisor, SMB, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--SMB--Rentals_P750644-1",
+          "score": 0.428,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Systems Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Systems-Engineer_P749827-1",
-          "score": 0.435,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Business Advisor, SMB, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--SMB--Rentals_P750644-1",
-          "score": 0.4298,
+          "score": 0.4264,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Product Manager, Renter Transactions & Partner Integrations",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Renter-Transactions---Partner-Integrations_P750355-1",
-          "score": 0.4006,
+          "score": 0.4005,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Growth Specialist, Preferred",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Specialist--Preferred_P750676-2",
-          "score": 0.3968,
+          "score": 0.3987,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Growth Advisor, Preferred",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Advisor--Preferred_P750674-2",
-          "score": 0.3925,
+          "score": 0.3959,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Technical Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750743",
-          "score": 0.3838,
+          "score": 0.3851,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Fraud Operations Consultant, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Consultant--Rentals_P750699",
-          "score": 0.3722,
+          "score": 0.3665,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Recruiter - Non Tech",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750746-1",
-          "score": 0.3589,
+          "score": 0.3595,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Loan Officer Development Program (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P750514-1",
-          "score": 0.3265,
+          "title": "Support Consultant, Showingtime",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Support-Consultant--Showingtime_P750678-1",
+          "score": 0.3378,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Credit Specialist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Credit-Specialist_P750724-1",
-          "score": 0.2808,
+          "title": "Loan Officer Development Program (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P750514-1",
+          "score": 0.3275,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Photographer, Zillow Media Experts (Atlanta, GA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-GA/Photographer--Zillow-Media-Experts_P750722",
-          "score": 0.1993,
+          "score": 0.2067,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Raleigh, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Photographer--Zillow-Media-Experts--Raleigh--NC-_P750622",
-          "score": 0.1557,
+          "score": 0.1645,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1532,120 +1532,6 @@
       ]
     },
     {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5866,
-      "roles": [
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/E2.D69",
-          "score": 0.5866,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1D.C62",
-          "score": 0.5712,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63",
-          "score": 0.5707,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B1.953",
-          "score": 0.5694,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C7.A63-89.506",
-          "score": 0.5681,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.765",
-          "score": 0.5666,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FF.C63",
-          "score": 0.5587,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F1.757",
-          "score": 0.5555,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.C64",
-          "score": 0.551,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D",
-          "score": 0.5393,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/83.C64",
-          "score": 0.5342,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/F2.D68",
-          "score": 0.495,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A5.76C",
-          "score": 0.4874,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.252",
-          "score": 0.4848,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/61.E26",
-          "score": 0.4847,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
       "company": "Wasabi Technologies",
       "url": "https://wasabi.com/company/careers",
       "error": null,
@@ -1764,6 +1650,14 @@
     {
       "company": "Snyk",
       "url": "https://job-boards.greenhouse.io/snyk",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.0,
+      "roles": []
+    },
+    {
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
       "error": null,
       "match_count": 0,
       "top_score": 0.0,
