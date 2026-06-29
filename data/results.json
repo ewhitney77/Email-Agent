@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:55:52+00:00",
+  "generated_at": "2026-06-29T20:05:02+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 23,
+  "total_matches": 22,
   "companies": [
     {
       "company": "Cribl",
@@ -167,13 +167,6 @@
           "title": "Commercial Sales Representative, NYC Metro",
           "url": "https://cribl.io/job-detail/?gh_jid=5999971004",
           "score": 0.5976,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Revenue Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6030860004",
-          "score": 0.5931,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -349,6 +342,13 @@
           "title": "Sr Software Engineer, Edge",
           "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
           "score": 0.4986,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Systems Analyst Lead",
+          "url": "https://cribl.io/job-detail/?gh_jid=5987795004",
+          "score": 0.4963,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -600,6 +600,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Commercial Account Executive - Israel",
+          "url": "https://careers.datadoghq.com/detail/8025860/?gh_jid=8025860",
+          "score": 0.525,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Deal Desk Analyst",
           "url": "https://careers.datadoghq.com/detail/8029988/?gh_jid=8029988",
           "score": 0.5248,
@@ -615,14 +622,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -705,13 +712,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Deal Desk Analyst - NYC",
-          "url": "https://careers.datadoghq.com/detail/7993638/?gh_jid=7993638",
-          "score": 0.5065,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Denver",
           "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788",
           "score": 0.5052,
@@ -769,14 +769,14 @@
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
+          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
+          "url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -862,162 +862,6 @@
           "title": "Customer Success Associate",
           "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779",
           "score": -0.0244,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 1,
-      "top_score": 0.6061,
-      "roles": [
-        {
-          "title": "Senior Business Intelligence Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Manager_P749259",
-          "score": 0.6061,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Data Scientist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Data-Scientist_P750307-1",
-          "score": 0.5192,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Mid-Market Account Executive, Agent Software and Advertising - Southeast Region",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Agent-Software-and-Advertising---Southeast-Region_P750744-2",
-          "score": 0.5161,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Enterprise Sales Director",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Enterprise-Sales-Director_P750624-1",
-          "score": 0.5068,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Design Technologist, AI Design Tools",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1",
-          "score": 0.4809,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Business Advisor, SMB, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--SMB--Rentals_P750644-1",
-          "score": 0.4285,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Systems Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Systems-Engineer_P749827-1",
-          "score": 0.4274,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Mid-Market Business Advisor, Single Family, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Business-Advisor--Single-Family--Rentals_P750577-2",
-          "score": 0.4128,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Principal Product Manager, Renter Transactions & Partner Integrations",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Renter-Transactions---Partner-Integrations_P750355-1",
-          "score": 0.4011,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Growth Specialist, Preferred",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Specialist--Preferred_P750676-2",
-          "score": 0.3989,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Growth Advisor, Preferred",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Advisor--Preferred_P750674-2",
-          "score": 0.3957,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mid-Market Account Executive, Single Family Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Single-Family-Rentals_P750642-1",
-          "score": 0.3921,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.368,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Fraud Operations Consultant, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Consultant--Rentals_P750699",
-          "score": 0.367,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Technical Recruiter",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750743",
-          "score": 0.3661,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Recruiter - Non Tech",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750746-1",
-          "score": 0.3635,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Account Executive, Single Family Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Account-Executive--Single-Family-Rentals_P750646-2",
-          "score": 0.3529,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (California)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Remote-Mortgage-Loan-Officer--California-_P749613-1",
-          "score": 0.3448,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P750514-1",
-          "score": 0.3245,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Photographer,Zillow Media Experts (Dallas, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TX/Photographer-Zillow-Media-Experts--Dallas--TX-_P750015-1",
-          "score": 0.1575,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1150,15 +994,22 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Business Development Representative - Iberia",
-          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
-          "score": 0.5212,
+          "title": "Business Development Representative - Italy",
+          "url": "https://www.hubspot.com/careers/jobs/8035116?gh_jid=8035116",
+          "score": 0.5258,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative - Iberia",
           "url": "https://www.hubspot.com/careers/jobs/7210306?gh_jid=7210306",
+          "score": 0.5212,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Development Representative - Iberia",
+          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
           "score": 0.5212,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1172,14 +1023,14 @@
         },
         {
           "title": "Account Executive, Mid Market - Sub Saharan Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
+          "url": "https://www.hubspot.com/careers/jobs/6024525?gh_jid=6024525",
           "score": 0.5036,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Mid Market - Sub Saharan Africa",
-          "url": "https://www.hubspot.com/careers/jobs/6024525?gh_jid=6024525",
+          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
           "score": 0.5036,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1200,14 +1051,14 @@
         },
         {
           "title": "Business Development Representative Benelux Market (English-speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/6294339?gh_jid=6294339",
+          "url": "https://www.hubspot.com/careers/jobs/5220991?gh_jid=5220991",
           "score": 0.4964,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative Benelux Market (English-speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5220991?gh_jid=5220991",
+          "url": "https://www.hubspot.com/careers/jobs/6294339?gh_jid=6294339",
           "score": 0.4964,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1277,14 +1128,14 @@
         },
         {
           "title": "Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6567378?gh_jid=6567378",
+          "url": "https://www.hubspot.com/careers/jobs/6667383?gh_jid=6667383",
           "score": 0.4307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6667383?gh_jid=6667383",
+          "url": "https://www.hubspot.com/careers/jobs/6567378?gh_jid=6567378",
           "score": 0.4307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1335,13 +1186,6 @@
           "title": "Account Executive - Mid Market, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
           "score": 0.3867,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "German Customer Support Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/5094673?gh_jid=5094673",
-          "score": 0.3866,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1532,6 +1376,162 @@
       ]
     },
     {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5242,
+      "roles": [
+        {
+          "title": "Principal Business Operations Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Business-Operations-Manager_P750600-2",
+          "score": 0.5242,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Applied Scientist, Shopping AI",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist--New-Construction_P749137-1",
+          "score": 0.4837,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Systems Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Systems-Engineer_P749827-1",
+          "score": 0.4274,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Mid-Market Business Advisor, Single Family, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Business-Advisor--Single-Family--Rentals_P750577-2",
+          "score": 0.4128,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Principal Product Manager, Renter Transactions & Partner Integrations",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Renter-Transactions---Partner-Integrations_P750355-1",
+          "score": 0.4011,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Mid-Market Account Executive, Single Family Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Single-Family-Rentals_P750642-1",
+          "score": 0.3921,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
+          "score": 0.368,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Plano, TX)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
+          "score": 0.3661,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Technical Recruiter",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750743",
+          "score": 0.3661,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Recruiter - Non Tech",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750746-1",
+          "score": 0.3635,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Account Executive, Single Family Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Account-Executive--Single-Family-Rentals_P750646-2",
+          "score": 0.3529,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Arkansas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
+          "score": 0.35,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (West Virginia)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
+          "score": 0.3492,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (California)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Remote-Mortgage-Loan-Officer--California-_P749613-1",
+          "score": 0.3448,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Iowa)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IA/Remote-Mortgage-Loan-Officer--Illinois-_P749649-1",
+          "score": 0.3414,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Oklahoma)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OK/Remote-Mortgage-Loan-Officer--Oklahoma-_P749656-1",
+          "score": 0.3391,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Texas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TX/Remote-Mortgage-Loan-Officer--Texas-_P749659-1",
+          "score": 0.3387,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P750514-1",
+          "score": 0.3245,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Connecticut)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CT/Remote-Mortgage-Loan-Officer--Connecticut-_P749575-1",
+          "score": 0.318,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Photographer,Zillow Media Experts (Dallas, TX)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TX/Photographer-Zillow-Media-Experts--Dallas--TX-_P750015-1",
+          "score": 0.2165,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Zillow\u2019s Global Applicant Privacy Notice",
+          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
+          "score": 0.0673,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
       "company": "Snowflake",
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
@@ -1542,6 +1542,13 @@
           "title": "Engineering Manager - Transformation & Data Lake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
           "score": 0.5148,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.4874,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1577,13 +1584,6 @@
           "title": "Principal Solutions Engineer Enablement Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
           "score": 0.4376,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Social Media Manager, Developer Community",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA84DE5F90249487DA5809E0AB68A2196EXTERNALENUS5948C8EF5A0E42198FD8FEA56305E931/Senior-Social-Media-Manager-Developer-Community",
-          "score": 0.4258,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1641,7 +1641,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2155,
+          "score": 0.215,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
