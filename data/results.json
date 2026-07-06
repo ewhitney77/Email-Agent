@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:25:50+00:00",
+  "generated_at": "2026-07-06T03:48:02+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -439,6 +439,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Product Management - Core Platforms",
+          "url": "https://careers.datadoghq.com/detail/7583609/?gh_jid=7583609",
+          "score": 0.5855,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Commercial & Mid-Market Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/7685641/?gh_jid=7685641",
           "score": 0.5753,
@@ -587,14 +594,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -657,14 +664,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -792,13 +799,6 @@
           "title": "Coordinator, Business Recruiting - Contract",
           "url": "https://careers.datadoghq.com/detail/7950433/?gh_jid=7950433",
           "score": 0.369,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Coordinator, Business Recruiting (Contract)",
-          "url": "https://careers.datadoghq.com/detail/7930201/?gh_jid=7930201",
-          "score": 0.3519,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1376,85 +1376,6 @@
       ]
     },
     {
-      "company": "Snowflake",
-      "url": "https://careers.snowflake.com/us/en/search-results",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5943,
-      "roles": [
-        {
-          "title": "Staff Product Manager - Pipelines & Orchestration",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS983D7350F35241629DEB3278E864E987EXTERNALENUSE1012C21C4BC4C989D030C8FE3C1727C/Staff-Product-Manager-Pipelines-Orchestration",
-          "score": 0.5943,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Engineering Manager - Transformation & Data Lake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
-          "score": 0.5148,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Field Marketing Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
-          "score": 0.4874,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer - Production Control Plane",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
-          "score": 0.4826,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Enterprise Account Executive - Expansion",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
-          "score": 0.4743,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7115B5DA9CF044618B47EC71B0EC1DC5EXTERNALENUS83DA282EFF9845A29849667CCE0766F0/Senior-Solution-Engineer",
-          "score": 0.4419,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Solutions Engineer Enablement Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.4376,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.3977,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Director, Technical Accounting",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS333156D2A51C454BAAD686652772D3B9EXTERNALENUS7D67F48C21D147FAAD41C69920532393/Director-Technical-Accounting",
-          "score": 0.2275,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Eastern Europe",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
-          "score": 0.1505,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
       "company": "Zillow",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
@@ -1677,6 +1598,85 @@
           "title": "Senior International Accountant",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5226941008",
           "score": 0.3815,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com/us/en/search-results",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5148,
+      "roles": [
+        {
+          "title": "Engineering Manager - Transformation & Data Lake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
+          "score": 0.5148,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.4874,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer - Production Control Plane",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
+          "score": 0.4826,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Enterprise Account Executive - Expansion",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
+          "score": 0.4743,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7115B5DA9CF044618B47EC71B0EC1DC5EXTERNALENUS83DA282EFF9845A29849667CCE0766F0/Senior-Solution-Engineer",
+          "score": 0.4419,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Commercial",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS08796C544CCF46B985BA50105BEE706BEXTERNALENUS70FA522FACBD467EAA1DDDCF078BB256/Account-Executive-Commercial",
+          "score": 0.4222,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Technical Accounting",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS333156D2A51C454BAAD686652772D3B9EXTERNALENUS7D67F48C21D147FAAD41C69920532393/Director-Technical-Accounting",
+          "score": 0.4177,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.3977,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Eastern Europe",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
+          "score": 0.377,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Principal Solutions Engineer Enablement Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
+          "score": 0.2915,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
