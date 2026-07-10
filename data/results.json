@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:36:26+00:00",
+  "generated_at": "2026-07-10T19:42:03+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -587,14 +587,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -657,14 +657,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -755,14 +755,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -855,20 +855,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D-87.500",
-          "score": 0.5713,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D",
-          "score": 0.5605,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/5C.A60",
           "score": 0.5484,
           "matched": false,
@@ -927,6 +913,20 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/D0.D66",
           "score": 0.4838,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D-87.500",
+          "score": 0.2603,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D",
+          "score": 0.2603,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1038,9 +1038,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Customer Success Manager",
-          "url": "https://www.hubspot.com/careers/jobs/7985634?gh_jid=7985634",
-          "score": 0.525,
+          "title": "Business Development Representative - Iberia",
+          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
+          "score": 0.5212,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1052,36 +1052,22 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Business Development Representative - Iberia",
-          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
-          "score": 0.5212,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Business Development Representative - MEA",
-          "url": "https://www.hubspot.com/careers/jobs/4930695?gh_jid=4930695",
-          "score": 0.5184,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager",
-          "url": "https://www.hubspot.com/careers/jobs/8050887?gh_jid=8050887",
-          "score": 0.516,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Mid Market - Sub Saharan Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
-          "score": 0.5036,
+          "url": "https://www.hubspot.com/careers/jobs/8038101?gh_jid=8038101",
+          "score": 0.5141,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Mid Market - Sub Saharan Africa",
           "url": "https://www.hubspot.com/careers/jobs/6024525?gh_jid=6024525",
+          "score": 0.5036,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Mid Market - Sub Saharan Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
           "score": 0.5036,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1123,14 +1109,14 @@
         },
         {
           "title": "Associate Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/8054930?gh_jid=8054930",
+          "url": "https://www.hubspot.com/careers/jobs/7979981?gh_jid=7979981",
           "score": 0.4737,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Associate Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/7979981?gh_jid=7979981",
+          "url": "https://www.hubspot.com/careers/jobs/8054930?gh_jid=8054930",
           "score": 0.4737,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1178,6 +1164,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Customer Success Manager, Small Business | ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
+          "score": 0.4425,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Latin America",
           "url": "https://www.hubspot.com/careers/jobs/5988680?gh_jid=5988680",
           "score": 0.4272,
@@ -1200,14 +1193,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1244,6 +1237,13 @@
           "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/5986964?gh_jid=5986964",
           "score": 0.4024,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Success Manager, 1:Few (Trilingual in English, Spanish & Portuguese)",
+          "url": "https://www.hubspot.com/careers/jobs/7095005?gh_jid=7095005",
+          "score": 0.4022,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1347,14 +1347,14 @@
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
+          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
+          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1448,13 +1448,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Field Marketing Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
-          "score": 0.4874,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Software Engineer - Production Control Plane",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
           "score": 0.4826,
@@ -1469,16 +1462,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
-          "score": 0.4419,
+          "title": "Executive Communications Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
+          "score": 0.4555,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Solutions Engineer Enablement Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.4376,
+          "score": 0.4384,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1504,11 +1497,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Eastern Europe",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
-          "score": 0.377,
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.3314,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Eastern Europe",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
+          "score": 0.1505,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1611,9 +1611,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.3268,
+          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
+          "score": 0.3249,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1655,7 +1655,7 @@
         {
           "title": "Photographer, Zillow Media Experts (Asheville, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Photographer--Zillow-Media-Experts--Asheville--NC-_P750872-1",
-          "score": 0.1731,
+          "score": 0.1726,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
