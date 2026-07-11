@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T02:52:04+00:00",
+  "generated_at": "2026-07-11T08:04:25+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1517,145 +1517,145 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4254,
+      "top_score": 0.4177,
       "roles": [
         {
           "title": "Manager - Rentals Collections",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager---Rentals-Collections_P750858-1",
-          "score": 0.4254,
+          "score": 0.4177,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Arkansas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
+          "score": 0.3508,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (North Dakota)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ND/Remote-Mortgage-Loan-Officer--North-Dakota-_P749655-1",
-          "score": 0.3572,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Arkansas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
-          "score": 0.3515,
+          "score": 0.3427,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Oklahoma)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OK/Remote-Mortgage-Loan-Officer--Oklahoma-_P749656-1",
-          "score": 0.3402,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (New Hampshire)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
-          "score": 0.3393,
+          "score": 0.3382,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Ohio)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OH/Remote-Mortgage-Loan-Officer--Ohio-_P749586-1",
-          "score": 0.3365,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Indiana)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IN/Remote-Mortgage-Loan-Officer--Indiana-_P749577-1",
-          "score": 0.3318,
+          "score": 0.335,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Massachusetts)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
-          "score": 0.3315,
+          "score": 0.3339,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Indiana)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IN/Remote-Mortgage-Loan-Officer--Indiana-_P749577-1",
+          "score": 0.3331,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (New Hampshire)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
+          "score": 0.3297,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Iowa)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IA/Remote-Mortgage-Loan-Officer--Illinois-_P749649-1",
-          "score": 0.3249,
+          "score": 0.3271,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Kentucky)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KY/Remote-Mortgage-Loan-Officer--Kentucky-_P749578-1",
-          "score": 0.3219,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Connecticut)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CT/Remote-Mortgage-Loan-Officer--Connecticut-_P749575-1",
-          "score": 0.3192,
+          "score": 0.321,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Minnesota)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MN/Remote-Mortgage-Loan-Officer--Minnesota-_P749651-1",
-          "score": 0.3175,
+          "score": 0.32,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Connecticut)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CT/Remote-Mortgage-Loan-Officer--Connecticut-_P749575-1",
+          "score": 0.3183,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (West Virginia)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
-          "score": 0.3145,
+          "score": 0.3174,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Michigan)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MI/Remote-Mortgage-Loan-Officer--Michigan-_P749581-1",
-          "score": 0.3051,
+          "score": 0.3076,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.3013,
+          "score": 0.3043,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Pennsylvania)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-PA/Remote-Mortgage-Loan-Officer--Pennsylvania-_P749587-1",
-          "score": 0.2956,
+          "score": 0.2977,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Photographer, Zillow Media Experts (Salt Lake City)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-UT/Photographer--Zillow-Media-Experts--Salt-Lake-City-_P750871-1",
-          "score": 0.2281,
+          "score": 0.2316,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Orlando, FL)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-FL/Photographer--Zillow-Media-Experts--Orlando--FL-_P750870-1",
-          "score": 0.2268,
+          "score": 0.2289,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Seattle, WA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Photographer--Zillow-Media-Experts_P750869-1",
-          "score": 0.1826,
+          "score": 0.1912,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Asheville, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Photographer--Zillow-Media-Experts--Asheville--NC-_P750872-1",
-          "score": 0.1726,
+          "score": 0.1731,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
