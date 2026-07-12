@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T03:00:12+00:00",
+  "generated_at": "2026-07-12T08:26:00+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -587,14 +587,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -755,14 +755,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -919,14 +919,14 @@
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D-87.500",
-          "score": 0.2587,
+          "score": 0.2606,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CB.06D",
-          "score": 0.2587,
+          "score": 0.2606,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1039,14 +1039,14 @@
         },
         {
           "title": "Business Development Representative - Iberia",
-          "url": "https://www.hubspot.com/careers/jobs/7210306?gh_jid=7210306",
+          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
           "score": 0.5212,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative - Iberia",
-          "url": "https://www.hubspot.com/careers/jobs/5137505?gh_jid=5137505",
+          "url": "https://www.hubspot.com/careers/jobs/7210306?gh_jid=7210306",
           "score": 0.5212,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1060,14 +1060,14 @@
         },
         {
           "title": "Account Executive, Mid Market - Sub Saharan Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
+          "url": "https://www.hubspot.com/careers/jobs/6024525?gh_jid=6024525",
           "score": 0.5036,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Mid Market - Sub Saharan Africa",
-          "url": "https://www.hubspot.com/careers/jobs/6024525?gh_jid=6024525",
+          "url": "https://www.hubspot.com/careers/jobs/5986400?gh_jid=5986400",
           "score": 0.5036,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1123,28 +1123,28 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
-          "score": 0.4647,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1186,6 +1186,13 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
@@ -1199,13 +1206,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
           "score": 0.4148,
@@ -1214,14 +1214,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1448,6 +1448,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.4874,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Software Engineer - Production Control Plane",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
           "score": 0.4826,
@@ -1458,13 +1465,6 @@
           "title": "Enterprise Account Executive - Expansion",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSB8EFD01DFD044326973FEF3B36968FD0EXTERNALENUS15390CE2D71D44C7BF55E9D7CFCF11A5/Enterprise-Account-Executive-Expansion",
           "score": 0.4743,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Executive Communications Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
-          "score": 0.4555,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1504,9 +1504,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Field Marketing Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
-          "score": 0.3314,
+          "title": "Executive Communications Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
+          "score": 0.2155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1517,12 +1517,12 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4177,
+      "top_score": 0.4176,
       "roles": [
         {
           "title": "Manager - Rentals Collections",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager---Rentals-Collections_P750858-1",
-          "score": 0.4177,
+          "score": 0.4176,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1536,7 +1536,7 @@
         {
           "title": "Remote Mortgage Loan Officer (North Dakota)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ND/Remote-Mortgage-Loan-Officer--North-Dakota-_P749655-1",
-          "score": 0.3427,
+          "score": 0.3424,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1550,20 +1550,20 @@
         {
           "title": "Remote Mortgage Loan Officer (Ohio)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OH/Remote-Mortgage-Loan-Officer--Ohio-_P749586-1",
-          "score": 0.335,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Massachusetts)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
-          "score": 0.3339,
+          "score": 0.3348,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Indiana)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IN/Remote-Mortgage-Loan-Officer--Indiana-_P749577-1",
+          "score": 0.3343,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Massachusetts)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
           "score": 0.3331,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1571,28 +1571,28 @@
         {
           "title": "Remote Mortgage Loan Officer (New Hampshire)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
-          "score": 0.3297,
+          "score": 0.3294,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Iowa)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IA/Remote-Mortgage-Loan-Officer--Illinois-_P749649-1",
-          "score": 0.3271,
+          "score": 0.3281,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Kentucky)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KY/Remote-Mortgage-Loan-Officer--Kentucky-_P749578-1",
-          "score": 0.321,
+          "score": 0.3208,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Minnesota)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MN/Remote-Mortgage-Loan-Officer--Minnesota-_P749651-1",
-          "score": 0.32,
+          "score": 0.3207,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1606,56 +1606,56 @@
         {
           "title": "Remote Mortgage Loan Officer (West Virginia)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
-          "score": 0.3174,
+          "score": 0.3127,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Michigan)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MI/Remote-Mortgage-Loan-Officer--Michigan-_P749581-1",
-          "score": 0.3076,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.3043,
+          "score": 0.3077,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Pennsylvania)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-PA/Remote-Mortgage-Loan-Officer--Pennsylvania-_P749587-1",
-          "score": 0.2977,
+          "score": 0.2984,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
+          "score": 0.2889,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Photographer, Zillow Media Experts (Salt Lake City)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-UT/Photographer--Zillow-Media-Experts--Salt-Lake-City-_P750871-1",
-          "score": 0.2316,
+          "score": 0.2315,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Orlando, FL)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-FL/Photographer--Zillow-Media-Experts--Orlando--FL-_P750870-1",
-          "score": 0.2289,
+          "score": 0.2291,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Seattle, WA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Photographer--Zillow-Media-Experts_P750869-1",
-          "score": 0.1912,
+          "score": 0.1913,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Asheville, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Photographer--Zillow-Media-Experts--Asheville--NC-_P750872-1",
-          "score": 0.1731,
+          "score": 0.1819,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
