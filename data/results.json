@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:28:45+00:00",
+  "generated_at": "2026-07-15T02:41:22+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 27,
+  "total_matches": 30,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 21,
+      "match_count": 22,
       "top_score": 0.8236,
       "roles": [
         {
@@ -27,6 +27,13 @@
           "title": "Regional Sales Manager (MSP)",
           "url": "https://cribl.io/job-detail/?gh_jid=5746406004",
           "score": 0.6534,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Dir Sales, EAST (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
+          "score": 0.6481,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -339,6 +346,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Technical Support Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
+          "score": 0.489,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Software Engineer, Infrastructure",
           "url": "https://cribl.io/job-detail/?gh_jid=5848459004",
           "score": 0.4824,
@@ -400,7 +414,7 @@
       "company": "Datadog",
       "url": "https://careers.datadoghq.com/all-jobs/",
       "error": null,
-      "match_count": 2,
+      "match_count": 3,
       "top_score": 0.6518,
       "roles": [
         {
@@ -414,6 +428,13 @@
           "title": "Analyst Relations Manager",
           "url": "https://careers.datadoghq.com/detail/8003021/?gh_jid=8003021",
           "score": 0.626,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Product Management - Infrastructure Monitoring",
+          "url": "https://careers.datadoghq.com/detail/7899504/?gh_jid=7899504",
+          "score": 0.6168,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
@@ -614,13 +635,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Customer Success Associate - Boston",
-          "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466",
-          "score": 0.5187,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive - Sao Paulo (Portuguese Speaking)",
           "url": "https://careers.datadoghq.com/detail/7792997/?gh_jid=7792997",
           "score": 0.5178,
@@ -762,14 +776,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -829,7 +843,7 @@
       "company": "Cyera",
       "url": "https://www.cyera.com/careers",
       "error": null,
-      "match_count": 3,
+      "match_count": 4,
       "top_score": 0.636,
       "roles": [
         {
@@ -855,9 +869,9 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/AF.36D",
-          "score": 0.5894,
-          "matched": false,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/68.76E",
+          "score": 0.6037,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
@@ -1369,156 +1383,19 @@
       ]
     },
     {
-      "company": "Wasabi Technologies",
-      "url": "https://wasabi.com/company/careers",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5592,
-      "roles": [
-        {
-          "title": "Senior AI Finance Analyst",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5257437008",
-          "score": 0.5592,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Sales Director, East",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5198198008",
-          "score": 0.5571,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Sales Director, West",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5198161008",
-          "score": 0.5518,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Principal Cloud Support Engineer",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5214686008",
-          "score": 0.4363,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Manager, Renewals",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5268197008",
-          "score": 0.4223,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Accountant",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5268241008",
-          "score": 0.4221,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Business Development Representative",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5263300008",
-          "score": 0.4196,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior International Accountant",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5226941008",
-          "score": 0.3815,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Snowflake",
-      "url": "https://careers.snowflake.com/us/en/search-results",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5148,
-      "roles": [
-        {
-          "title": "Engineering Manager - Transformation & Data Lake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
-          "score": 0.5148,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Executive Communications Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
-          "score": 0.4555,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
-          "score": 0.4419,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Solutions Engineer Enablement Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.4376,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Major Account Executive (FSI)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
-          "score": 0.4259,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
-          "score": 0.4156,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.3977,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer - Production Control Plane",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
-          "score": 0.3643,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Field Marketing Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
-          "score": 0.3314,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Eastern Europe",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
-          "score": 0.1505,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
       "company": "Zillow",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5047,
+      "top_score": 0.5827,
       "roles": [
+        {
+          "title": "Sr. Data Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Sr-Data-Scientist_P750864",
+          "score": 0.5827,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
         {
           "title": "Principal Data Scientist - Rentals Shopping",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Data-Scientist_P749116-1",
@@ -1530,6 +1407,13 @@
           "title": "Senior Strategic Sourcing Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Sourcing-Manager_P750825-1",
           "score": 0.4813,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Support Consultant, Follow Up Boss",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Support-Consultant--Follow-Up-Boss_P750570-1",
+          "score": 0.4406,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1548,44 +1432,30 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Arkansas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
-          "score": 0.3511,
+          "title": "Remote Mortgage Loan Officer (Washington DC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Washington-DC-DC-Massachusetts-Ave-NW/Remote-Mortgage-Loan-Officer--Washington-DC-_P749593-1",
+          "score": 0.3189,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Massachusetts)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
-          "score": 0.3332,
+          "title": "Partner Support Consultant",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Partner-Support-Consultant_P750740-2",
+          "score": 0.3178,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Virginia)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VA/Remote-Mortgage-Loan-Officer--Virginia-_P749589-1",
+          "score": 0.3068,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Iowa)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IA/Remote-Mortgage-Loan-Officer--Illinois-_P749649-1",
-          "score": 0.3282,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Minnesota)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MN/Remote-Mortgage-Loan-Officer--Minnesota-_P749651-1",
-          "score": 0.3207,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (West Virginia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
-          "score": 0.3126,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Michigan)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MI/Remote-Mortgage-Loan-Officer--Michigan-_P749581-1",
-          "score": 0.3077,
+          "title": "Remote Mortgage Loan Officer (Maryland)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MD/Remote-Mortgage-Loan-Officer--Maryland-_P749579-1",
+          "score": 0.3053,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1665,6 +1535,150 @@
           "score": 0.0673,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Wasabi Technologies",
+      "url": "https://wasabi.com/company/careers",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5592,
+      "roles": [
+        {
+          "title": "Senior AI Finance Analyst",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5257437008",
+          "score": 0.5592,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Sales Director, East",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5198198008",
+          "score": 0.5571,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Sales Director, West",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5198161008",
+          "score": 0.5518,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Principal Cloud Support Engineer",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5214686008",
+          "score": 0.4363,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Manager, Renewals",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5268197008",
+          "score": 0.4223,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Accountant",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5268241008",
+          "score": 0.4221,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5263300008",
+          "score": 0.4196,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior International Accountant",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5226941008",
+          "score": 0.3815,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com/us/en/search-results",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5182,
+      "roles": [
+        {
+          "title": "Engineering Manager - Transformation & Data Lake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS78F68B68E8E64241A99373D73EF4E175EXTERNALENUSFA33B6920CE343E2A2F71C3FB7AB82AB/Engineering-Manager-Transformation-Data-Lake",
+          "score": 0.5182,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.4874,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer - Production Control Plane",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
+          "score": 0.4826,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
+          "score": 0.4419,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Principal Solutions Engineer Enablement Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
+          "score": 0.4376,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Major Account Executive (FSI)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
+          "score": 0.4259,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
+          "score": 0.4156,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.3977,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Eastern Europe",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
+          "score": 0.377,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Executive Communications Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
+          "score": 0.2155,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
