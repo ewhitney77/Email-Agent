@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:19:52+00:00",
+  "generated_at": "2026-07-16T02:48:57+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 27,
+  "total_matches": 29,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 21,
+      "match_count": 22,
       "top_score": 0.6534,
       "roles": [
         {
@@ -41,6 +41,13 @@
           "title": "Regional Sales Manager, Colorado (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=5826128004",
           "score": 0.6444,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Revenue Operations Analyst",
+          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
+          "score": 0.6441,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -829,9 +836,16 @@
       "company": "Cyera",
       "url": "https://www.cyera.com/careers",
       "error": null,
-      "match_count": 2,
-      "top_score": 0.6143,
+      "match_count": 3,
+      "top_score": 0.6322,
       "roles": [
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/54.E61",
+          "score": 0.6322,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/81.E68",
@@ -892,13 +906,6 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/97.16C",
           "score": 0.561,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/8E.B66-F4.40F",
-          "score": 0.5412,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1397,11 +1404,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Principal Data Scientist - Rentals Shopping",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Data-Scientist_P749116-1",
-          "score": 0.5008,
+          "title": "Senior Strategic Sourcing Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Sourcing-Manager_P750825-1",
+          "score": 0.4912,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Sales Strategy Business Partner",
@@ -1611,9 +1618,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
-          "score": 0.4419,
+          "title": "Senior Software Engineer - Production Control Plane",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
+          "score": 0.4826,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1634,7 +1641,7 @@
         {
           "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
-          "score": 0.4229,
+          "score": 0.4156,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1653,11 +1660,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Production Control Plane",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
-          "score": 0.3643,
+          "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
+          "score": 0.2812,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Executive Communications Manager",
@@ -1692,7 +1699,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.216,
+          "score": 0.2165,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
