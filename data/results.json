@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T08:18:26+00:00",
+  "generated_at": "2026-07-17T13:47:02+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 31,
+  "total_matches": 32,
   "companies": [
     {
       "company": "Cribl",
@@ -421,7 +421,7 @@
       "company": "Datadog",
       "url": "https://careers.datadoghq.com/all-jobs/",
       "error": null,
-      "match_count": 2,
+      "match_count": 3,
       "top_score": 0.6518,
       "roles": [
         {
@@ -435,6 +435,13 @@
           "title": "Analyst Relations Manager",
           "url": "https://careers.datadoghq.com/detail/8003021/?gh_jid=8003021",
           "score": 0.626,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Product Management - Infrastructure Monitoring",
+          "url": "https://careers.datadoghq.com/detail/7899504/?gh_jid=7899504",
+          "score": 0.6168,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
@@ -553,13 +560,6 @@
         {
           "title": "Commercial Account Executive (Hong Kong Market)",
           "url": "https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037",
-          "score": 0.5349,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager (French Speaking)",
-          "url": "https://careers.datadoghq.com/detail/7920970/?gh_jid=7920970",
           "score": 0.5349,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -790,14 +790,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1024,6 +1024,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Corporate Business Development Representative",
+          "url": "https://www.hubspot.com/careers/jobs/7182430?gh_jid=7182430",
+          "score": 0.5444,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Enterprise",
           "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
           "score": 0.5428,
@@ -1032,14 +1039,14 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
+          "url": "https://www.hubspot.com/careers/jobs/4930713?gh_jid=4930713",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930713?gh_jid=4930713",
+          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1158,14 +1165,14 @@
         },
         {
           "title": "Associate Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/8054930?gh_jid=8054930",
+          "url": "https://www.hubspot.com/careers/jobs/7979981?gh_jid=7979981",
           "score": 0.4737,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Associate Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/7979981?gh_jid=7979981",
+          "url": "https://www.hubspot.com/careers/jobs/8054930?gh_jid=8054930",
           "score": 0.4737,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1326,14 +1333,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1363,13 +1370,6 @@
           "title": "Corporate Account Executive (Mexican territory, Colombia based)",
           "url": "https://www.hubspot.com/careers/jobs/7194406?gh_jid=7194406",
           "score": 0.3291,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Associate Renewal Manager, Scaled (Canada, French Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/8018405?gh_jid=8018405",
-          "score": 0.3235,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1655,7 +1655,7 @@
         {
           "title": "Principal Solutions Engineer Enablement Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.4376,
+          "score": 0.4384,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1683,9 +1683,9 @@
         {
           "title": "Account Executive - Eastern Europe",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSFD61D0451C324D788E2A976D9B8CF71DEXTERNALENUS8FB70CCAF3FD4B57A5DD4DF51FD08B25/Account-Executive-Eastern-Europe",
-          "score": 0.377,
+          "score": 0.1505,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
