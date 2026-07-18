@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T19:19:36+00:00",
+  "generated_at": "2026-07-18T02:43:08+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -460,13 +460,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Product Management - Core Platforms",
-          "url": "https://careers.datadoghq.com/detail/7583609/?gh_jid=7583609",
-          "score": 0.5855,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial & Mid-Market Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/7685641/?gh_jid=7685641",
           "score": 0.5753,
@@ -629,14 +622,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -813,6 +806,13 @@
           "title": "Commercial Account Executive (France)",
           "url": "https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375",
           "score": 0.447,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Associate Growth Marketing Manager",
+          "url": "https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723",
+          "score": 0.4348,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1053,14 +1053,14 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
+          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
+          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1200,14 +1200,14 @@
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1242,7 +1242,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1256,7 +1256,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1270,7 +1270,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1284,7 +1284,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1340,14 +1340,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1432,6 +1432,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Strategic Planning Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Planning-Manager_P750827-1",
+          "score": 0.499,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Principal Sales Strategy Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Business-Partner_P750409-1",
           "score": 0.4731,
@@ -1509,13 +1516,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Virginia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VA/Remote-Mortgage-Loan-Officer--Virginia-_P749589-1",
-          "score": 0.3087,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Remote Mortgage Loan Officer (Maryland)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MD/Remote-Mortgage-Loan-Officer--Maryland-_P749579-1",
           "score": 0.3066,
@@ -1523,9 +1523,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Washington DC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Washington-DC-DC-Massachusetts-Ave-NW/Remote-Mortgage-Loan-Officer--Washington-DC-_P749593-1",
-          "score": 0.3053,
+          "title": "Senior Interview Scheduler",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Recruiting-Coordinator_P750057-2",
+          "score": 0.2498,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1639,9 +1639,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Production Control Plane",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDAA6395840E2480AA0B56D4FCF6DAFA2EXTERNALENUSBCD7EEA81F1E437BB7D152361493D55E/Senior-Software-Engineer-Production-Control-Plane",
-          "score": 0.4826,
+          "title": "Lead Practice Manager, Financial Services",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSEE3B2C05EBC74FF2827B57F392EFCF4AEXTERNALENUSA3EA66120BBD46F397228E1009F63518/Lead-Practice-Manager-Financial-Services",
+          "score": 0.5048,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Field Marketing Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
+          "score": 0.4874,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1667,6 +1674,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Major Account Executive (FSI)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
+          "score": 0.4259,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
           "score": 0.4156,
@@ -1686,20 +1700,6 @@
           "score": 0.377,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Field Marketing Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD8BFF825D5AE4804BC4FB1D92BEC7DD5EXTERNALENUS2E55B0CAB57F4B9190CBF89DC42F5A2F/Senior-Field-Marketing-Manager",
-          "score": 0.3314,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Major Account Executive (FSI)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
-          "score": 0.2012,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
