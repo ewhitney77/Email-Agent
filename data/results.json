@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:54:14+00:00",
+  "generated_at": "2026-07-21T08:38:10+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -460,6 +460,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Commercial Sales Engineer (Amsterdam)",
+          "url": "https://careers.datadoghq.com/detail/8074211/?gh_jid=8074211",
+          "score": 0.5698,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Area Vice President, Enterprise Security Sales",
           "url": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990",
           "score": 0.5675,
@@ -589,13 +596,6 @@
           "title": "Commercial Account Executive UKI/Nordics",
           "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176",
           "score": 0.5224,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Product Management - Cloud Security and Shared Capabilities",
-          "url": "https://careers.datadoghq.com/detail/8030324/?gh_jid=8030324",
-          "score": 0.5212,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -844,75 +844,75 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6433,
+      "top_score": 0.6424,
       "roles": [
         {
           "title": "Principal Business Intelligence Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2",
-          "score": 0.6433,
+          "score": 0.6424,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior AI Program Manager, Talent",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-AI-Program-Manager--Talent_P750934",
-          "score": 0.5658,
+          "score": 0.5655,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Director, Information Security",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Director--Information-Security_P750937",
-          "score": 0.5214,
+          "score": 0.5209,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Technical Program Manager, Industry Software",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Technical-Program-Manager--Industry-Software_P750335-1",
-          "score": 0.5075,
+          "score": 0.5078,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Strategic Planning Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Strategic-Planning-Manager_P750827-1",
-          "score": 0.4868,
+          "score": 0.4871,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Sales Strategy Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Business-Partner_P750409-1",
-          "score": 0.473,
+          "score": 0.4728,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Advisor, SMB, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--SMB--Rentals_P750644-1",
-          "score": 0.4278,
+          "score": 0.4283,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Advisor, Mid-Market, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--Mid-Market--Rentals_P750144-2",
-          "score": 0.4273,
+          "score": 0.4269,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Manager, GTM Compensation Strategy",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Compensation_P750919",
-          "score": 0.4057,
+          "score": 0.4056,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "National Business Advisor, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/National-Business-Advisor--Rentals_P750840",
-          "score": 0.4019,
+          "score": 0.4029,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -926,63 +926,63 @@
         {
           "title": "Appraisal Order Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Appraisal-Order-Specialist_P750966-1",
-          "score": 0.395,
+          "score": 0.3951,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Executive, SMB, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--SMB--Rentals_P748769-1",
-          "score": 0.3669,
+          "score": 0.3667,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Insurance Order Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Insurance-Order-Specialist_P750950-1",
-          "score": 0.3597,
+          "score": 0.3592,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Loan Officer Development Program (Plano, TX)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P750462",
-          "score": 0.3414,
+          "score": 0.3428,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Single Family Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Account-Executive--Single-Family-Rentals_P750646-2",
-          "score": 0.3382,
+          "score": 0.338,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Partner Support Consultant",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Partner-Support-Consultant_P750740-2",
-          "score": 0.3284,
+          "score": 0.3285,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Interview Scheduler",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Recruiting-Coordinator_P750057-2",
-          "score": 0.2376,
+          "score": 0.238,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "LOA Specialist (Part-Time)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/LOA-Specialist--Part-Time-_P750853-1",
-          "score": 0.2246,
+          "score": 0.2247,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (San Jose, CA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Photographer--Zillow-Media-Experts--San-Jose--CA-_P750589-1",
-          "score": 0.1957,
+          "score": 0.1951,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1025,13 +1025,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1C.06B",
-          "score": 0.5891,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1C.06B-36.505",
           "score": 0.5859,
           "matched": false,
@@ -1048,6 +1041,13 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1C.06B-E0.50C",
           "score": 0.5792,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B4.96C",
+          "score": 0.5763,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1660,13 +1660,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Major Account Executive (FSI)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
-          "score": 0.4259,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
           "score": 0.4156,
@@ -1686,6 +1679,13 @@
           "score": 0.377,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Major Account Executive (FSI)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
+          "score": 0.2012,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1713,7 +1713,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.214,
+          "score": 0.2147,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
