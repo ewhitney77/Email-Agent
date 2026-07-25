@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T02:51:55+00:00",
+  "generated_at": "2026-07-25T08:14:16+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -986,61 +986,61 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6003,
+      "top_score": 0.6022,
       "roles": [
         {
           "title": "Director, Data Engineering - Business Data",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1",
-          "score": 0.6003,
+          "score": 0.6022,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Marketing Technologist, Customer Data Platform",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Technologist--Customer-Data-Platform_P750926",
-          "score": 0.4982,
+          "score": 0.5035,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Sr. Client Sales Manager, Enterprise, New Construction",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sr-Client-Sales-Manager--Enterprise--New-Construction_P750880-1",
-          "score": 0.4718,
+          "score": 0.472,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Information Security Cyber Defense Incident Responder",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Information-Security-Cyber-Defense-Incident-Responder_P750946",
-          "score": 0.4438,
+          "score": 0.4454,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Advisor, Major Market, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--Major-Market--Rentals_P750844-2",
-          "score": 0.4364,
+          "score": 0.4365,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Product Manager, Agent Performance",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--AI-Platform---Ecosystem_P750062",
-          "score": 0.4309,
+          "score": 0.4307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Security Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Principal-Security-Engineer_P750881",
-          "score": 0.4103,
+          "score": 0.411,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Operations Support Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Operations-Support-Specialist_P750964",
-          "score": 0.406,
+          "score": 0.4062,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1054,28 +1054,35 @@
         {
           "title": "Senior Product Manager, Search & Evaluate - StreetEasy",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Search---Evaluate---StreetEasy_P750065-1",
-          "score": 0.4036,
+          "score": 0.4035,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P750637",
-          "score": 0.3694,
+          "score": 0.3692,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Irvine, CA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.3683,
+          "score": 0.368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sr. Compensation Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Sr-Compensation-Analyst_P750824-1",
-          "score": 0.3605,
+          "score": 0.3608,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Accounting Manager (Individual Contributor)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Accounting-Manager_P749560-2",
+          "score": 0.353,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1087,44 +1094,37 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Accounting Manager (Individual Contributor)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Accounting-Manager_P749560-2",
-          "score": 0.3375,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Corporate Communications Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Corporate-Communications-Manager_P750874-1",
-          "score": 0.3311,
+          "score": 0.3313,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Market Loan Advisor",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Market-Loan-Advisor_P751033-1",
-          "score": 0.3127,
+          "score": 0.3139,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Support Services Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Support-Services-Specialist_P750948-1",
-          "score": 0.3046,
+          "score": 0.3039,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Support Services Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Support-Services-Specialist_P750951-1",
-          "score": 0.3042,
+          "score": 0.3034,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Indirect Tax Senior",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Indirect-Tax-Senior_P751003-1",
-          "score": 0.2518,
+          "score": 0.2509,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1674,13 +1674,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Executive Communications Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
-          "score": 0.4555,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS4FCB7ECD7CA4477F9A92FA4CFD1EFDA3EXTERNALENUSDB4F0492AE2149B7A7EB100BE61E92BB/Senior-Software-Engineer-Observe-by-Snowflake-Metrics-Platform",
           "score": 0.4419,
@@ -1719,6 +1712,13 @@
           "title": "Senior Technical Support Engineer, Observe by Snowflake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
           "score": 0.3977,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Executive Communications Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
+          "score": 0.2155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
