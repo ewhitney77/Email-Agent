@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:34:21+00:00",
+  "generated_at": "2026-07-26T13:30:29+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -624,7 +624,7 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
+          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -638,7 +638,7 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
+          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -750,28 +750,28 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
-          "score": 0.4647,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -813,13 +813,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
@@ -828,6 +821,13 @@
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -848,14 +848,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -925,14 +925,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1489,14 +1489,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1695,6 +1695,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Solutions Engineer Enablement Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
+          "score": 0.4376,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Major Account Executive (FSI)",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B3EAAEFE23A49249C476672528B7E19EXTERNALENUS2CD006C4DE56443AA3385E143E887A5C/Major-Account-Executive-FSI",
           "score": 0.4259,
@@ -1714,13 +1721,6 @@
           "score": 0.3977,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Solutions Engineer Enablement Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.2915,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
