@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:41:32+00:00",
+  "generated_at": "2026-07-28T02:43:47+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -172,7 +172,7 @@
         },
         {
           "title": "Regional Sales Manager, Bay Area (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5787981004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
           "score": 0.6093,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -283,13 +283,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sales Development Representative",
-          "url": "https://cribl.io/job-detail/?gh_jid=5823622004",
-          "score": 0.5467,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Partner Sales Engineer",
           "url": "https://cribl.io/job-detail/?gh_jid=6099714004",
           "score": 0.5435,
@@ -328,6 +321,13 @@
           "title": "Regional Sales Manager, Texas (SLED)",
           "url": "https://cribl.io/job-detail/?gh_jid=6107217004",
           "score": 0.5217,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Staff Information Systems Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6099635004",
+          "score": 0.5189,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -624,7 +624,7 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
+          "url": "https://www.hubspot.com/careers/jobs/4930713?gh_jid=4930713",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -638,7 +638,7 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/4930713?gh_jid=4930713",
+          "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1024,6 +1024,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Business Advisor, Major Market, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--Major-Market--Rentals_P750844-2",
+          "score": 0.4368,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Product Manager, Agent Performance",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--AI-Platform---Ecosystem_P750062",
           "score": 0.4274,
@@ -1045,18 +1052,18 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior Product Manager, Search & Evaluate - StreetEasy",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Search---Evaluate---StreetEasy_P750065-1",
+          "score": 0.4033,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Fraud Operations Team Supervisor",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Team-Supervisor_P751002",
           "score": 0.3916,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Operations Support Specialist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Operations-Support-Specialist_P750964",
-          "score": 0.3873,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Benefits Analyst",
@@ -1106,13 +1113,6 @@
           "score": 0.3311,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Support Services Specialist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Support-Services-Specialist_P750948-1",
-          "score": 0.3026,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Support Services Specialist",
@@ -1405,14 +1405,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1688,6 +1688,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Software Engineer II - Product Security",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1B8C6D657C5F459197FE2A7184EBD6A2EXTERNALENUSA20EB88B5307406FB2EDE9D5C5001A82/Principal-Software-Engineer-II-Product-Security",
+          "score": 0.4417,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Principal Solutions Engineer Enablement Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
           "score": 0.4376,
@@ -1714,13 +1721,6 @@
           "score": 0.3977,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Software Engineer II - Product Security",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1B8C6D657C5F459197FE2A7184EBD6A2EXTERNALENUSA20EB88B5307406FB2EDE9D5C5001A82/Principal-Software-Engineer-II-Product-Security",
-          "score": 0.2741,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
