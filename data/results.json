@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:32:53+00:00",
+  "generated_at": "2026-08-01T03:01:06+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 32,
+  "total_matches": 34,
   "companies": [
     {
       "company": "Cribl",
@@ -439,454 +439,39 @@
       ]
     },
     {
-      "company": "Datadog",
-      "url": "https://careers.datadoghq.com/all-jobs/",
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
       "error": null,
-      "match_count": 1,
-      "top_score": 0.6518,
+      "match_count": 4,
+      "top_score": 0.6429,
       "roles": [
         {
-          "title": "Director, Product Management - AI Observability",
-          "url": "https://careers.datadoghq.com/detail/7798672/?gh_jid=7798672",
-          "score": 0.6518,
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A8.E3F",
+          "score": 0.6429,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Area Vice President, Sales Engineering",
-          "url": "https://careers.datadoghq.com/detail/7762722/?gh_jid=7762722",
-          "score": 0.5986,
-          "matched": false,
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A2.057",
+          "score": 0.6296,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Sales Engineer - Boston",
-          "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
-          "score": 0.5929,
-          "matched": false,
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A2.057-77.50F",
+          "score": 0.6262,
+          "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
-        {
-          "title": "Director, Engineering - Digital Experience Monitoring",
-          "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
-          "score": 0.5792,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer (Dublin)",
-          "url": "https://careers.datadoghq.com/detail/8055109/?gh_jid=8055109",
-          "score": 0.5748,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer 2 (Sao Paulo)",
-          "url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601",
-          "score": 0.5747,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer (Amsterdam)",
-          "url": "https://careers.datadoghq.com/detail/8074211/?gh_jid=8074211",
-          "score": 0.5698,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Area Vice President, Enterprise Security Sales",
-          "url": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990",
-          "score": 0.5675,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer (AMER - West)",
-          "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
-          "score": 0.5674,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/7773320/?gh_jid=7773320",
-          "score": 0.5519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Director, Commercial Sales",
-          "url": "https://careers.datadoghq.com/detail/8059382/?gh_jid=8059382",
-          "score": 0.5512,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager - Boston",
-          "url": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
-          "score": 0.5508,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Country Manager",
-          "url": "https://careers.datadoghq.com/detail/7975747/?gh_jid=7975747",
-          "score": 0.55,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer 2 (AMER - West)",
-          "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
-          "score": 0.5472,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Datadog for Startups - Forward Deployed Engineering Lead",
-          "url": "https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181",
-          "score": 0.546,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager",
-          "url": "https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048",
-          "score": 0.5435,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer (Spanish-speaking)",
-          "url": "https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628",
-          "score": 0.5425,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Marketing Manager",
-          "url": "https://careers.datadoghq.com/detail/7967202/?gh_jid=7967202",
-          "score": 0.5405,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager - Denver",
-          "url": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
-          "score": 0.5397,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241",
-          "score": 0.5392,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (DACH)",
-          "url": "https://careers.datadoghq.com/detail/5283132/?gh_jid=5283132",
-          "score": 0.538,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Customer Success Manager (DACH; German-speaking)",
-          "url": "https://careers.datadoghq.com/detail/7180265/?gh_jid=7180265",
-          "score": 0.536,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (Hong Kong Market)",
-          "url": "https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037",
-          "score": 0.5349,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321",
-          "score": 0.5339,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager - Key Accounts",
-          "url": "https://careers.datadoghq.com/detail/7816557/?gh_jid=7816557",
-          "score": 0.5325,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Associate Field Marketing Manager",
-          "url": "https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073",
-          "score": 0.5263,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive UKI/Nordics",
-          "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176",
-          "score": 0.5224,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Engineering - Cloud Observability",
-          "url": "https://careers.datadoghq.com/detail/8069508/?gh_jid=8069508",
-          "score": 0.521,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
-          "score": 0.5203,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
-          "score": 0.5203,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive - Boston",
-          "url": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
-          "score": 0.5199,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate - Boston",
-          "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466",
-          "score": 0.5187,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive - Sao Paulo (Portuguese Speaking)",
-          "url": "https://careers.datadoghq.com/detail/7792997/?gh_jid=7792997",
-          "score": 0.5178,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst - Boston",
-          "url": "https://careers.datadoghq.com/detail/8029969/?gh_jid=8029969",
-          "score": 0.5175,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst - US West",
-          "url": "https://careers.datadoghq.com/detail/8003080/?gh_jid=8003080",
-          "score": 0.5159,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst - Dublin",
-          "url": "https://careers.datadoghq.com/detail/7982644/?gh_jid=7982644",
-          "score": 0.5113,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (Saudi Arabia)",
-          "url": "https://careers.datadoghq.com/detail/7576831/?gh_jid=7576831",
-          "score": 0.5106,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst - NYC",
-          "url": "https://careers.datadoghq.com/detail/7993638/?gh_jid=7993638",
-          "score": 0.5065,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Denver",
-          "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788",
-          "score": 0.5052,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/7463765/?gh_jid=7463765",
-          "score": 0.5051,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Engineering - Detection Platform",
-          "url": "https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520",
-          "score": 0.5002,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate - Commercial Accounts",
-          "url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129",
-          "score": 0.4984,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
-          "url": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
-          "score": 0.4956,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (Spanish Speaking) - Mexico City",
-          "url": "https://careers.datadoghq.com/detail/8022193/?gh_jid=8022193",
-          "score": 0.4951,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst",
-          "url": "https://careers.datadoghq.com/detail/8050644/?gh_jid=8050644",
-          "score": 0.491,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Research Engineer - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
-          "score": 0.4849,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Datadog for Startups Founding Engineering Lead",
-          "url": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402",
-          "score": 0.4815,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
-          "score": 0.4744,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
-          "score": 0.4744,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (Indonesia Market)",
-          "url": "https://careers.datadoghq.com/detail/7463727/?gh_jid=7463727",
-          "score": 0.4665,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Commercial Account Executive (Portugal)",
-          "url": "https://careers.datadoghq.com/detail/8078805/?gh_jid=8078805",
-          "score": 0.4494,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive (France)",
-          "url": "https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375",
-          "score": 0.447,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Associate Growth Marketing Manager",
-          "url": "https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723",
-          "score": 0.4348,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Coordinator, Business Recruiting - Contract",
-          "url": "https://careers.datadoghq.com/detail/7950433/?gh_jid=7950433",
-          "score": 0.369,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586",
-          "score": 0.1698,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager",
-          "url": "https://careers.datadoghq.com/detail/7790098/?gh_jid=7790098",
-          "score": 0.1479,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777",
-          "score": 0.0403,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779",
-          "score": -0.0244,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
-      "error": null,
-      "match_count": 1,
-      "top_score": 0.623,
-      "roles": [
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C1.267",
           "score": 0.623,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/6F.E6D",
-          "score": 0.5968,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "View position",
@@ -897,20 +482,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/6F.E6D-6F.400",
-          "score": 0.5937,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/6F.E6D-7E.20A",
-          "score": 0.5934,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/E3.36D",
           "score": 0.5845,
           "matched": false,
@@ -918,22 +489,22 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D-6F.400",
-          "score": 0.5509,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/51.36E",
+          "score": 0.5476,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D-25.40C",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/51.36E-9A.501",
+          "score": 0.5459,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/61.E26",
           "score": 0.5393,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/BE.E66",
-          "score": 0.5202,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1165,28 +736,28 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
-          "score": 0.4647,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1242,14 +813,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1263,7 +834,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1277,7 +848,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1405,6 +976,435 @@
           "title": "Business Development Representative - DACH",
           "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
           "score": 0.2855,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Datadog",
+      "url": "https://careers.datadoghq.com/all-jobs/",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5986,
+      "roles": [
+        {
+          "title": "Area Vice President, Sales Engineering",
+          "url": "https://careers.datadoghq.com/detail/7762722/?gh_jid=7762722",
+          "score": 0.5986,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer - Boston",
+          "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
+          "score": 0.5929,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Engineering - Digital Experience Monitoring",
+          "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
+          "score": 0.5792,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer (Dublin)",
+          "url": "https://careers.datadoghq.com/detail/8055109/?gh_jid=8055109",
+          "score": 0.5748,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer 2 (Sao Paulo)",
+          "url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601",
+          "score": 0.5747,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer (Amsterdam)",
+          "url": "https://careers.datadoghq.com/detail/8074211/?gh_jid=8074211",
+          "score": 0.5698,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Area Vice President, Enterprise Security Sales",
+          "url": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990",
+          "score": 0.5675,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer (AMER - West)",
+          "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
+          "score": 0.5674,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/7773320/?gh_jid=7773320",
+          "score": 0.5519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Commercial Sales",
+          "url": "https://careers.datadoghq.com/detail/8059382/?gh_jid=8059382",
+          "score": 0.5512,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Success Manager - Boston",
+          "url": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
+          "score": 0.5508,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Country Manager",
+          "url": "https://careers.datadoghq.com/detail/7975747/?gh_jid=7975747",
+          "score": 0.55,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer 2 (AMER - West)",
+          "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
+          "score": 0.5472,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Datadog for Startups - Forward Deployed Engineering Lead",
+          "url": "https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181",
+          "score": 0.546,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Manager",
+          "url": "https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048",
+          "score": 0.5435,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Sales Engineer (Spanish-speaking)",
+          "url": "https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628",
+          "score": 0.5425,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Marketing Manager",
+          "url": "https://careers.datadoghq.com/detail/7967202/?gh_jid=7967202",
+          "score": 0.5405,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Manager - Denver",
+          "url": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
+          "score": 0.5397,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241",
+          "score": 0.5392,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (DACH)",
+          "url": "https://careers.datadoghq.com/detail/5283132/?gh_jid=5283132",
+          "score": 0.538,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Customer Success Manager (DACH; German-speaking)",
+          "url": "https://careers.datadoghq.com/detail/7180265/?gh_jid=7180265",
+          "score": 0.536,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (Hong Kong Market)",
+          "url": "https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037",
+          "score": 0.5349,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321",
+          "score": 0.5339,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Manager - Key Accounts",
+          "url": "https://careers.datadoghq.com/detail/7816557/?gh_jid=7816557",
+          "score": 0.5325,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Associate Field Marketing Manager",
+          "url": "https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073",
+          "score": 0.5263,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive UKI/Nordics",
+          "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176",
+          "score": 0.5224,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Engineering - Cloud Observability",
+          "url": "https://careers.datadoghq.com/detail/8069508/?gh_jid=8069508",
+          "score": 0.521,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Associate",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "score": 0.5203,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Associate",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "score": 0.5203,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive - Boston",
+          "url": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
+          "score": 0.5199,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Associate - Boston",
+          "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466",
+          "score": 0.5187,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive - Sao Paulo (Portuguese Speaking)",
+          "url": "https://careers.datadoghq.com/detail/7792997/?gh_jid=7792997",
+          "score": 0.5178,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deal Desk Analyst - Boston",
+          "url": "https://careers.datadoghq.com/detail/8029969/?gh_jid=8029969",
+          "score": 0.5175,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deal Desk Analyst - US West",
+          "url": "https://careers.datadoghq.com/detail/8003080/?gh_jid=8003080",
+          "score": 0.5159,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deal Desk Analyst - Dublin",
+          "url": "https://careers.datadoghq.com/detail/7982644/?gh_jid=7982644",
+          "score": 0.5113,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (Saudi Arabia)",
+          "url": "https://careers.datadoghq.com/detail/7576831/?gh_jid=7576831",
+          "score": 0.5106,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deal Desk Analyst - NYC",
+          "url": "https://careers.datadoghq.com/detail/7993638/?gh_jid=7993638",
+          "score": 0.5065,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Denver",
+          "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788",
+          "score": 0.5052,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/7463765/?gh_jid=7463765",
+          "score": 0.5051,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Engineering - Detection Platform",
+          "url": "https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520",
+          "score": 0.5002,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Associate - Commercial Accounts",
+          "url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129",
+          "score": 0.4984,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
+          "url": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
+          "score": 0.4956,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (Spanish Speaking) - Mexico City",
+          "url": "https://careers.datadoghq.com/detail/8022193/?gh_jid=8022193",
+          "score": 0.4951,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deal Desk Analyst",
+          "url": "https://careers.datadoghq.com/detail/8050644/?gh_jid=8050644",
+          "score": 0.491,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+          "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
+          "score": 0.4849,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Datadog for Startups Founding Engineering Lead",
+          "url": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402",
+          "score": 0.4815,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Engineering",
+          "url": "https://careers.datadoghq.com/detail/8098863/?gh_jid=8098863",
+          "score": 0.4773,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "score": 0.4744,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "score": 0.4744,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (Indonesia Market)",
+          "url": "https://careers.datadoghq.com/detail/7463727/?gh_jid=7463727",
+          "score": 0.4665,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Commercial Account Executive (Portugal)",
+          "url": "https://careers.datadoghq.com/detail/8078805/?gh_jid=8078805",
+          "score": 0.4494,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (France)",
+          "url": "https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375",
+          "score": 0.447,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Associate Growth Marketing Manager",
+          "url": "https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723",
+          "score": 0.4348,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Coordinator, Business Recruiting - Contract",
+          "url": "https://careers.datadoghq.com/detail/7950433/?gh_jid=7950433",
+          "score": 0.369,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586",
+          "score": 0.1698,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Manager",
+          "url": "https://careers.datadoghq.com/detail/7790098/?gh_jid=7790098",
+          "score": 0.1479,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/6009777/?gh_jid=6009777",
+          "score": 0.0403,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Customer Success Associate",
+          "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779",
+          "score": -0.0244,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1748,7 +1748,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2135,
+          "score": 0.214,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
