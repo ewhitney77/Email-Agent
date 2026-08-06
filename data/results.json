@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:43:51+00:00",
+  "generated_at": "2026-08-06T14:19:36+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 32,
+  "total_matches": 31,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 31,
+      "match_count": 30,
       "top_score": 0.6534,
       "roles": [
         {
@@ -141,13 +141,6 @@
           "score": 0.6156,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Analytics Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6120094004",
-          "score": 0.6146,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Regional Sales Manager, Singapore",
@@ -423,11 +416,18 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Staff Security Operations Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6097202004",
-          "score": 0.4339,
+          "title": "Senior Solutions Engineer, UK",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135336004",
+          "score": 0.4464,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solutions Engineer, Germany",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
+          "score": 0.4449,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Partner Solutions Engineer, ANZ & ASEAN",
@@ -510,13 +510,6 @@
         },
         {
           "title": "Business Development Representative  - French",
-          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
-          "score": 0.5411,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Business Development Representative  - French",
           "url": "https://www.hubspot.com/careers/jobs/4930715?gh_jid=4930715",
           "score": 0.5411,
           "matched": false,
@@ -525,6 +518,13 @@
         {
           "title": "Business Development Representative  - French",
           "url": "https://www.hubspot.com/careers/jobs/4930713?gh_jid=4930713",
+          "score": 0.5411,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Development Representative  - French",
+          "url": "https://www.hubspot.com/careers/jobs/7032040?gh_jid=7032040",
           "score": 0.5411,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1186,14 +1186,14 @@
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
+          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Associate",
-          "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716",
+          "url": "https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339",
           "score": 0.5203,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1432,6 +1432,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior SEO Product Manager, StreetEasy",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-SEO-Product-Manager--StreetEasy_P751024-1",
+          "score": 0.5439,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Manager, GTM Intelligence and Analytics",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078",
           "score": 0.535,
@@ -1453,6 +1460,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Client Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Client-Engineer_P751064",
+          "score": 0.4739,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "IT Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/IT-Manager_P751023",
           "score": 0.4684,
@@ -1460,16 +1474,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Client Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Client-Engineer_P751064",
-          "score": 0.4415,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Senior Analyst, Revenue Billing Operations",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Senior-Analyst--Revenue-Billing-Operations_P750217",
-          "score": 0.4159,
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Analyst--Revenue-Billing-Operations_P750217",
+          "score": 0.4156,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1481,18 +1488,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Applied Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Applied-Scientist_P751065-1",
+          "score": 0.3861,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Mortgage Loan Officer (Irvine, CA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
           "score": 0.368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Executive, SMB, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--SMB--Rentals_P748769-1",
-          "score": 0.3662,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
@@ -1535,13 +1542,6 @@
           "score": 0.2165,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Photographer, Zillow Media Experts (Chicago, IL)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IL/Photographer--Zillow-Media-Experts_P751073-1",
-          "score": 0.2101,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Photographer, Zillow Media Experts (Columbus, OH)",
