@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:04:04+00:00",
+  "generated_at": "2026-08-09T12:59:03+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1653,16 +1653,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - SnowConvert AI",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS22941A2A520545C1ADE0F272E1A245A3EXTERNALENUS2A928B93A5D44285A92C032FB389FAA2/Software-Engineer-SnowConvert-AI",
-          "score": 0.4656,
+          "title": "Executive Communications Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
+          "score": 0.4555,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Executive Communications Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFC78348545C348E8B8BB8AEFE6716895EXTERNALENUS2207F15AC1FB40FB80EA90658035DDB9/Executive-Communications-Manager",
-          "score": 0.4555,
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1681,16 +1681,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Principal Software Engineer II - Product Security",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1B8C6D657C5F459197FE2A7184EBD6A2EXTERNALENUSA20EB88B5307406FB2EDE9D5C5001A82/Principal-Software-Engineer-II-Product-Security",
-          "score": 0.4417,
+          "title": "Principal Solutions Engineer Enablement Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
+          "score": 0.4376,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Principal Solutions Engineer Enablement Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSD5FBF3D08A47497F9569C2DCAACA963AEXTERNALENUS8DF9D21C63A7463E831DADA934F1D758/Principal-Solutions-Engineer-Enablement-Manager",
-          "score": 0.4376,
+          "title": "Software Engineer - SnowConvert AI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS22941A2A520545C1ADE0F272E1A245A3EXTERNALENUS2A928B93A5D44285A92C032FB389FAA2/Software-Engineer-SnowConvert-AI",
+          "score": 0.4224,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1704,14 +1704,14 @@
         {
           "title": "Senior Technical Support Engineer, Observe by Snowflake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSCD39411720064598939ADFA85377F96DEXTERNALENUSF288375D5D6B468694BF8018583FF03B/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.3771,
+          "score": 0.3977,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.3018,
+          "title": "Principal Software Engineer II - Product Security",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1B8C6D657C5F459197FE2A7184EBD6A2EXTERNALENUSA20EB88B5307406FB2EDE9D5C5001A82/Principal-Software-Engineer-II-Product-Security",
+          "score": 0.2741,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
