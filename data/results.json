@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:09:57+00:00",
+  "generated_at": "2026-08-13T02:10:56+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -672,7 +672,7 @@
         {
           "title": "LATAM Inbound Success Coach (ISC) - English & Portuguese Speakers",
           "url": "https://www.hubspot.com/careers/jobs/5131015?gh_jid=5131015",
-          "score": 0.4311,
+          "score": 0.431,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -917,6 +917,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Engineering - Digital Experience Monitoring",
+          "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
+          "score": 0.5792,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Commercial Sales Engineer 2 (Sao Paulo)",
           "url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601",
           "score": 0.5747,
@@ -1036,13 +1043,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Customer Success Manager - Key Accounts",
-          "url": "https://careers.datadoghq.com/detail/7816557/?gh_jid=7816557",
-          "score": 0.5325,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Associate Field Marketing Manager",
           "url": "https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073",
           "score": 0.5263,
@@ -1142,14 +1142,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1176,6 +1176,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Engineering - Detection Platform",
+          "url": "https://careers.datadoghq.com/detail/8026520/?gh_jid=8026520",
+          "score": 0.5002,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Customer Success Associate - Commercial Accounts",
           "url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129",
           "score": 0.4984,
@@ -1193,13 +1200,6 @@
           "title": "Commercial Account Executive (Spanish Speaking) - Mexico City",
           "url": "https://careers.datadoghq.com/detail/8022193/?gh_jid=8022193",
           "score": 0.4951,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst",
-          "url": "https://careers.datadoghq.com/detail/8050644/?gh_jid=8050644",
-          "score": 0.491,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1375,6 +1375,13 @@
         },
         {
           "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/24.F6F",
+          "score": 0.4918,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9C.F62",
           "score": 0.4793,
           "matched": false,
@@ -1398,13 +1405,6 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/0B.553",
           "score": 0.4641,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/2C.567",
-          "score": 0.4333,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1439,9 +1439,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Principal Data Scientist - Rentals Shopping",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Data-Scientist_P749116-1",
-          "score": 0.5011,
+          "title": "Senior Manager, GTM Intelligence and Analytics",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751116-1",
+          "score": 0.5336,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1467,9 +1467,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Principal Product Designer, Mover Experience",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Designer--Mover-Experience_P750696-1",
-          "score": 0.4552,
+          "title": "Senior GTM Process Architect",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-GTM-Process-Architect_P751068",
+          "score": 0.4381,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1643,75 +1643,75 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5322,
+      "top_score": 0.5018,
       "roles": [
         {
-          "title": "Principal Product Manager - Extensible Compute",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0FEEDDF3D96C49F5B8EF095046B1DC68EXTERNALENUS11B8A499E6074CD48FBFCF56E44E5644/Principal-Product-Manager-Extensible-Compute",
-          "score": 0.5322,
+          "title": "Sr Sales Development Representative",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
+          "score": 0.5018,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Enterprise Product Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3E34CAC63D6D46C397DE968078CB0FE9EXTERNALENUS15D2F36026704EA2BFC3B26407BD6EEA/Enterprise-Product-Manager",
-          "score": 0.5017,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Engineer - Database Engineering",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C66ECBE0B994563B56313EA5B79CC4BEXTERNALENUS073C91F20758454492973F48A81FB04D/AI-Engineer-Database-Engineering",
-          "score": 0.4871,
+          "title": "Enterprise Account Executive",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAB242759BDE14552A6335A611D87E735EXTERNALENUS8F6FB9C4D68A482982EE14242C02FF56/Enterprise-Account-Executive",
+          "score": 0.472,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Alliance Manager, Public Sector Strategic Partnerships",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3C1FF929A7B14E3FAF19112A67E726F7EXTERNALENUS41E786C38D694E1CACA13CA67E07CE84/Alliance-Manager-Public-Sector-Strategic-Partnerships",
-          "score": 0.4743,
+          "title": "Technical Architect",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC063FEE9D9DE42B49CB425FB403AADECEXTERNALENUS3E1D38D8C3EF421E8DC3208DE5AAFB42/Technical-Architect",
+          "score": 0.4705,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - Database Engineering",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1765E102554A42B1A2389D13DEB3F1FBEXTERNALENUSDB1375F0EA5D404AB640259F94DBC995/Software-Engineer-Database-Engineering",
-          "score": 0.469,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC00EA226B6034DF5A2EFD41D1ADFEB8DEXTERNALENUS7F7322658E664E3180347AA62D60EFA8/Senior-Solution-Engineer",
+          "score": 0.4379,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Database Engineering",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
-          "score": 0.4638,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
+          "score": 0.4344,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. Project Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS1D9129F611FF41BD9BB1056C5A3C98D4EXTERNALENUS0C5C612EA60F46869023BE2FFC20F63A/Sr-Project-Manager",
-          "score": 0.4576,
+          "title": "Associate Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2F0F882E14FC485C85669FBD3AD25B49EXTERNALENUSE8EB7AF1810E422D8FE369C5E32EF92C/Associate-Solution-Engineer",
+          "score": 0.434,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - Unistore",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
-          "score": 0.4412,
+          "title": "Associate Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSE5F99FD02A8C4950B809B1B25926D8DDEXTERNALENUSE53E9CAEFE25461A8C75FB752D01E746/Associate-Solution-Engineer",
+          "score": 0.4334,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Events Program Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0DE6DE27190B48C19E6770E1BE7B0C68EXTERNALENUS35320566CE014204B36680B1B914C785/Events-Program-Manager",
-          "score": 0.4302,
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
+          "score": 0.4282,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.4258,
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6D01404BA17341EA9C4B660513696565EXTERNALENUSB874AF9942D5416CA51027FAF27202D1/Sr-District-Manager",
+          "score": 0.4277,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Technical Architect",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCECE4FDB11E648D7A02C69870DD36534EXTERNALENUSCCC6C30407DA46CF95DA877EED922E11/Technical-Architect",
+          "score": 0.3056,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1741,7 +1741,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2145,
+          "score": 0.2151,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
