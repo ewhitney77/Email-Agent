@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:02:32+00:00",
+  "generated_at": "2026-08-15T01:23:20+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 33,
+  "total_matches": 32,
   "companies": [
     {
       "company": "HubSpot",
@@ -179,28 +179,28 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
-          "score": 0.4647,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -243,7 +243,7 @@
         {
           "title": "LATAM Inbound Success Coach (ISC) - English & Portuguese Speakers",
           "url": "https://www.hubspot.com/careers/jobs/5131015?gh_jid=5131015",
-          "score": 0.431,
+          "score": 0.4311,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -270,14 +270,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -298,7 +298,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -312,7 +312,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -403,14 +403,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -442,7 +442,7 @@
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 27,
+      "match_count": 26,
       "top_score": 0.6481,
       "roles": [
         {
@@ -491,13 +491,6 @@
           "title": "Regional Sales Manager, Atlanta (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
           "score": 0.6295,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Tampa (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6092852004",
-          "score": 0.6238,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -654,6 +647,13 @@
           "score": 0.5724,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Data Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135124004",
+          "score": 0.5578,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Advocacy Intern",
@@ -1219,14 +1219,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1567,13 +1567,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Engineering Manager, Software Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Engineering-Manager--Software-Engineering_P751057-1",
-          "score": 0.4322,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1",
           "score": 0.4292,
@@ -1600,6 +1593,13 @@
           "score": 0.3908,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Creative Effectiveness Strategist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Creative-Effectiveness-Strategist_P751085",
+          "score": 0.3561,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Virginia)",
@@ -1653,16 +1653,23 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Enterprise Account Executive",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAB242759BDE14552A6335A611D87E735EXTERNALENUS8F6FB9C4D68A482982EE14242C02FF56/Enterprise-Account-Executive",
-          "score": 0.472,
+          "title": "Technical Architect",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC063FEE9D9DE42B49CB425FB403AADECEXTERNALENUS3E1D38D8C3EF421E8DC3208DE5AAFB42/Technical-Architect",
+          "score": 0.4705,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solution Engineer - Insurance & Asset Management",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS138059E7E8FC413F9D83D934B59F4BA1EXTERNALENUSA406EDA82314416F82BA6B5D1D92B81C/Solution-Engineer-Insurance-Asset-Management",
+          "score": 0.4591,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Technical Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC063FEE9D9DE42B49CB425FB403AADECEXTERNALENUS3E1D38D8C3EF421E8DC3208DE5AAFB42/Technical-Architect",
-          "score": 0.4705,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCECE4FDB11E648D7A02C69870DD36534EXTERNALENUSCCC6C30407DA46CF95DA877EED922E11/Technical-Architect",
+          "score": 0.4581,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1681,9 +1688,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Associate Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2F0F882E14FC485C85669FBD3AD25B49EXTERNALENUSE8EB7AF1810E422D8FE369C5E32EF92C/Associate-Solution-Engineer",
-          "score": 0.434,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
+          "score": 0.4344,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4B456C3CB2D44247920721680C9B7206EXTERNALENUS4C21E47C86664A7D8F0413F631CC2F64/Senior-Solution-Engineer",
+          "score": 0.4332,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1698,20 +1712,6 @@
           "title": "Sr. District Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
           "score": 0.4282,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Technical Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCECE4FDB11E648D7A02C69870DD36534EXTERNALENUSCCC6C30407DA46CF95DA877EED922E11/Technical-Architect",
-          "score": 0.3056,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
-          "score": 0.2535,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
