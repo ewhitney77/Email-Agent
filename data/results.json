@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:57:33+00:00",
+  "generated_at": "2026-08-18T18:47:05+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,22 +7,873 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 29,
+  "total_matches": 28,
   "companies": [
+    {
+      "company": "Cribl",
+      "url": "https://boards.greenhouse.io/cribl",
+      "error": null,
+      "match_count": 26,
+      "top_score": 0.6481,
+      "roles": [
+        {
+          "title": "Sr Dir Sales, East (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
+          "score": 0.6481,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Ohio (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135855004",
+          "score": 0.6457,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Minneapolis (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
+          "score": 0.6447,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Revenue Operations Analyst",
+          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
+          "score": 0.6441,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, NYC (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6121616004",
+          "score": 0.6429,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Bay Area (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6104704004",
+          "score": 0.6386,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Atlanta (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
+          "score": 0.6295,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Minneapolis (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
+          "score": 0.6216,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Revenue Enablement Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=5746418004",
+          "score": 0.6213,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, NYC (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6115646004",
+          "score": 0.6208,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Indianapolis (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
+          "score": 0.6191,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Product Manager (Platform)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6000110004",
+          "score": 0.6175,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Bay (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6114672004",
+          "score": 0.6174,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager,  Mid Atlantic/DMV (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6014118004",
+          "score": 0.6167,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Philadelphia (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
+          "score": 0.6156,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Analytics Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6120094004",
+          "score": 0.6146,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Regional Sales Manager, Miami (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6026759004",
+          "score": 0.6125,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Midwest (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5990909004",
+          "score": 0.6124,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
+          "score": 0.6094,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Bay Area (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
+          "score": 0.6093,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Italy",
+          "url": "https://cribl.io/job-detail/?gh_jid=6113638004",
+          "score": 0.6059,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Japan (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6110917004",
+          "score": 0.604,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Australia (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
+          "score": 0.6039,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, Storage & Analysis (West region)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5711526004",
+          "score": 0.6025,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Japan",
+          "url": "https://cribl.io/job-detail/?gh_jid=6098546004",
+          "score": 0.6006,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Business Manager, NYC",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123500004",
+          "score": 0.6004,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "CX Ops Associate Analyst",
+          "url": "https://cribl.io/job-detail/?gh_jid=5789384004",
+          "score": 0.58,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Software Engineer, Cribl AI",
+          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
+          "score": 0.5724,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Advocacy Intern",
+          "url": "https://cribl.io/job-detail/?gh_jid=6111976004",
+          "score": 0.5537,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Staff Product/Principal Product Manager, Cribl AI",
+          "url": "https://cribl.io/job-detail/?gh_jid=5764388004",
+          "score": 0.5498,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Channel Sales Manager, LATAM",
+          "url": "https://cribl.io/job-detail/?gh_jid=5826710004",
+          "score": 0.5467,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer, Core Platform",
+          "url": "https://cribl.io/job-detail/?gh_jid=6143413004",
+          "score": 0.5415,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Revenue Enablement Intern",
+          "url": "https://cribl.io/job-detail/?gh_jid=5165439004",
+          "score": 0.5393,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Development Representative, US",
+          "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
+          "score": 0.5371,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Manager, Software Engineering, Search Discovery",
+          "url": "https://cribl.io/job-detail/?gh_jid=6100828004",
+          "score": 0.5271,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "FP&A Systems and AI Enablement Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6117898004",
+          "score": 0.5268,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Engineering Manager, Stream Integrations",
+          "url": "https://cribl.io/job-detail/?gh_jid=5818194004",
+          "score": 0.5251,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Partner Business Manager, Japan",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137610004",
+          "score": 0.524,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Texas (SLED)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6107217004",
+          "score": 0.5217,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Support Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123463004",
+          "score": 0.5196,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Staff Information Systems Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6099635004",
+          "score": 0.5189,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer, Stream Control Plane",
+          "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
+          "score": 0.5163,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Technical Program Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6020459004",
+          "score": 0.5155,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solutions Engineering Manager, West (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6104059004",
+          "score": 0.5115,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sr. Software Engineer - Systems Insights",
+          "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
+          "score": 0.5109,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, San Francisco",
+          "url": "https://cribl.io/job-detail/?gh_jid=5766285004",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Commercial Sales Engineer, US West",
+          "url": "https://cribl.io/job-detail/?gh_jid=6143066004",
+          "score": 0.507,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, San Francisco (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
+          "score": 0.5043,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, Seattle and Pacific Northwest",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137830004",
+          "score": 0.5001,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Software Engineer, Edge",
+          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
+          "score": 0.4986,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
+          "score": 0.489,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Solutions Engineer, Southern Europe",
+          "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
+          "score": 0.4839,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer, Infrastructure",
+          "url": "https://cribl.io/job-detail/?gh_jid=5848459004",
+          "score": 0.4824,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sales Engineer, Italy",
+          "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
+          "score": 0.4797,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6100432004",
+          "score": 0.4702,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
+          "score": 0.4617,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Site Reliability Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6109420004",
+          "score": 0.452,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Solutions Engineer, UK",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135336004",
+          "score": 0.4464,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solutions Engineer, Germany",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
+          "score": 0.4449,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Solutions Engineer, ANZ & ASEAN",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123016004",
+          "score": 0.4106,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "HubSpot",
+      "url": "https://www.hubspot.com/careers/jobs",
+      "error": null,
+      "match_count": 2,
+      "top_score": 0.6275,
+      "roles": [
+        {
+          "title": "Lead Account Executive, Specialisation - Corporate - DACH (Germany Based)",
+          "url": "https://www.hubspot.com/careers/jobs/8030169?gh_jid=8030169",
+          "score": 0.6275,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "BDR Manager",
+          "url": "https://www.hubspot.com/careers/jobs/7777236?gh_jid=7777236",
+          "score": 0.6039,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "BDR Manager - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/8098444?gh_jid=8098444",
+          "score": 0.5737,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/8038099?gh_jid=8038099",
+          "score": 0.5615,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/5990854?gh_jid=5990854",
+          "score": 0.5603,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Inbound Sales Representative",
+          "url": "https://www.hubspot.com/careers/jobs/8098031?gh_jid=8098031",
+          "score": 0.547,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Enterprise",
+          "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
+          "score": 0.5428,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Mid-Market",
+          "url": "https://www.hubspot.com/careers/jobs/5990166?gh_jid=5990166",
+          "score": 0.5394,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Development Representative - Benelux",
+          "url": "https://www.hubspot.com/careers/jobs/8038109?gh_jid=8038109",
+          "score": 0.5376,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Mid-Market (Ontario & Quebec ONLY)",
+          "url": "https://www.hubspot.com/careers/jobs/5988617?gh_jid=5988617",
+          "score": 0.5371,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Corporate Account Executive (Based in Colombia)",
+          "url": "https://www.hubspot.com/careers/jobs/5990858?gh_jid=5990858",
+          "score": 0.5304,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Field Marketer",
+          "url": "https://www.hubspot.com/careers/jobs/7453017?gh_jid=7453017",
+          "score": 0.5274,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Development Representative - Nordics",
+          "url": "https://www.hubspot.com/careers/jobs/8038107?gh_jid=8038107",
+          "score": 0.5265,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive (Small Business) - Middle East & Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986944?gh_jid=5986944",
+          "score": 0.4997,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/5988676?gh_jid=5988676",
+          "score": 0.4987,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Middle East and Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986950?gh_jid=5986950",
+          "score": 0.4985,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Middle East and Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986951?gh_jid=5986951",
+          "score": 0.4985,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Success Manager, Small Business | ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/6306075?gh_jid=6306075",
+          "score": 0.4952,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive (Small Business) - Middle East and Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986943?gh_jid=5986943",
+          "score": 0.4948,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive (Small Business) - Middle East & Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986953?gh_jid=5986953",
+          "score": 0.4932,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Middle East and Africa",
+          "url": "https://www.hubspot.com/careers/jobs/5986952?gh_jid=5986952",
+          "score": 0.4897,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/5990225?gh_jid=5990225",
+          "score": 0.4841,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "JAPAC Lead Partner Solutions Architect",
+          "url": "https://www.hubspot.com/careers/jobs/7661444?gh_jid=7661444",
+          "score": 0.4829,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "score": 0.4722,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4722,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Deal Desk Analyst",
+          "url": "https://www.hubspot.com/careers/jobs/8097970?gh_jid=8097970",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "LATAM Inbound Success Coach 2026 - Spanish (P)",
+          "url": "https://www.hubspot.com/careers/jobs/8112791?gh_jid=8112791",
+          "score": 0.4576,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Business Development Manager",
+          "url": "https://www.hubspot.com/careers/jobs/8042996?gh_jid=8042996",
+          "score": 0.4482,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Success Manager, Small Business | ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
+          "score": 0.4425,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "LATAM Inbound Success Coach (ISC) - English & Portuguese Speakers",
+          "url": "https://www.hubspot.com/careers/jobs/5131015?gh_jid=5131015",
+          "score": 0.4311,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Latin America",
+          "url": "https://www.hubspot.com/careers/jobs/5988680?gh_jid=5988680",
+          "score": 0.4272,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Mid Market, DACH (Remote)",
+          "url": "https://www.hubspot.com/careers/jobs/5986426?gh_jid=5986426",
+          "score": 0.4202,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5913304?gh_jid=5913304",
+          "score": 0.4202,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
+          "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
+          "score": 0.4148,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "score": 0.4103,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "score": 0.4103,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "score": 0.4103,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive Small Business Italy",
+          "url": "https://www.hubspot.com/careers/jobs/6382666?gh_jid=6382666",
+          "score": 0.4062,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986964?gh_jid=5986964",
+          "score": 0.4024,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Success Manager, 1:Few (Trilingual in English, Spanish & Portuguese)",
+          "url": "https://www.hubspot.com/careers/jobs/7095005?gh_jid=7095005",
+          "score": 0.4022,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business - Ireland OR UK Based (Office, Flex or Remote)",
+          "url": "https://www.hubspot.com/careers/jobs/5986251?gh_jid=5986251",
+          "score": 0.4017,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive (Mexican territory, Colombia based)",
+          "url": "https://www.hubspot.com/careers/jobs/7137634?gh_jid=7137634",
+          "score": 0.3963,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5097150?gh_jid=5097150",
+          "score": 0.3915,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Mid Market, DACH",
+          "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5094673?gh_jid=5094673",
+          "score": 0.3866,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/6158968?gh_jid=6158968",
+          "score": 0.385,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive (English and Portuguese Fluency Required)",
+          "url": "https://www.hubspot.com/careers/jobs/5988684?gh_jid=5988684",
+          "score": 0.3701,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 / Business Development Rep (BDR)",
+          "url": "https://www.hubspot.com/careers/jobs/7083778?gh_jid=7083778",
+          "score": 0.3642,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Associate Contract Manager (Renewal Specialist) NAM Accounts",
+          "url": "https://www.hubspot.com/careers/jobs/6361650?gh_jid=6361650",
+          "score": 0.3626,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive SMB -France",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "score": 0.3454,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive SMB -France",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "score": 0.3454,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "French Associate Contract Manager",
+          "url": "https://www.hubspot.com/careers/jobs/8090664?gh_jid=8090664",
+          "score": 0.3312,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Corporate Account Executive (Mexican territory, Colombia based)",
+          "url": "https://www.hubspot.com/careers/jobs/7194406?gh_jid=7194406",
+          "score": 0.3291,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "French Associate Contract Manager",
+          "url": "https://www.hubspot.com/careers/jobs/8090666?gh_jid=8090666",
+          "score": 0.3277,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Core Partner Development Manager\uff08\u30d1\u30fc\u30c8\u30ca\u30fc\u55b6\u696d\uff09",
+          "url": "https://www.hubspot.com/careers/jobs/6448238?gh_jid=6448238",
+          "score": -0.0373,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
     {
       "company": "Datadog",
       "url": "https://careers.datadoghq.com/all-jobs/",
       "error": null,
-      "match_count": 1,
-      "top_score": 0.6518,
+      "match_count": 0,
+      "top_score": 0.5986,
       "roles": [
-        {
-          "title": "Director, Product Management - AI Observability",
-          "url": "https://careers.datadoghq.com/detail/7798672/?gh_jid=7798672",
-          "score": 0.6518,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
         {
           "title": "Area Vice President, Sales Engineering",
           "url": "https://careers.datadoghq.com/detail/7762722/?gh_jid=7762722",
@@ -284,14 +1135,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -346,6 +1197,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Developer Advocate - Service Management",
+          "url": "https://careers.datadoghq.com/detail/8139662/?gh_jid=8139662",
+          "score": 0.4881,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "AI Research Engineer - Datadog AI Research (DAIR)",
           "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
           "score": 0.4849,
@@ -370,6 +1228,13 @@
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
           "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Coordinator, Emerging Talent Recruiting",
+          "url": "https://careers.datadoghq.com/detail/8119837/?gh_jid=8119837",
+          "score": 0.4719,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -402,13 +1267,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Campus Coordinator, Technical Recruiting - EMEA",
-          "url": "https://careers.datadoghq.com/detail/8119837/?gh_jid=8119837",
-          "score": 0.4284,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Coordinator, Business Recruiting - Contract",
           "url": "https://careers.datadoghq.com/detail/7950433/?gh_jid=7950433",
           "score": 0.369,
@@ -435,864 +1293,6 @@
           "score": -0.0244,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Cribl",
-      "url": "https://boards.greenhouse.io/cribl",
-      "error": null,
-      "match_count": 25,
-      "top_score": 0.6481,
-      "roles": [
-        {
-          "title": "Sr Dir Sales, East (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
-          "score": 0.6481,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Ohio (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135855004",
-          "score": 0.6457,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
-          "score": 0.6447,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Revenue Operations Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
-          "score": 0.6441,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, NYC (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6121616004",
-          "score": 0.6429,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6104704004",
-          "score": 0.6386,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Atlanta (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
-          "score": 0.6295,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
-          "score": 0.6216,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Revenue Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=5746418004",
-          "score": 0.6213,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, NYC (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6115646004",
-          "score": 0.6208,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Indianapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
-          "score": 0.6191,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Director, Product Manager (Platform)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000110004",
-          "score": 0.6175,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Bay (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6114672004",
-          "score": 0.6174,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager,  Mid Atlantic/DMV (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6014118004",
-          "score": 0.6167,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Philadelphia (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
-          "score": 0.6156,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Miami (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6026759004",
-          "score": 0.6125,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Midwest (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5990909004",
-          "score": 0.6124,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
-          "score": 0.6094,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
-          "score": 0.6093,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Italy",
-          "url": "https://cribl.io/job-detail/?gh_jid=6113638004",
-          "score": 0.6059,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Japan (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6110917004",
-          "score": 0.604,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Australia (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
-          "score": 0.6039,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Storage & Analysis (West region)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5711526004",
-          "score": 0.6025,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Japan",
-          "url": "https://cribl.io/job-detail/?gh_jid=6098546004",
-          "score": 0.6006,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Business Manager, NYC",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123500004",
-          "score": 0.6004,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Revenue Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6030860004",
-          "score": 0.5931,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "CX Ops Associate Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=5789384004",
-          "score": 0.58,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
-          "score": 0.5724,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Advocacy Intern",
-          "url": "https://cribl.io/job-detail/?gh_jid=6111976004",
-          "score": 0.5537,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. Staff Product/Principal Product Manager, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=5764388004",
-          "score": 0.5498,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Channel Sales Manager, LATAM",
-          "url": "https://cribl.io/job-detail/?gh_jid=5826710004",
-          "score": 0.5467,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer, Core Platform",
-          "url": "https://cribl.io/job-detail/?gh_jid=6143413004",
-          "score": 0.5415,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Revenue Enablement Intern",
-          "url": "https://cribl.io/job-detail/?gh_jid=5165439004",
-          "score": 0.5393,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative, US",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
-          "score": 0.5371,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Manager, Software Engineering, Search Discovery",
-          "url": "https://cribl.io/job-detail/?gh_jid=6100828004",
-          "score": 0.5271,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "FP&A Systems and AI Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6117898004",
-          "score": 0.5268,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Engineering Manager, Stream Integrations",
-          "url": "https://cribl.io/job-detail/?gh_jid=5818194004",
-          "score": 0.5251,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Partner Business Manager, Japan",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137610004",
-          "score": 0.524,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Texas (SLED)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6107217004",
-          "score": 0.5217,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Support Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123463004",
-          "score": 0.5196,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Staff Information Systems Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6099635004",
-          "score": 0.5189,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer, Stream Control Plane",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
-          "score": 0.5163,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Technical Program Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6020459004",
-          "score": 0.5155,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineering Manager, West (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6104059004",
-          "score": 0.5115,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sr. Software Engineer - Systems Insights",
-          "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
-          "score": 0.5109,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, San Francisco",
-          "url": "https://cribl.io/job-detail/?gh_jid=5766285004",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Commercial Sales Engineer, US West",
-          "url": "https://cribl.io/job-detail/?gh_jid=6143066004",
-          "score": 0.507,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, San Francisco (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-          "score": 0.5043,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Seattle and Pacific Northwest",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137830004",
-          "score": 0.5001,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Edge",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
-          "score": 0.4986,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
-          "score": 0.489,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Solutions Engineer, Southern Europe",
-          "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
-          "score": 0.4839,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer, Infrastructure",
-          "url": "https://cribl.io/job-detail/?gh_jid=5848459004",
-          "score": 0.4824,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sales Engineer, Italy",
-          "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
-          "score": 0.4797,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6100432004",
-          "score": 0.4702,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
-          "score": 0.4617,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Site Reliability Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6109420004",
-          "score": 0.452,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Solutions Engineer, UK",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135336004",
-          "score": 0.4464,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solutions Engineer, Germany",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
-          "score": 0.4449,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Solutions Engineer, ANZ & ASEAN",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123016004",
-          "score": 0.4106,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
-      "company": "HubSpot",
-      "url": "https://www.hubspot.com/careers/jobs",
-      "error": null,
-      "match_count": 3,
-      "top_score": 0.6275,
-      "roles": [
-        {
-          "title": "Lead Account Executive, Specialisation - Corporate - DACH (Germany Based)",
-          "url": "https://www.hubspot.com/careers/jobs/8030169?gh_jid=8030169",
-          "score": 0.6275,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Lead Account Executive, Specialisation - Corporate - DACH (Ireland Based)",
-          "url": "https://www.hubspot.com/careers/jobs/8030166?gh_jid=8030166",
-          "score": 0.6214,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "BDR Manager",
-          "url": "https://www.hubspot.com/careers/jobs/7777236?gh_jid=7777236",
-          "score": 0.6039,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "BDR Manager - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8098444?gh_jid=8098444",
-          "score": 0.5737,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Business Development Representative - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8038099?gh_jid=8038099",
-          "score": 0.5615,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/5990854?gh_jid=5990854",
-          "score": 0.5603,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/8098031?gh_jid=8098031",
-          "score": 0.547,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Enterprise",
-          "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
-          "score": 0.5428,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Mid-Market",
-          "url": "https://www.hubspot.com/careers/jobs/5990166?gh_jid=5990166",
-          "score": 0.5394,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Business Development Representative - Benelux",
-          "url": "https://www.hubspot.com/careers/jobs/8038109?gh_jid=8038109",
-          "score": 0.5376,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Mid-Market (Ontario & Quebec ONLY)",
-          "url": "https://www.hubspot.com/careers/jobs/5988617?gh_jid=5988617",
-          "score": 0.5371,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Corporate Account Executive (Based in Colombia)",
-          "url": "https://www.hubspot.com/careers/jobs/5990858?gh_jid=5990858",
-          "score": 0.5304,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Field Marketer",
-          "url": "https://www.hubspot.com/careers/jobs/7453017?gh_jid=7453017",
-          "score": 0.5274,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Business Development Representative - Nordics",
-          "url": "https://www.hubspot.com/careers/jobs/8038107?gh_jid=8038107",
-          "score": 0.5265,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (Small Business) - Middle East & Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986944?gh_jid=5986944",
-          "score": 0.4997,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/5988676?gh_jid=5988676",
-          "score": 0.4987,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986950?gh_jid=5986950",
-          "score": 0.4985,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986951?gh_jid=5986951",
-          "score": 0.4985,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager, Small Business | ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6306075?gh_jid=6306075",
-          "score": 0.4952,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (Small Business) - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986943?gh_jid=5986943",
-          "score": 0.4948,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (Small Business) - Middle East & Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986953?gh_jid=5986953",
-          "score": 0.4932,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986952?gh_jid=5986952",
-          "score": 0.4897,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/5990225?gh_jid=5990225",
-          "score": 0.4841,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "JAPAC Lead Partner Solutions Architect",
-          "url": "https://www.hubspot.com/careers/jobs/7661444?gh_jid=7661444",
-          "score": 0.4829,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
-          "score": 0.4647,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
-          "score": 0.4647,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "LATAM Inbound Success Coach 2026 - Spanish (P)",
-          "url": "https://www.hubspot.com/careers/jobs/8112791?gh_jid=8112791",
-          "score": 0.4576,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Business Development Manager",
-          "url": "https://www.hubspot.com/careers/jobs/8042996?gh_jid=8042996",
-          "score": 0.4482,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager, Small Business | ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
-          "score": 0.4425,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "LATAM Inbound Success Coach (ISC) - English & Portuguese Speakers",
-          "url": "https://www.hubspot.com/careers/jobs/5131015?gh_jid=5131015",
-          "score": 0.4311,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Latin America",
-          "url": "https://www.hubspot.com/careers/jobs/5988680?gh_jid=5988680",
-          "score": 0.4272,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Mid Market, DACH (Remote)",
-          "url": "https://www.hubspot.com/careers/jobs/5986426?gh_jid=5986426",
-          "score": 0.4202,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Support Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/5913304?gh_jid=5913304",
-          "score": 0.4202,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
-          "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
-          "score": 0.4148,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
-          "score": 0.4103,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
-          "score": 0.4103,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
-          "score": 0.4103,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive Small Business Italy",
-          "url": "https://www.hubspot.com/careers/jobs/6382666?gh_jid=6382666",
-          "score": 0.4062,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986964?gh_jid=5986964",
-          "score": 0.4024,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager, 1:Few (Trilingual in English, Spanish & Portuguese)",
-          "url": "https://www.hubspot.com/careers/jobs/7095005?gh_jid=7095005",
-          "score": 0.4022,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Small Business - Ireland OR UK Based (Office, Flex or Remote)",
-          "url": "https://www.hubspot.com/careers/jobs/5986251?gh_jid=5986251",
-          "score": 0.4017,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (Mexican territory, Colombia based)",
-          "url": "https://www.hubspot.com/careers/jobs/7137634?gh_jid=7137634",
-          "score": 0.3963,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "German Customer Support Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/5097150?gh_jid=5097150",
-          "score": 0.3915,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Mid Market, DACH",
-          "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
-          "score": 0.3867,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "German Customer Support Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/5094673?gh_jid=5094673",
-          "score": 0.3866,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/6158968?gh_jid=6158968",
-          "score": 0.385,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (English and Portuguese Fluency Required)",
-          "url": "https://www.hubspot.com/careers/jobs/5988684?gh_jid=5988684",
-          "score": 0.3701,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 / Business Development Rep (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/7083778?gh_jid=7083778",
-          "score": 0.3642,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Associate Contract Manager (Renewal Specialist) NAM Accounts",
-          "url": "https://www.hubspot.com/careers/jobs/6361650?gh_jid=6361650",
-          "score": 0.3626,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
-          "score": 0.3454,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
-          "score": 0.3454,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "French Associate Contract Manager",
-          "url": "https://www.hubspot.com/careers/jobs/8090664?gh_jid=8090664",
-          "score": 0.3312,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Corporate Account Executive (Mexican territory, Colombia based)",
-          "url": "https://www.hubspot.com/careers/jobs/7194406?gh_jid=7194406",
-          "score": 0.3291,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "French Associate Contract Manager",
-          "url": "https://www.hubspot.com/careers/jobs/8090666?gh_jid=8090666",
-          "score": 0.3277,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Core Partner Development Manager\uff08\u30d1\u30fc\u30c8\u30ca\u30fc\u55b6\u696d\uff09",
-          "url": "https://www.hubspot.com/careers/jobs/6448238?gh_jid=6448238",
-          "score": -0.0373,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
@@ -1375,13 +1375,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/1C.06D-55.509",
-          "score": 0.563,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/19.F52-A3.50C",
           "score": 0.5613,
           "matched": false,
@@ -1398,6 +1391,13 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.059",
           "score": 0.5551,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/95.071",
+          "score": 0.5545,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1523,11 +1523,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Virginia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VA/Remote-Mortgage-Loan-Officer--Virginia-_P749589-1",
-          "score": 0.3082,
+          "title": "Principal Product Manager, Rental Listings",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Rental-Listings_P751113-1",
+          "score": 0.3489,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Remote Mortgage Loan Officer (Washington DC)",
@@ -1551,11 +1551,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.2886,
+          "title": "Senior Internal Auditor",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Internal-Auditor_P751055-1",
+          "score": 0.2912,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Zillow\u2019s Global Applicant Privacy Notice",
@@ -1650,75 +1650,75 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5018,
+      "top_score": 0.5096,
       "roles": [
         {
-          "title": "Sr Sales Development Representative",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
-          "score": 0.5018,
+          "title": "Staff Product Manager - Developer Experience and Test Pyramid",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSF5F51F8961494F269A2BD6ED80DC61F5EXTERNALENUS4A8607F95E63427D91DE183F43012C69/Staff-Product-Manager-Developer-Experience-and-Test-Pyramid",
+          "score": 0.5096,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Technical Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCECE4FDB11E648D7A02C69870DD36534EXTERNALENUSCCC6C30407DA46CF95DA877EED922E11/Technical-Architect",
-          "score": 0.4581,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Analyst, GTM Analytics",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7C0F46CE85F9420AB8C5178FE3086AEFEXTERNALENUS90820295815543C182FD3D40C8C124A7/Staff-Analyst-GTM-Analytics",
-          "score": 0.4544,
+          "title": "Sr. Technical Architect",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSE961CB917C84451FB50CFFAC72A681AAEXTERNALENUSF54C4A92D26A481AA694D69DC1DCC514/Sr-Technical-Architect",
+          "score": 0.4573,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC00EA226B6034DF5A2EFD41D1ADFEB8DEXTERNALENUS7F7322658E664E3180347AA62D60EFA8/Senior-Solution-Engineer",
-          "score": 0.4379,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA3D14A3103F04DD38A02C1AE998A519DEXTERNALENUSE9269D2EF5C148E1BFBB1214EF18E318/Senior-Solution-Engineer",
+          "score": 0.4313,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer \u2014 Dynamic Tables, Performance",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4F22D58EEF3545A8B4472F76CA1188C8EXTERNALENUS514BFBDFFE614809BAB5D100CD2F44D6/Staff-Software-Engineer-\u2014-Dynamic-Tables-Performance",
-          "score": 0.4352,
+          "title": "Senior Solution Engineer, Media & Entertainment",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS765296E9E2724AE3BAAA308B0BD123E5EXTERNALENUS1B7846A6C18C4BB9A1C0B4EFB75C1B37/Senior-Solution-Engineer-Media-Entertainment",
+          "score": 0.4295,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
-          "score": 0.4344,
+          "title": "Staff Data Scientist, Finance",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
+          "score": 0.428,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4B456C3CB2D44247920721680C9B7206EXTERNALENUS4C21E47C86664A7D8F0413F631CC2F64/Senior-Solution-Engineer",
-          "score": 0.4332,
+          "title": "Sr. District Manager, Commercial",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
+          "score": 0.4268,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6D01404BA17341EA9C4B660513696565EXTERNALENUSB874AF9942D5416CA51027FAF27202D1/Sr-District-Manager",
-          "score": 0.4283,
+          "title": "Senior Solution Engineer, HCLS",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAC710CE73A494055AD7EFE8D1932F30FEXTERNALENUS7029C2B55B4E497280484B4FBAE7BC83/Senior-Solution-Engineer-HCLS",
+          "score": 0.4194,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
+          "title": "Senior Software Engineer - Observe by Snowflake, Indexing and Query Execution",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS99E159A8BB32467FBBA297C23DAAC22DEXTERNALENUSB8FF4E0D7FDB4C7AA1391D69D5CA4B09/Senior-Software-Engineer-Observe-by-Snowflake-Indexing-and-Query-Execution",
+          "score": 0.4156,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solution Engineer - Insurance & Asset Management",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS138059E7E8FC413F9D83D934B59F4BA1EXTERNALENUSA406EDA82314416F82BA6B5D1D92B81C/Solution-Engineer-Insurance-Asset-Management",
-          "score": 0.3631,
+          "title": "Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS716F0BE7B3E04F85ACE50AE49833F556EXTERNALENUSD790C83962CF43788F80EB98B1577016/Solution-Engineer",
+          "score": 0.3186,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solutions Engineer - Global Accounts",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5D35559DF4A2470482D7A8519A471BE4EXTERNALENUS122679B101D04EF9B0E1E1DFA8AC216E/Solutions-Engineer-Global-Accounts",
+          "score": 0.2739,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
