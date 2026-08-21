@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:26:49+00:00",
+  "generated_at": "2026-08-21T06:55:00+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -130,14 +130,14 @@
         },
         {
           "title": "Account Executive, Small Business - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986951?gh_jid=5986951",
+          "url": "https://www.hubspot.com/careers/jobs/5986950?gh_jid=5986950",
           "score": 0.4985,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Middle East and Africa",
-          "url": "https://www.hubspot.com/careers/jobs/5986950?gh_jid=5986950",
+          "url": "https://www.hubspot.com/careers/jobs/5986951?gh_jid=5986951",
           "score": 0.4985,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -186,14 +186,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -256,13 +256,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
@@ -271,6 +264,13 @@
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -291,14 +291,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -382,14 +382,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -430,11 +430,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Core Partner Development Manager\uff08\u30d1\u30fc\u30c8\u30ca\u30fc\u55b6\u696d\uff09",
+          "title": "Core Partner Development Manager\uff08\u30d1\u30fc\u30c8\u30ca\u30fc\u55b6\u696d\uff09,Tokyo-Japan",
           "url": "https://www.hubspot.com/careers/jobs/6448238?gh_jid=6448238",
-          "score": -0.0373,
+          "score": -0.0241,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1518,7 +1518,7 @@
         {
           "title": "Senior Creative Effectiveness Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Creative-Effectiveness-Strategist_P751085",
-          "score": 0.3599,
+          "score": 0.36,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1553,7 +1553,7 @@
         {
           "title": "Senior Internal Auditor",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Internal-Auditor_P751055-1",
-          "score": 0.2834,
+          "score": 0.2832,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1755,7 +1755,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2179,
+          "score": 0.217,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
