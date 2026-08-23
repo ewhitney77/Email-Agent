@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:47:10+00:00",
+  "generated_at": "2026-08-23T18:37:03+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -891,7 +891,7 @@
         {
           "title": "Manager, Software Development Engineering",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Software-Development-Engineering_P750930-1",
-          "score": 0.517,
+          "score": 0.5174,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -912,7 +912,7 @@
         {
           "title": "Software Development Engineer, IOS",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1",
-          "score": 0.415,
+          "score": 0.4151,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1674,6 +1674,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Sr. Manager Partner Development, Accenture",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
@@ -1721,13 +1728,6 @@
           "score": 0.4194,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.3765,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
