@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:47:50+00:00",
+  "generated_at": "2026-08-23T12:47:10+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -872,145 +872,145 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6349,
+      "top_score": 0.6287,
       "roles": [
         {
           "title": "Senior Data Scientist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1",
-          "score": 0.6349,
+          "score": 0.6287,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Software Development Engineer, Big Data",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer--Big-Data_P750585-1",
-          "score": 0.5743,
+          "score": 0.5742,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Manager, Software Development Engineering",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Software-Development-Engineering_P750930-1",
-          "score": 0.5172,
+          "score": 0.517,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Sales Enablement Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1",
-          "score": 0.5054,
+          "score": 0.5008,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Manager, Corporate Development",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Corporate-Development_P750773",
-          "score": 0.457,
+          "score": 0.4573,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Software Development Engineer, IOS",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1",
-          "score": 0.413,
+          "score": 0.415,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Lead Counsel, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Lead-Counsel--Rentals_P751112-1",
-          "score": 0.3732,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.3683,
+          "score": 0.3733,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mortgage Loan Officer (Plano, TX)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
-          "score": 0.3677,
+          "score": 0.3718,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Mortgage Loan Officer (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Mortgage-Loan-Officer--Seattle--WA-_P749620",
-          "score": 0.356,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
-          "score": 0.3525,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
-          "score": 0.3512,
+          "title": "Mortgage Loan Officer (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
+          "score": 0.368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3489,
+          "score": 0.351,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Loan Officer Development Program (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P751198",
-          "score": 0.3416,
+          "title": "Mortgage Loan Officer (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Mortgage-Loan-Officer--Seattle--WA-_P749620",
+          "score": 0.3482,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.3377,
+          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
+          "score": 0.3462,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
+          "score": 0.3443,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Loan Officer Development Program (Irvine, CA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Loan-Officer-Development-Program--Irvine--CA-_P751196-1",
-          "score": 0.3335,
+          "score": 0.3391,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Plano, TX)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P751198",
+          "score": 0.3346,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
+          "score": 0.3249,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Loan Officer Development Program (Seattle, WA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
-          "score": 0.3266,
+          "score": 0.3233,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.3249,
+          "score": 0.3193,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Workplace Coordinator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Workplace-Coordinator_P750669",
-          "score": 0.3084,
+          "score": 0.3098,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Loan Officer Development Program (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
-          "score": 0.303,
+          "score": 0.2909,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1674,13 +1674,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Sr. Manager Partner Development, Accenture",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
@@ -1691,6 +1684,13 @@
           "title": "Solutions Engineer - Global Accounts",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS5D35559DF4A2470482D7A8519A471BE4EXTERNALENUS122679B101D04EF9B0E1E1DFA8AC216E/Solutions-Engineer-Global-Accounts",
           "score": 0.4348,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Data Scientist, Finance",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
+          "score": 0.428,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1709,6 +1709,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Sr. District Manager, Commercial",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
+          "score": 0.4268,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Solution Engineer, HCLS",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSAC710CE73A494055AD7EFE8D1932F30FEXTERNALENUS7029C2B55B4E497280484B4FBAE7BC83/Senior-Solution-Engineer-HCLS",
           "score": 0.4194,
@@ -1716,18 +1723,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Data Scientist, Finance",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
-          "score": 0.3892,
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.3765,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sr. District Manager, Commercial",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
-          "score": 0.2373,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
