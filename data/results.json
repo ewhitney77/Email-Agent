@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:58:22+00:00",
+  "generated_at": "2026-08-24T18:46:47+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -10,19 +10,597 @@
   "total_matches": 29,
   "companies": [
     {
-      "company": "HubSpot",
-      "url": "https://www.hubspot.com/careers/jobs",
+      "company": "Cribl",
+      "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 2,
-      "top_score": 0.6831,
+      "match_count": 27,
+      "top_score": 0.6542,
       "roles": [
         {
-          "title": "Engineering Manager, AI Marketing Solutions",
-          "url": "https://www.hubspot.com/careers/jobs/8019271?gh_jid=8019271",
-          "score": 0.6831,
+          "title": "Revenue Strategy & Planning, Sr. Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6147586004",
+          "score": 0.6542,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
+        {
+          "title": "Sr Dir Sales, East (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
+          "score": 0.6481,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Ohio (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135855004",
+          "score": 0.6457,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Minneapolis (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
+          "score": 0.6447,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Revenue Operations Analyst",
+          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
+          "score": 0.6441,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, NYC (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6121616004",
+          "score": 0.6429,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Bay Area (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6104704004",
+          "score": 0.6386,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Atlanta (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
+          "score": 0.6295,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Minneapolis (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
+          "score": 0.6216,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Revenue Enablement Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=5746418004",
+          "score": 0.6213,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, North Carolina (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6116623004",
+          "score": 0.6211,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, NYC (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6115646004",
+          "score": 0.6208,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Indianapolis (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
+          "score": 0.6191,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Product Manager (Platform)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6000110004",
+          "score": 0.6175,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Bay (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6114672004",
+          "score": 0.6174,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager,  Mid Atlantic/DMV (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6014118004",
+          "score": 0.6167,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Philadelphia (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
+          "score": 0.6156,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Analytics Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6120094004",
+          "score": 0.6146,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Regional Sales Director, Midwest (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5990909004",
+          "score": 0.6124,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
+          "score": 0.6094,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Bay Area (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
+          "score": 0.6093,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Dallas/Fort Worth (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6147509004",
+          "score": 0.6052,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Japan (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6110917004",
+          "score": 0.604,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Australia (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
+          "score": 0.6039,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, Storage & Analysis (West region)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5711526004",
+          "score": 0.6025,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Director, Japan",
+          "url": "https://cribl.io/job-detail/?gh_jid=6098546004",
+          "score": 0.6006,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Business Manager, NYC",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123500004",
+          "score": 0.6004,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "CX Ops Associate Analyst",
+          "url": "https://cribl.io/job-detail/?gh_jid=5789384004",
+          "score": 0.58,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Software Engineer, Cribl AI",
+          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
+          "score": 0.5724,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Data Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135124004",
+          "score": 0.5578,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sr. Staff Product/Principal Product Manager, Cribl AI",
+          "url": "https://cribl.io/job-detail/?gh_jid=5764388004",
+          "score": 0.5498,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Channel Sales Manager, LATAM",
+          "url": "https://cribl.io/job-detail/?gh_jid=5826710004",
+          "score": 0.5467,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer, Core Platform",
+          "url": "https://cribl.io/job-detail/?gh_jid=6143413004",
+          "score": 0.5415,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Revenue Enablement Intern",
+          "url": "https://cribl.io/job-detail/?gh_jid=5165439004",
+          "score": 0.5393,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Development Representative, US",
+          "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
+          "score": 0.5371,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "FP&A Systems and AI Enablement Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6117898004",
+          "score": 0.5268,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Engineering Manager, Stream Integrations",
+          "url": "https://cribl.io/job-detail/?gh_jid=5818194004",
+          "score": 0.5251,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Partner Business Manager, Japan",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137610004",
+          "score": 0.524,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Sacramento (SLED)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6146658004",
+          "score": 0.5226,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Customer Support Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123463004",
+          "score": 0.5196,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer, Stream Control Plane",
+          "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
+          "score": 0.5163,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Technical Program Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6020459004",
+          "score": 0.5155,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solutions Engineering Manager, West (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6104059004",
+          "score": 0.5115,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sr. Software Engineer - Systems Insights",
+          "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
+          "score": 0.5109,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, San Francisco",
+          "url": "https://cribl.io/job-detail/?gh_jid=5766285004",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Commercial Sales Engineer, US West",
+          "url": "https://cribl.io/job-detail/?gh_jid=6143066004",
+          "score": 0.507,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, San Francisco (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
+          "score": 0.5043,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, Seattle and Pacific Northwest",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137830004",
+          "score": 0.5001,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Software Engineer, Edge",
+          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
+          "score": 0.4986,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
+          "score": 0.489,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Solutions Engineer, Southern Europe",
+          "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
+          "score": 0.4839,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer, Infrastructure",
+          "url": "https://cribl.io/job-detail/?gh_jid=5848459004",
+          "score": 0.4824,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Sales Engineer, Italy",
+          "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
+          "score": 0.4797,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer, Edge",
+          "url": "https://cribl.io/job-detail/?gh_jid=6144377004",
+          "score": 0.4788,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6100432004",
+          "score": 0.4702,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
+          "score": 0.4617,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Site Reliability Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6109420004",
+          "score": 0.452,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Solutions Engineer, UK",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135336004",
+          "score": 0.4464,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solutions Engineer, Germany",
+          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
+          "score": 0.4449,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Partner Solutions Engineer, ANZ & ASEAN",
+          "url": "https://cribl.io/job-detail/?gh_jid=6123016004",
+          "score": 0.4106,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+      "error": null,
+      "match_count": 1,
+      "top_score": 0.629,
+      "roles": [
+        {
+          "title": "Senior Data Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1",
+          "score": 0.629,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Software Development Engineer, Big Data",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer--Big-Data_P750585-1",
+          "score": 0.5747,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Manager, Software Development Engineering",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Software-Development-Engineering_P750930-1",
+          "score": 0.5173,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Sales Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1",
+          "score": 0.5026,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Manager, Corporate Development",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Corporate-Development_P750773",
+          "score": 0.4571,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Software Development Engineer, IOS",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1",
+          "score": 0.4156,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Lead Counsel, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Lead-Counsel--Rentals_P751112-1",
+          "score": 0.3732,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Plano, TX)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
+          "score": 0.3715,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
+          "score": 0.368,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
+          "score": 0.3509,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Mortgage-Loan-Officer--Seattle--WA-_P749620",
+          "score": 0.3478,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
+          "score": 0.3461,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
+          "score": 0.344,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Loan-Officer-Development-Program--Irvine--CA-_P751196-1",
+          "score": 0.3391,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Plano, TX)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P751198",
+          "score": 0.3346,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
+          "score": 0.3247,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
+          "score": 0.3232,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Overland Park, KS)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
+          "score": 0.319,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Workplace Coordinator",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Workplace-Coordinator_P750669",
+          "score": 0.3107,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Loan Officer Development Program (Overland Park, KS)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
+          "score": 0.2908,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Zillow\u2019s Global Applicant Privacy Notice",
+          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
+          "score": 0.0673,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "HubSpot",
+      "url": "https://www.hubspot.com/careers/jobs",
+      "error": null,
+      "match_count": 1,
+      "top_score": 0.6039,
+      "roles": [
         {
           "title": "BDR Manager",
           "url": "https://www.hubspot.com/careers/jobs/7777236?gh_jid=7777236",
@@ -207,14 +785,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -228,14 +806,14 @@
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -291,14 +869,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -312,7 +890,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -326,7 +904,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -363,6 +941,13 @@
           "title": "Account Executive - Mid Market, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
           "score": 0.3867,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5094673?gh_jid=5094673",
+          "score": 0.3866,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -433,591 +1018,6 @@
           "title": "Core Partner Development Manager\uff08\u30d1\u30fc\u30c8\u30ca\u30fc\u55b6\u696d\uff09,Tokyo-Japan",
           "url": "https://www.hubspot.com/careers/jobs/6448238?gh_jid=6448238",
           "score": -0.0241,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Cribl",
-      "url": "https://boards.greenhouse.io/cribl",
-      "error": null,
-      "match_count": 26,
-      "top_score": 0.6542,
-      "roles": [
-        {
-          "title": "Revenue Strategy & Planning, Sr. Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6147586004",
-          "score": 0.6542,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Dir Sales, East (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
-          "score": 0.6481,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Ohio (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135855004",
-          "score": 0.6457,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
-          "score": 0.6447,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Revenue Operations Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
-          "score": 0.6441,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, NYC (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6121616004",
-          "score": 0.6429,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6104704004",
-          "score": 0.6386,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Atlanta (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5817387004",
-          "score": 0.6295,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
-          "score": 0.6216,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Revenue Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=5746418004",
-          "score": 0.6213,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, North Carolina (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6116623004",
-          "score": 0.6211,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, NYC (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6115646004",
-          "score": 0.6208,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Indianapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
-          "score": 0.6191,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Director, Product Manager (Platform)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000110004",
-          "score": 0.6175,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Bay (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6114672004",
-          "score": 0.6174,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager,  Mid Atlantic/DMV (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6014118004",
-          "score": 0.6167,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Philadelphia (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
-          "score": 0.6156,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Midwest (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5990909004",
-          "score": 0.6124,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
-          "score": 0.6094,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
-          "score": 0.6093,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Dallas/Fort Worth (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6147509004",
-          "score": 0.6052,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Japan (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6110917004",
-          "score": 0.604,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Australia (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5787986004",
-          "score": 0.6039,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Storage & Analysis (West region)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5711526004",
-          "score": 0.6025,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Japan",
-          "url": "https://cribl.io/job-detail/?gh_jid=6098546004",
-          "score": 0.6006,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Business Manager, NYC",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123500004",
-          "score": 0.6004,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "CX Ops Associate Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=5789384004",
-          "score": 0.58,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
-          "score": 0.5724,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Advocacy Intern",
-          "url": "https://cribl.io/job-detail/?gh_jid=6111976004",
-          "score": 0.5537,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Channel Sales Manager, LATAM",
-          "url": "https://cribl.io/job-detail/?gh_jid=5826710004",
-          "score": 0.5467,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer, Core Platform",
-          "url": "https://cribl.io/job-detail/?gh_jid=6143413004",
-          "score": 0.5415,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Revenue Enablement Intern",
-          "url": "https://cribl.io/job-detail/?gh_jid=5165439004",
-          "score": 0.5393,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative, US",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
-          "score": 0.5371,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Manager, Software Engineering, Search Discovery",
-          "url": "https://cribl.io/job-detail/?gh_jid=6100828004",
-          "score": 0.5271,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "FP&A Systems and AI Enablement Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6117898004",
-          "score": 0.5268,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Engineering Manager, Stream Integrations",
-          "url": "https://cribl.io/job-detail/?gh_jid=5818194004",
-          "score": 0.5251,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Partner Business Manager, Japan",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137610004",
-          "score": 0.524,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Sacramento (SLED)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6146658004",
-          "score": 0.5226,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Support Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123463004",
-          "score": 0.5196,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Staff Information Systems Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6099635004",
-          "score": 0.5189,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer, Stream Control Plane",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
-          "score": 0.5163,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Technical Program Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6020459004",
-          "score": 0.5155,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineering Manager, West (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6104059004",
-          "score": 0.5115,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sr. Software Engineer - Systems Insights",
-          "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
-          "score": 0.5109,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, San Francisco",
-          "url": "https://cribl.io/job-detail/?gh_jid=5766285004",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Commercial Sales Engineer, US West",
-          "url": "https://cribl.io/job-detail/?gh_jid=6143066004",
-          "score": 0.507,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, San Francisco (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-          "score": 0.5043,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Seattle and Pacific Northwest",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137830004",
-          "score": 0.5001,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Edge",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
-          "score": 0.4986,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
-          "score": 0.489,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Solutions Engineer, Southern Europe",
-          "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
-          "score": 0.4839,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer, Infrastructure",
-          "url": "https://cribl.io/job-detail/?gh_jid=5848459004",
-          "score": 0.4824,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sales Engineer, Italy",
-          "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
-          "score": 0.4797,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer, Edge",
-          "url": "https://cribl.io/job-detail/?gh_jid=6144377004",
-          "score": 0.4788,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6100432004",
-          "score": 0.4702,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
-          "score": 0.4617,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Site Reliability Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6109420004",
-          "score": 0.452,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Solutions Engineer, UK",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135336004",
-          "score": 0.4464,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solutions Engineer, Germany",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
-          "score": 0.4449,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Solutions Engineer, ANZ & ASEAN",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123016004",
-          "score": 0.4106,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 1,
-      "top_score": 0.629,
-      "roles": [
-        {
-          "title": "Senior Data Scientist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1",
-          "score": 0.629,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Software Development Engineer, Big Data",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer--Big-Data_P750585-1",
-          "score": 0.5747,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Manager, Software Development Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Software-Development-Engineering_P750930-1",
-          "score": 0.5172,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Sales Enablement Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1",
-          "score": 0.5026,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Manager, Corporate Development",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Corporate-Development_P750773",
-          "score": 0.4571,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Software Development Engineer, IOS",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1",
-          "score": 0.4154,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Lead Counsel, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Lead-Counsel--Rentals_P751112-1",
-          "score": 0.3732,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
-          "score": 0.3715,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.368,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3509,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Mortgage-Loan-Officer--Seattle--WA-_P749620",
-          "score": 0.3478,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
-          "score": 0.3461,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
-          "score": 0.344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Loan-Officer-Development-Program--Irvine--CA-_P751196-1",
-          "score": 0.3391,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P751198",
-          "score": 0.3346,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.3247,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
-          "score": 0.3232,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Overland Park, KS)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.319,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Workplace Coordinator",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Workplace-Coordinator_P750669",
-          "score": 0.3107,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Loan Officer Development Program (Overland Park, KS)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
-          "score": 0.2908,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1361,14 +1361,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1559,8 +1559,8 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C5.F57",
-          "score": 0.5332,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.07B",
+          "score": 0.5427,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1755,7 +1755,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.217,
+          "score": 0.2172,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
