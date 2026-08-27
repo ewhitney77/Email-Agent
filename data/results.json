@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:55:46+00:00",
+  "generated_at": "2026-08-27T08:08:43+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 31,
+  "total_matches": 30,
   "companies": [
     {
       "company": "Cribl",
@@ -311,13 +311,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solutions Engineering Manager, West (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6104059004",
-          "score": 0.5115,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Sr. Software Engineer - Systems Insights",
           "url": "https://cribl.io/job-detail/?gh_jid=6109907004",
           "score": 0.5109,
@@ -430,167 +423,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Security Operations Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6097202004",
+          "score": 0.4339,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Partner Solutions Engineer, ANZ & ASEAN",
           "url": "https://cribl.io/job-detail/?gh_jid=6123016004",
           "score": 0.4106,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 1,
-      "top_score": 0.6299,
-      "roles": [
-        {
-          "title": "Senior Data Scientist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1",
-          "score": 0.6299,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Software Infrastructure Engineer - AI Tooling",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Infrastructure-Engineer---AI-Tooling_P751193",
-          "score": 0.5451,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Talent Intelligence Analyst",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Talent-Intelligence-Analyst_P751200-1",
-          "score": 0.5377,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Director--Engineering_P751170-1",
-          "score": 0.5067,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Sales Enablement Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1",
-          "score": 0.5063,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Manager, Customer Success - Enterprise",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager--Enterprise-Customer-Success_P750886-1",
-          "score": 0.4976,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sales Enablement Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Enablement-Manager_P751175-2",
-          "score": 0.459,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Product Manager, Listing Product",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Listing-Product_P751217-2",
-          "score": 0.446,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Network Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Network-Engineer_P751083-1",
-          "score": 0.3906,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Software Development Engineer, ZHL Operating System",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1",
-          "score": 0.3689,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.3469,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
-          "score": 0.3234,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Employee Service Coordinator",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Employee-Service-Coordinator_P751221-1",
-          "score": 0.3231,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Regional Designated Broker - South Central Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---South-Central-Territory-Lead_P751215",
-          "score": 0.3132,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Regional Designated Broker - Southeast Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Southeast-Territory-Lead_P751212",
-          "score": 0.2946,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Loan Officer Development Program (Overland Park, KS)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
-          "score": 0.2911,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - Mid-Atlantic Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker----Mid-Atlantic-Territory-Lead_P751213",
-          "score": 0.29,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - West Coast Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---West-Coast-Territory-Lead_P751214",
-          "score": 0.2896,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - Midwest Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Midwest-Territory-Lead_P751211-1",
-          "score": 0.261,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "LOA Specialist (Part-Time)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/LOA-Specialist--Part-Time-_P750853-1",
-          "score": 0.2308,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -756,13 +600,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Customer Success Manager, Small Business | ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/6306075?gh_jid=6306075",
-          "score": 0.4952,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive (Small Business) - Middle East and Africa",
           "url": "https://www.hubspot.com/careers/jobs/5986943?gh_jid=5986943",
           "score": 0.4948,
@@ -813,14 +650,14 @@
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
+          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -836,13 +673,6 @@
           "title": "Business Development Manager",
           "url": "https://www.hubspot.com/careers/jobs/8042996?gh_jid=8042996",
           "score": 0.4482,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager, Small Business | ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
-          "score": 0.4425,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -869,6 +699,13 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
@@ -877,13 +714,6 @@
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -945,6 +775,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "German Customer Support Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/5097150?gh_jid=5097150",
+          "score": 0.3915,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Mid Market, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
           "score": 0.3867,
@@ -955,13 +792,6 @@
           "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/6158968?gh_jid=6158968",
           "score": 0.385,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive (English and Portuguese Fluency Required)",
-          "url": "https://www.hubspot.com/careers/jobs/5988684?gh_jid=5988684",
-          "score": 0.3701,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -981,22 +811,36 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
-          "score": 0.3454,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive SMB -France",
           "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Account Executive SMB -France",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "score": 0.3454,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "French Associate Contract Manager",
+          "url": "https://www.hubspot.com/careers/jobs/8090664?gh_jid=8090664",
+          "score": 0.3312,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Corporate Account Executive (Mexican territory, Colombia based)",
           "url": "https://www.hubspot.com/careers/jobs/7194406?gh_jid=7194406",
           "score": 0.3291,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "French Associate Contract Manager",
+          "url": "https://www.hubspot.com/careers/jobs/8090666?gh_jid=8090666",
+          "score": 0.3277,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1060,27 +904,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/19.F52-A3.50D",
-          "score": 0.5634,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/19.F52-A3.50C",
-          "score": 0.5613,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/19.F52-ED.60E",
-          "score": 0.5582,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.059",
           "score": 0.5551,
           "matched": false,
@@ -1095,15 +918,15 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/19.F52",
-          "score": 0.5517,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EE.071",
+          "score": 0.5435,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EE.071",
-          "score": 0.5435,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/DE.077",
+          "score": 0.5432,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1130,8 +953,29 @@
         },
         {
           "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/96.04C",
+          "score": 0.5291,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/C5.F56",
           "score": 0.5272,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A8.059",
+          "score": 0.5183,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/DE.076",
+          "score": 0.5006,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1567,6 +1411,162 @@
       ]
     },
     {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.561,
+      "roles": [
+        {
+          "title": "Senior Software Infrastructure Engineer - AI Tooling",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Infrastructure-Engineer---AI-Tooling_P751193",
+          "score": 0.561,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Talent Intelligence Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Talent-Intelligence-Analyst_P751200-1",
+          "score": 0.5385,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Engineering",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Director--Engineering_P751170-1",
+          "score": 0.5064,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Sales Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Enablement-Manager_P751130-1",
+          "score": 0.5044,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Manager, Customer Success - Enterprise",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager--Enterprise-Customer-Success_P750886-1",
+          "score": 0.4812,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Principal Sales Strategy Business Partner",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Business-Partner_P750409-1",
+          "score": 0.4732,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Enablement-Manager_P751175-2",
+          "score": 0.4494,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Principal Product Manager, Listing Product",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Listing-Product_P751217-2",
+          "score": 0.4442,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Network Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Network-Engineer_P751083-1",
+          "score": 0.391,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Software Development Engineer, ZHL Operating System",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1",
+          "score": 0.3703,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
+          "score": 0.3482,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Seattle, WA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
+          "score": 0.3235,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Employee Service Coordinator",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Employee-Service-Coordinator_P751221-1",
+          "score": 0.3165,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Regional Designated Broker - South Central Territory Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---South-Central-Territory-Lead_P751215",
+          "score": 0.3032,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Regional Designated Broker - Southeast Territory Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Southeast-Territory-Lead_P751212",
+          "score": 0.2967,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Loan Officer Development Program (Overland Park, KS)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
+          "score": 0.2912,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Designated Broker - West Coast Territory Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---West-Coast-Territory-Lead_P751214",
+          "score": 0.2813,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Designated Broker - Mid-Atlantic Territory Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker----Mid-Atlantic-Territory-Lead_P751213",
+          "score": 0.2806,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Regional Designated Broker - Midwest Territory Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Midwest-Territory-Lead_P751211-1",
+          "score": 0.2668,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "LOA Specialist (Part-Time)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/LOA-Specialist--Part-Time-_P750853-1",
+          "score": 0.2305,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Zillow\u2019s Global Applicant Privacy Notice",
+          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
+          "score": 0.0673,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
       "company": "Wasabi Technologies",
       "url": "https://wasabi.com/company/careers",
       "error": null,
@@ -1674,6 +1674,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Sr. Manager Partner Development, Accenture",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
@@ -1702,9 +1709,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS950427122E3C4E93B8E788CC61A14C7AEXTERNALENUSD0C0305C5F294785AABF13BF9FCC3329/Solution-Engineer",
-          "score": 0.427,
+          "title": "Senior Software Engineer, Observe by Snowflake Frontend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C4C4EFE6D9648B9A679D196584B970AEXTERNALENUSDB54960BFE734CD99C2D85221ECA66B2/Senior-Software-Engineer-Observe-by-Snowflake-Frontend",
+          "score": 0.4234,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1714,13 +1721,6 @@
           "score": 0.4194,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.3765,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Sr. District Manager, Commercial",
