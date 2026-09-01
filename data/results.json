@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:08:49+00:00",
+  "generated_at": "2026-09-01T11:22:11+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -46,14 +46,14 @@
         },
         {
           "title": "Lead Account Executive, Specialization",
-          "url": "https://www.hubspot.com/careers/jobs/8087837?gh_jid=8087837",
+          "url": "https://www.hubspot.com/careers/jobs/8087838?gh_jid=8087838",
           "score": 0.5824,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lead Account Executive, Specialization",
-          "url": "https://www.hubspot.com/careers/jobs/8087838?gh_jid=8087838",
+          "url": "https://www.hubspot.com/careers/jobs/8087837?gh_jid=8087837",
           "score": 0.5824,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -87,13 +87,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Inbound Sales Representative",
-          "url": "https://www.hubspot.com/careers/jobs/8098031?gh_jid=8098031",
-          "score": 0.547,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive - Enterprise",
           "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
           "score": 0.5428,
@@ -104,6 +97,13 @@
           "title": "Business Development Representative - Benelux",
           "url": "https://www.hubspot.com/careers/jobs/8038109?gh_jid=8038109",
           "score": 0.5376,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Inbound Success Coach",
+          "url": "https://www.hubspot.com/careers/jobs/8098031?gh_jid=8098031",
+          "score": 0.5374,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -277,6 +277,13 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
@@ -290,23 +297,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
           "score": 0.4148,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
-          "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -319,15 +312,15 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive Small Business Italy",
-          "url": "https://www.hubspot.com/careers/jobs/6382666?gh_jid=6382666",
-          "score": 0.4062,
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -414,6 +407,13 @@
           "score": 0.3291,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "score": 0.326,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
@@ -1052,6 +1052,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, GTM Enablement Operations",
+          "url": "https://careers.datadoghq.com/detail/8137579/?gh_jid=8137579",
+          "score": 0.5664,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Commercial Sales Engineer (French-speaking)",
           "url": "https://careers.datadoghq.com/detail/8164215/?gh_jid=8164215",
           "score": 0.5524,
@@ -1256,14 +1263,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1293,13 +1300,6 @@
           "title": "Customer Success Associate - Commercial Accounts",
           "url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129",
           "score": 0.4984,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Associate (France)",
-          "url": "https://careers.datadoghq.com/detail/8146998/?gh_jid=8146998",
-          "score": 0.4979,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1415,35 +1415,35 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.562,
+      "top_score": 0.5621,
       "roles": [
         {
           "title": "Agentic AI, Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1",
-          "score": 0.562,
+          "score": 0.5621,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior AI-Native Product Engineer, Full Stack",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-AI-Native-Product-Engineer--Full-Stack_P750225",
-          "score": 0.5511,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Agentic AI, Principal Machine Learning Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1",
-          "score": 0.5383,
+          "score": 0.5515,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Data Scientist, Consumer Analytics",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1",
-          "score": 0.5382,
+          "score": 0.5386,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Agentic AI, Principal Machine Learning Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1",
+          "score": 0.5384,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Machine Learning Engineer, Agentic AI",
@@ -1455,49 +1455,42 @@
         {
           "title": "Mid-Market Account Executive, Agent Software and Advertising - Central Region",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mid-Market-Account-Executive--Agent-Software-and-Advertising---Central-Region_P749316-1",
-          "score": 0.5211,
+          "score": 0.5229,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4987,
+          "score": 0.5,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Strategic-GTM-Program-Manager_P751129-1",
-          "score": 0.4812,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Sales Strategy Business Partner",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Business-Partner_P750409-1",
-          "score": 0.473,
+          "score": 0.4806,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Manager, Corporate Development",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Corporate-Development_P750773",
-          "score": 0.4584,
+          "score": 0.4585,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Sr Lead Counsel & Manager - Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Lead-Counsel--Rentals_P751112-1",
-          "score": 0.4352,
+          "score": 0.4368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Enterprise Brokerage Sales",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Enterprise-Brokerage-Sales_P751231-2",
-          "score": 0.4201,
+          "score": 0.4202,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1511,49 +1504,56 @@
         {
           "title": "Title Officer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Title-Officer_P751270",
-          "score": 0.3655,
+          "score": 0.3654,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Product Counsel, Real Estate Products",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Senior-Product-Counsel---Real-Estate-Product_P751233-1",
-          "score": 0.3614,
+          "score": 0.3623,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3322,
+          "score": 0.333,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.3266,
+          "score": 0.3271,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Employee Service Coordinator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Employee-Service-Coordinator_P751274",
-          "score": 0.3261,
+          "score": 0.325,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Fraud Operations Consultant, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Consultant--Rentals_P750699",
+          "score": 0.3242,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.3111,
+          "score": 0.3123,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Copywriter, Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Copywriter--Mexico_P751222-1",
-          "score": 0.2598,
+          "score": 0.2589,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1681,6 +1681,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Software Engineer - Unistore",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
+          "score": 0.4412,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Solution Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSC00EA226B6034DF5A2EFD41D1ADFEB8DEXTERNALENUS7F7322658E664E3180347AA62D60EFA8/Senior-Solution-Engineer",
           "score": 0.4379,
@@ -1695,23 +1702,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4B456C3CB2D44247920721680C9B7206EXTERNALENUS4C21E47C86664A7D8F0413F631CC2F64/Senior-Solution-Engineer",
+          "score": 0.4332,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Sr. District Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
           "score": 0.4282,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4B456C3CB2D44247920721680C9B7206EXTERNALENUS4C21E47C86664A7D8F0413F631CC2F64/Senior-Solution-Engineer",
-          "score": 0.2535,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - Unistore",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
-          "score": 0.2519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1748,7 +1748,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2155,
+          "score": 0.2169,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
