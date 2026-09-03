@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:46:31+00:00",
+  "generated_at": "2026-09-03T03:32:05+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -845,6 +845,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Solutions Engineer, Japan",
+          "url": "https://cribl.io/job-detail/?gh_jid=6179246004",
+          "score": 0.4424,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Staff Security Operations Engineer",
           "url": "https://cribl.io/job-detail/?gh_jid=6097202004",
           "score": 0.4339,
@@ -1205,14 +1212,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1347,13 +1354,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EE.078",
-          "score": 0.5415,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/DE.078",
           "score": 0.5398,
           "matched": false,
@@ -1377,6 +1377,13 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A8.059",
           "score": 0.5183,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/66.177",
+          "score": 0.5093,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1469,7 +1476,7 @@
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4993,
+          "score": 0.4991,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1655,16 +1662,9 @@
         {
           "title": "Senior Software Engineer - Observe Data Management",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSA2B978A3AC784BBC8746CA649D648AB6EXTERNALENUSDBA101F7C6F749E2A1E606C3C2DDEE5B/Senior-Software-Engineer-Observe-Data-Management",
-          "score": 0.4705,
+          "score": 0.4793,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sr. Technical Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSE961CB917C84451FB50CFFAC72A681AAEXTERNALENUSF54C4A92D26A481AA694D69DC1DCC514/Sr-Technical-Architect",
-          "score": 0.4573,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sr. Manager Partner Development, Accenture",
@@ -1681,16 +1681,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. District Manager, Commercial",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
-          "score": 0.4268,
+          "title": "Staff Data Scientist, Finance",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
+          "score": 0.428,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer, Observe by Snowflake Frontend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C4C4EFE6D9648B9A679D196584B970AEXTERNALENUSDB54960BFE734CD99C2D85221ECA66B2/Senior-Software-Engineer-Observe-by-Snowflake-Frontend",
-          "score": 0.4234,
+          "title": "Sr. District Manager, Commercial",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
+          "score": 0.4268,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1702,18 +1702,25 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Data Scientist, Finance",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
-          "score": 0.3892,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Staff Software Engineer - FDB Platform",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
           "score": 0.3765,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior (Staff) Penetration Tester",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB2E3133B768847279FB20F0A30DC3629EXTERNALENUS65F598BDF52842DAB5E5B3B0BDEED52C/Senior-Staff-Penetration-Tester",
+          "score": 0.3582,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer, Observe by Snowflake Frontend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C4C4EFE6D9648B9A679D196584B970AEXTERNALENUSDB54960BFE734CD99C2D85221ECA66B2/Senior-Software-Engineer-Observe-by-Snowflake-Frontend",
+          "score": 0.2493,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
