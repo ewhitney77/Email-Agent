@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:04:35+00:00",
+  "generated_at": "2026-09-03T20:45:29+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -47,13 +47,6 @@
         {
           "title": "Lead Account Executive, Specialization",
           "url": "https://www.hubspot.com/careers/jobs/8087838?gh_jid=8087838",
-          "score": 0.5824,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Lead Account Executive, Specialization",
-          "url": "https://www.hubspot.com/careers/jobs/8087837?gh_jid=8087837",
           "score": 0.5824,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -284,14 +277,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.4157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -305,14 +298,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -327,6 +320,13 @@
         {
           "title": "Executive Assistant (Marketing Org)",
           "url": "https://www.hubspot.com/careers/jobs/8135945?gh_jid=8135945",
+          "score": 0.4082,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Executive Assistant (Marketing Org)",
+          "url": "https://www.hubspot.com/careers/jobs/8177549?gh_jid=8177549",
           "score": 0.4082,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -396,14 +396,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.3454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -417,14 +417,14 @@
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
+          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
+          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -645,6 +645,13 @@
           "title": "Staff Software Engineer, Cribl AI",
           "url": "https://cribl.io/job-detail/?gh_jid=5992317004",
           "score": 0.5572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Product Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6178374004",
+          "score": 0.554,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -966,6 +973,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/7773320/?gh_jid=7773320",
+          "score": 0.5519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Director, Commercial Sales",
           "url": "https://careers.datadoghq.com/detail/8059382/?gh_jid=8059382",
           "score": 0.5512,
@@ -1102,13 +1116,6 @@
           "title": "Commercial Account Executive - Boston",
           "url": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
           "score": 0.5199,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Deal Desk Analyst - Boston",
-          "url": "https://careers.datadoghq.com/detail/8029969/?gh_jid=8029969",
-          "score": 0.5175,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1333,6 +1340,13 @@
         },
         {
           "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EB.540",
+          "score": 0.5789,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/DE.077",
           "score": 0.544,
           "matched": false,
@@ -1361,22 +1375,15 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/96.04C",
-          "score": 0.5291,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A8.059",
-          "score": 0.5183,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/66.177",
           "score": 0.5093,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/51.748",
+          "score": 0.5078,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1623,6 +1630,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Inside Sales Representative",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5414605008",
+          "score": 0.3935,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Sr. Solutions Architect",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5392451008",
           "score": 0.3922,
@@ -1655,7 +1669,7 @@
         {
           "title": "Senior Software Engineer - Observe Data Management",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSA2B978A3AC784BBC8746CA649D648AB6EXTERNALENUSDBA101F7C6F749E2A1E606C3C2DDEE5B/Senior-Software-Engineer-Observe-Data-Management",
-          "score": 0.4793,
+          "score": 0.4705,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1695,13 +1709,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer, HCLS",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAC710CE73A494055AD7EFE8D1932F30FEXTERNALENUS7029C2B55B4E497280484B4FBAE7BC83/Senior-Solution-Engineer-HCLS",
-          "score": 0.4194,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Staff Data Scientist, Finance",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
           "score": 0.3892,
@@ -1712,6 +1719,13 @@
           "title": "Senior (Staff) Penetration Tester",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSB2E3133B768847279FB20F0A30DC3629EXTERNALENUS65F598BDF52842DAB5E5B3B0BDEED52C/Senior-Staff-Penetration-Tester",
           "score": 0.3582,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer, HCLS",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAC710CE73A494055AD7EFE8D1932F30FEXTERNALENUS7029C2B55B4E497280484B4FBAE7BC83/Senior-Solution-Engineer-HCLS",
+          "score": 0.2623,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
