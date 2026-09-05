@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:51:35+00:00",
+  "generated_at": "2026-09-05T20:08:34+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1518,7 +1518,7 @@
         {
           "title": "Fraud Operations Consultant, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Consultant--Rentals_P750699",
-          "score": 0.3603,
+          "score": 0.3602,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1650,75 +1650,75 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5096,
+      "top_score": 0.5018,
       "roles": [
         {
-          "title": "Staff Product Manager - Developer Experience and Test Pyramid",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSF5F51F8961494F269A2BD6ED80DC61F5EXTERNALENUS4A8607F95E63427D91DE183F43012C69/Staff-Product-Manager-Developer-Experience-and-Test-Pyramid",
-          "score": 0.5096,
+          "title": "Sr Sales Development Representative",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
+          "score": 0.5018,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer - Observe Data Management",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA2B978A3AC784BBC8746CA649D648AB6EXTERNALENUSDBA101F7C6F749E2A1E606C3C2DDEE5B/Senior-Software-Engineer-Observe-Data-Management",
-          "score": 0.4793,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
+          "title": "Senior Software Engineer - Warehouse",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS427DE38FFF744B6481A66B02DE88FF11EXTERNALENUSA61420AFF13D445EA00A59C4250F5874/Senior-Software-Engineer-Warehouse",
+          "score": 0.4876,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. Manager Partner Development, Accenture",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
-          "score": 0.4417,
+          "title": "Senior Software Engineer - Database Engineering",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
+          "score": 0.4638,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solutions Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5D35559DF4A2470482D7A8519A471BE4EXTERNALENUS122679B101D04EF9B0E1E1DFA8AC216E/Solutions-Engineer-Global-Accounts",
-          "score": 0.4348,
+          "title": "Sr. Partner Development Manager, Google Cloud",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3AD71011B1104545824CC6DC6465832DEXTERNALENUS935414599ADD4641BA8C0CDA941365C5/Sr-Partner-Development-Manager-Google-Cloud",
+          "score": 0.4496,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. District Manager, Commercial",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS79396A8D228E45A8812B82C1C3D52256EXTERNALENUSF5EB061425C24FBBA4EFBE577F41A945/Sr-District-Manager-Commercial",
-          "score": 0.4268,
+          "title": "Staff Software Engineer - Unistore",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
+          "score": 0.4412,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Software Engineer, Observe by Snowflake Frontend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C4C4EFE6D9648B9A679D196584B970AEXTERNALENUSDB54960BFE734CD99C2D85221ECA66B2/Senior-Software-Engineer-Observe-by-Snowflake-Frontend",
-          "score": 0.4234,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC00EA226B6034DF5A2EFD41D1ADFEB8DEXTERNALENUS7F7322658E664E3180347AA62D60EFA8/Senior-Solution-Engineer",
+          "score": 0.4379,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer, HCLS",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAC710CE73A494055AD7EFE8D1932F30FEXTERNALENUS7029C2B55B4E497280484B4FBAE7BC83/Senior-Solution-Engineer-HCLS",
-          "score": 0.4194,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
+          "score": 0.4344,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Data Scientist, Finance",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
-          "score": 0.3892,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4B456C3CB2D44247920721680C9B7206EXTERNALENUS4C21E47C86664A7D8F0413F631CC2F64/Senior-Solution-Engineer",
+          "score": 0.4332,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior (Staff) Penetration Tester",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB2E3133B768847279FB20F0A30DC3629EXTERNALENUS65F598BDF52842DAB5E5B3B0BDEED52C/Senior-Staff-Penetration-Tester",
-          "score": 0.3582,
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6D01404BA17341EA9C4B660513696565EXTERNALENUSB874AF9942D5416CA51027FAF27202D1/Sr-District-Manager",
+          "score": 0.4283,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
+          "score": 0.4282,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
