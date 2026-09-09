@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:56:11+00:00",
+  "generated_at": "2026-09-09T03:41:05+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -838,6 +838,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Solutions Engineer, Sydney",
+          "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
+          "score": 0.4454,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Solutions Engineer, Japan",
           "url": "https://cribl.io/job-detail/?gh_jid=6179246004",
           "score": 0.4424,
@@ -972,12 +979,12 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 3,
-      "top_score": 0.6224,
+      "top_score": 0.6185,
       "roles": [
         {
           "title": "Senior Marketing Intelligence Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Intelligence-Strategist_P751271-1",
-          "score": 0.6224,
+          "score": 0.6185,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1038,6 +1045,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Software Development Engineer, Full Stack",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Software-Development-Engineer--Full-Stack_P751216-1",
+          "score": 0.515,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Principal Technical Program Manager, Industry Software",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Technical-Program-Manager--Industry-Software_P750335-1",
           "score": 0.5077,
@@ -1054,7 +1068,14 @@
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4995,
+          "score": 0.4992,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Designer, Web Experience",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Product-Designer--Web-Experience_P751168-1",
+          "score": 0.4579,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1069,13 +1090,6 @@
           "title": "Senior Support Consultant, Follow Up Boss",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Support-Consultant--Follow-Up-Boss_P751190-1",
           "score": 0.4486,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Development Engineer - Fullstack",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer---Fullstack_P751269-1",
-          "score": 0.3982,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1097,13 +1111,6 @@
           "title": "Fraud Operations Consultant, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Fraud-Operations-Consultant--Rentals_P750699",
           "score": 0.361,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Employee Service Coordinator",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Employee-Service-Coordinator_P751274",
-          "score": 0.3213,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1398,6 +1405,13 @@
         },
         {
           "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/8184867/?gh_jid=8184867",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
           "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
@@ -1435,13 +1449,6 @@
           "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
           "url": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
           "score": 0.4956,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Security Channels (North America)",
-          "url": "https://careers.datadoghq.com/detail/7984985/?gh_jid=7984985",
-          "score": 0.4885,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
