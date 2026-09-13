@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:48:31+00:00",
+  "generated_at": "2026-09-13T11:21:26+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -951,61 +951,61 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 2,
-      "top_score": 0.6342,
+      "top_score": 0.6328,
       "roles": [
         {
           "title": "Principal Product Manager, Directed Workflows",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Directed-Workflows_P751276-1",
-          "score": 0.6342,
+          "score": 0.6328,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Marketing Intelligence Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Intelligence-Strategist_P751271-1",
-          "score": 0.627,
+          "score": 0.6274,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Full Stack Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Full-Stack-Software-Development-Engineer_P751226-2",
-          "score": 0.5849,
+          "score": 0.5853,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Business Intelligence Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Business-Intelligence-Analyst_P749745",
-          "score": 0.5745,
+          "score": 0.575,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Agentic AI, Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1",
-          "score": 0.5516,
+          "score": 0.562,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Software Development Engineer, Full Stack",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Software-Development-Engineer--Full-Stack_P751216-1",
-          "score": 0.5143,
+          "score": 0.5153,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Product Manager, Connections Platform",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Connections-Platform_P751206-1",
-          "score": 0.506,
+          "score": 0.5031,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.5013,
+          "score": 0.5021,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1019,14 +1019,14 @@
         {
           "title": "Product Designer, Web Experience",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Product-Designer--Web-Experience_P751168-1",
-          "score": 0.4526,
+          "score": 0.453,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Cyber Defense SOC Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Cyber-Defense-SOC-Analyst_P751272-1",
-          "score": 0.4365,
+          "score": 0.4366,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1040,28 +1040,28 @@
         {
           "title": "Atlassian Platform Administrator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Atlassian-Platform-Administrator_P751283-1",
-          "score": 0.3808,
+          "score": 0.3812,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Program Manager, HR Compliance",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Program-Manager--HR-Compliance_P751326-1",
-          "score": 0.3422,
+          "score": 0.3389,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Employee Service Coordinator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Employee-Service-Coordinator_P751274",
-          "score": 0.3209,
+          "score": 0.3213,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Regional Designated Broker - South Central Territory Lead",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---South-Central-Territory-Lead_P751215",
-          "score": 0.3035,
+          "score": 0.3034,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1075,14 +1075,14 @@
         {
           "title": "Regional Designated Broker - West Coast Territory Lead",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---West-Coast-Territory-Lead_P751214",
-          "score": 0.2817,
+          "score": 0.2816,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Designated Broker - Mid-Atlantic Territory Lead",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker----Mid-Atlantic-Territory-Lead_P751213",
-          "score": 0.2804,
+          "score": 0.2806,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
