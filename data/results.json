@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:34:52+00:00",
+  "generated_at": "2026-09-15T21:03:07+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -144,14 +144,14 @@
         },
         {
           "title": "Internal Partner Enablement Lead",
-          "url": "https://www.hubspot.com/careers/jobs/8132247?gh_jid=8132247",
+          "url": "https://www.hubspot.com/careers/jobs/8097687?gh_jid=8097687",
           "score": 0.4883,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Internal Partner Enablement Lead",
-          "url": "https://www.hubspot.com/careers/jobs/8097687?gh_jid=8097687",
+          "url": "https://www.hubspot.com/careers/jobs/8132247?gh_jid=8132247",
           "score": 0.4883,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -165,28 +165,28 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
-          "score": 0.4722,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Benelux (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Account Executive - Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
-          "score": 0.4647,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "score": 0.4722,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/7660474?gh_jid=7660474",
+          "score": 0.4647,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Small Business",
+          "url": "https://www.hubspot.com/careers/jobs/7660473?gh_jid=7660473",
           "score": 0.4647,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -270,13 +270,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
-          "score": 0.4157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.4157,
           "matched": false,
@@ -290,6 +283,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "score": 0.4157,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
           "score": 0.4148,
@@ -298,14 +298,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4103,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -346,6 +346,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Mid-Market Account Executive, DACH (German Speaker - Ireland Based)",
+          "url": "https://www.hubspot.com/careers/jobs/5986430?gh_jid=5986430",
+          "score": 0.3902,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Account Executive - Mid Market, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
           "score": 0.3867,
@@ -370,13 +377,6 @@
           "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 / Business Development Rep (BDR)",
           "url": "https://www.hubspot.com/careers/jobs/7083778?gh_jid=7083778",
           "score": 0.3642,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Associate Contract Manager (Renewal Specialist) NAM Accounts",
-          "url": "https://www.hubspot.com/careers/jobs/6361650?gh_jid=6361650",
-          "score": 0.3626,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -597,6 +597,13 @@
           "url": "https://cribl.io/job-detail/?gh_jid=6098546004",
           "score": 0.6006,
           "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Engineer, Storage & Analysis (EMEA)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6190561004",
+          "score": 0.592,
+          "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
@@ -989,6 +996,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Principal Machine Learning Engineer, Agentic AI",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Machine-Learning-Engineer--Agentic-AI_P748682-2",
+          "score": 0.5263,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Product Manager, Connections Platform",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Connections-Platform_P751206-1",
           "score": 0.5036,
@@ -999,6 +1013,20 @@
           "title": "Business Advisor, Enterprise, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--Enterprise--Rentals_P751115-2",
           "score": 0.4976,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Strategic Sourcing Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Strategic-Sourcing-Manager_P751339-1",
+          "score": 0.4487,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Technical Customer Success Manager, API",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Technical-Customer-Success-Manager--API_P750643",
+          "score": 0.4422,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1069,27 +1097,6 @@
           "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
           "score": 0.3263,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - South Central Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---South-Central-Territory-Lead_P751215",
-          "score": 0.3026,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Regional Designated Broker - Southeast Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Southeast-Territory-Lead_P751212",
-          "score": 0.2965,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - West Coast Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---West-Coast-Territory-Lead_P751214",
-          "score": 0.2812,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1349,14 +1356,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1461,14 +1468,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1660,6 +1667,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Technical Program Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS721D7D61D4CA4AABB0DAB43A66377C91EXTERNALENUS45FD2192852D4CF4BFFEB0FCC46B7426/Senior-Technical-Program-Manager",
           "score": 0.4494,
@@ -1707,13 +1721,6 @@
           "score": 0.4268,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.3765,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Staff Security Engineer - Threat Detection",
