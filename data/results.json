@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:03:07+00:00",
+  "generated_at": "2026-09-16T03:55:13+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -982,6 +982,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Data Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Data-Scientist_P751219-2",
+          "score": 0.5767,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Business Intelligence Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Business-Intelligence-Analyst_P749745",
           "score": 0.5742,
@@ -994,6 +1001,13 @@
           "score": 0.5621,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Workforce Capability Lead",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Workforce-Capability-Lead_P751351-2",
+          "score": 0.5266,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Machine Learning Engineer, Agentic AI",
@@ -1038,13 +1052,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Cyber Defense SOC Analyst",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Cyber-Defense-SOC-Analyst_P751272-1",
-          "score": 0.4371,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Sr. Director, Customer Identity and Access Management",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sr-Director--Customer-Identity-and-Access-Management_P751102",
           "score": 0.4359,
@@ -1062,6 +1069,13 @@
           "title": "Senior Software Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Engineer_P751275-1",
           "score": 0.3939,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Corporate Accounting and Consolidation",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Corporate-Accounting-and-Consolidation_P751318-1",
+          "score": 0.3714,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1097,20 +1111,6 @@
           "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
           "score": 0.3263,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Designated Broker - Mid-Atlantic Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker----Mid-Atlantic-Territory-Lead_P751213",
-          "score": 0.2799,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Regional Designated Broker - Midwest Territory Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Regional-Designated-Broker---Midwest-Territory-Lead_P751211-1",
-          "score": 0.2666,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1202,14 +1202,14 @@
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
+          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
           "score": 0.5559,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
+          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
           "score": 0.5559,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1419,14 +1419,14 @@
         },
         {
           "title": "Developer Advocate - Service Management EMEA",
-          "url": "https://careers.datadoghq.com/detail/8159001/?gh_jid=8159001",
+          "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
           "score": 0.4858,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Developer Advocate - Service Management EMEA",
-          "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
+          "url": "https://careers.datadoghq.com/detail/8159001/?gh_jid=8159001",
           "score": 0.4858,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1681,23 +1681,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer - Defense Industrial Base (DIB)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS77DE9C08479F49FE9670B92B6F94EC48EXTERNALENUSC72FE39DD4FB488EA33BEBB5B6CB28C1/Senior-Solution-Engineer-Defense-Industrial-Base-DIB",
-          "score": 0.4463,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Sr. Manager Partner Development, Accenture",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
-          "score": 0.4368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1726,6 +1712,20 @@
           "title": "Staff Security Engineer - Threat Detection",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSBDFD57F61AB04673926A167896E97376EXTERNALENUS5ED76BCDCB614222900BAD9FA89A472E/Staff-Security-Engineer-Threat-Detection",
           "score": 0.3678,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer - Defense Industrial Base (DIB)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS77DE9C08479F49FE9670B92B6F94EC48EXTERNALENUSC72FE39DD4FB488EA33BEBB5B6CB28C1/Senior-Solution-Engineer-Defense-Industrial-Base-DIB",
+          "score": 0.313,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
+          "score": 0.2535,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
