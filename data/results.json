@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:25:02+00:00",
+  "generated_at": "2026-09-23T21:19:52+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -18,14 +18,14 @@
       "roles": [
         {
           "title": "Lead Marketer, AI Usage Automation",
-          "url": "https://www.hubspot.com/careers/jobs/8214455?gh_jid=8214455",
+          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
           "score": 0.6927,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lead Marketer, AI Usage Automation",
-          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
+          "url": "https://www.hubspot.com/careers/jobs/8214455?gh_jid=8214455",
           "score": 0.6927,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -116,14 +116,14 @@
         },
         {
           "title": "Lead PreSales Engineer - German Speaking",
-          "url": "https://www.hubspot.com/careers/jobs/6887348?gh_jid=6887348",
+          "url": "https://www.hubspot.com/careers/jobs/8223099?gh_jid=8223099",
           "score": 0.5078,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lead PreSales Engineer - German Speaking",
-          "url": "https://www.hubspot.com/careers/jobs/8223099?gh_jid=8223099",
+          "url": "https://www.hubspot.com/careers/jobs/6887348?gh_jid=6887348",
           "score": 0.5078,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -624,13 +624,6 @@
           "title": "GSI Partner Business Manager",
           "url": "https://cribl.io/job-detail/?gh_jid=6188059004",
           "score": 0.5441,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Revenue Enablement Intern",
-          "url": "https://cribl.io/job-detail/?gh_jid=5165439004",
-          "score": 0.5393,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1511,18 +1504,18 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Manager, Customer Success, Strategic",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager--Customer-Success--Strategic_P750846-1",
-          "score": 0.4565,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Senior Applications Developer, Incentive Planning and Finance Operations",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Applications-Developer--Incentive-Planning-and-Finance-Operations_P751382-1",
           "score": 0.4514,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Incident Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Incident-Manager_P751406-1",
+          "score": 0.4313,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior AI-Native Product Engineer, Mobile",
@@ -1537,6 +1530,20 @@
           "score": 0.4233,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Campaign Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Campaign-Manager_P751383-2",
+          "score": 0.4093,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Contingent Workforce Operations & Systems Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Contingent-Workforce-Operations---Systems-Analyst_P751194-1",
+          "score": 0.4021,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Technical Recruiter",
@@ -1576,7 +1583,7 @@
         {
           "title": "IT Support Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/IT-Support-Specialist_P751346-2",
-          "score": 0.3625,
+          "score": 0.3592,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1584,13 +1591,6 @@
           "title": "Principal Software Development Engineer, Backend",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Software-Development-Engineer--Backend_P751304-1",
           "score": 0.3461,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Loan Officer Development Program (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Loan-Officer-Development-Program--Plano--TX-_P751198",
-          "score": 0.3345,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1607,13 +1607,6 @@
           "score": 0.2934,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Loan Officer Development Program (Overland Park, KS)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Loan-Officer-Development-Program--Overland-Park--KS-_P751199-1",
-          "score": 0.2911,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mortgage Loan Closer",
@@ -1636,22 +1629,8 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5018,
+      "top_score": 0.4565,
       "roles": [
-        {
-          "title": "Sr Sales Development Representative",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
-          "score": 0.5018,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer - Database Engineering",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
-          "score": 0.4638,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
         {
           "title": "Sr. Technical Architect, AI/ML",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS47C3F8FCCD1B42A4B07A14C5056AC426EXTERNALENUS37D460D2F97E423BA5BC056E0548AADD/Sr-Technical-Architect-AI-ML",
@@ -1681,6 +1660,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Sr Sales Development Representative",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
+          "score": 0.4292,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Sr. District Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
           "score": 0.4282,
@@ -1695,11 +1681,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
+          "title": "Senior Software Engineer - Database Engineering",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
+          "score": 0.3955,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Software Engineer Intern - Warsaw Security",
@@ -1707,6 +1693,13 @@
           "score": 0.3945,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.2298,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1734,7 +1727,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2168,
+          "score": 0.217,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
