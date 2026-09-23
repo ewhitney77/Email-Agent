@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:04:12+00:00",
+  "generated_at": "2026-09-23T16:25:02+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,25 +7,25 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 27,
+  "total_matches": 26,
   "companies": [
     {
       "company": "HubSpot",
       "url": "https://www.hubspot.com/careers/jobs",
       "error": null,
-      "match_count": 5,
+      "match_count": 4,
       "top_score": 0.6927,
       "roles": [
         {
           "title": "Lead Marketer, AI Usage Automation",
-          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
+          "url": "https://www.hubspot.com/careers/jobs/8214455?gh_jid=8214455",
           "score": 0.6927,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lead Marketer, AI Usage Automation",
-          "url": "https://www.hubspot.com/careers/jobs/8214455?gh_jid=8214455",
+          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
           "score": 0.6927,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -43,13 +43,6 @@
           "score": 0.6625,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Data Analyst",
-          "url": "https://www.hubspot.com/careers/jobs/8165696?gh_jid=8165696",
-          "score": 0.6294,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Deal Lead, Corporate Development",
@@ -101,6 +94,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Outbound Business Development Representative (BDR)",
+          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
+          "score": 0.5093,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Lead PreSales Solutions Engineer - Benelux and Nordics",
           "url": "https://www.hubspot.com/careers/jobs/7666937?gh_jid=7666937",
           "score": 0.5079,
@@ -116,22 +116,15 @@
         },
         {
           "title": "Lead PreSales Engineer - German Speaking",
-          "url": "https://www.hubspot.com/careers/jobs/8223099?gh_jid=8223099",
-          "score": 0.5078,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Lead PreSales Engineer - German Speaking",
           "url": "https://www.hubspot.com/careers/jobs/6887348?gh_jid=6887348",
           "score": 0.5078,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Customer Success Manager - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8103709?gh_jid=8103709",
-          "score": 0.5074,
+          "title": "Lead PreSales Engineer - German Speaking",
+          "url": "https://www.hubspot.com/careers/jobs/8223099?gh_jid=8223099",
+          "score": 0.5078,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -146,20 +139,6 @@
           "title": "Customer Success Manager, Small Business | ANZ",
           "url": "https://www.hubspot.com/careers/jobs/6306075?gh_jid=6306075",
           "score": 0.4952,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Internal Partner Enablement Lead",
-          "url": "https://www.hubspot.com/careers/jobs/8132247?gh_jid=8132247",
-          "score": 0.4883,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Success Manager - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8143908?gh_jid=8143908",
-          "score": 0.4721,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -234,6 +213,20 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Outbound Business Development Representative - ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/8040674?gh_jid=8040674",
+          "score": 0.4464,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Outbound Business Development Representative - ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906",
+          "score": 0.4464,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Customer Success Manager, Small Business | ANZ",
           "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
           "score": 0.4425,
@@ -291,14 +284,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -340,21 +333,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
-          "score": 0.3867,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
-          "score": 0.3867,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -375,7 +354,21 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -410,28 +403,35 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
-          "score": 0.2855,
+          "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "score": 0.326,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Mid-Market Account Executive, DACH (German Speaker - Remote, Ireland Based)",
+          "url": "https://www.hubspot.com/careers/jobs/5986433?gh_jid=5986433",
+          "score": 0.3057,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
           "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
+          "score": 0.2855,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative - DACH",
+          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -982,6 +982,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Engineering - Digital Experience Monitoring",
+          "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
+          "score": 0.5792,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Commercial Sales Engineer (Sao Paulo)",
           "url": "https://careers.datadoghq.com/detail/8211090/?gh_jid=8211090",
           "score": 0.5787,
@@ -1006,6 +1013,13 @@
           "title": "Commercial Sales Engineer (AMER - West)",
           "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
           "score": 0.5674,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Enterprise Customer Success",
+          "url": "https://careers.datadoghq.com/detail/8188985/?gh_jid=8188985",
+          "score": 0.5572,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1165,14 +1179,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1270,22 +1284,8 @@
         },
         {
           "title": "Developer Advocate - Service Management EMEA",
-          "url": "https://careers.datadoghq.com/detail/8220473/?gh_jid=8220473",
-          "score": 0.4753,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Developer Advocate - Service Management EMEA",
           "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
           "score": 0.4753,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
-          "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1476,85 +1476,6 @@
       ]
     },
     {
-      "company": "Snowflake",
-      "url": "https://careers.snowflake.com/us/en/search-results",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.519,
-      "roles": [
-        {
-          "title": "Staff Product Manager - AI FDE",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C355E34A3F6474FAD5DC3BCDEC231B2EXTERNALENUS440EC976A3074575ABAB554AEF8151A4/Solutions-Architect",
-          "score": 0.4577,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.4542,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. Manager Partner Development, Accenture",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
-          "score": 0.4417,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - Unistore",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
-          "score": 0.4412,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
-          "score": 0.4368,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Data Scientist, Finance",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
-          "score": 0.428,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Security Engineer - Threat Detection",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSBDFD57F61AB04673926A167896E97376EXTERNALENUS5ED76BCDCB614222900BAD9FA89A472E/Staff-Security-Engineer-Threat-Detection",
-          "score": 0.3678,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solutions Engineer - FSI",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
-          "score": 0.2496,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
       "company": "Zillow",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
@@ -1569,11 +1490,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Software Development Engineer, IOS",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer--IOS_P751124-1",
-          "score": 0.5032,
+          "title": "Senior Marketing Technologist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Marketing-Technologist_P751179-1",
+          "score": 0.4933,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Sales Strategy Business Partner",
@@ -1618,13 +1539,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Senior Manager, B2B Paid Marketing",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--B2B-Paid-Marketing_P751345-1",
-          "score": 0.405,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Technical Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P750743",
           "score": 0.3838,
@@ -1651,6 +1565,13 @@
           "score": 0.3665,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Product Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Product-Manager_P751347-1",
+          "score": 0.3651,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "IT Support Specialist",
@@ -1711,6 +1632,85 @@
       ]
     },
     {
+      "company": "Snowflake",
+      "url": "https://careers.snowflake.com/us/en/search-results",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.5018,
+      "roles": [
+        {
+          "title": "Sr Sales Development Representative",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSAD7BF43D1C5E4952B6F332BBDE2F4BCDEXTERNALENUS0636F234A5D94C8F8516F2EDDF3B8D4C/Sr-Sales-Development-Representative",
+          "score": 0.5018,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Engineer - Database Engineering",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
+          "score": 0.4638,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Technical Architect, AI/ML",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS47C3F8FCCD1B42A4B07A14C5056AC426EXTERNALENUS37D460D2F97E423BA5BC056E0548AADD/Sr-Technical-Architect-AI-ML",
+          "score": 0.4565,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Software Engineer - Unistore",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
+          "score": 0.4412,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer - Global Accounts",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
+          "score": 0.439,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
+          "score": 0.4344,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
+          "score": 0.4282,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Data Scientist, Finance",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
+          "score": 0.428,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.4244,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer Intern - Warsaw Security",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3045856C74A4469EBA81A176CC0BEF8FEXTERNALENUSFC1923C1B1514458A79240D58331A5BE/Software-Engineer-Intern-Warsaw-Security",
+          "score": 0.3945,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
       "company": "Dynatrace",
       "url": "https://careers.dynatrace.com/",
       "error": null,
@@ -1719,28 +1719,28 @@
       "roles": [
         {
           "title": "Explore what it's like working here",
-          "url": "https://www.dynatrace.com/careers/being-a-dynatracer",
+          "url": "https://www.dynatrace.com/careers/being-a-dynatracer/",
           "score": 0.2981,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Boston Global HQ The central hub for our global team. See more",
-          "url": "https://www.dynatrace.com/careers/locations/boston",
+          "url": "https://www.dynatrace.com/careers/locations/boston/",
           "score": 0.2432,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "See all our locations",
-          "url": "https://www.dynatrace.com/careers/locations",
-          "score": 0.2148,
+          "url": "https://www.dynatrace.com/careers/locations/",
+          "score": 0.2168,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Linz Engineering HQ Where it all began and where the heart of our engineering beats. See more",
-          "url": "https://www.dynatrace.com/careers/locations/linz",
+          "url": "https://www.dynatrace.com/careers/locations/linz/",
           "score": 0.1976,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
