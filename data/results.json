@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:23:29+00:00",
+  "generated_at": "2026-09-24T16:47:14+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,25 +7,32 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 24,
+  "total_matches": 26,
   "companies": [
     {
       "company": "HubSpot",
       "url": "https://www.hubspot.com/careers/jobs",
       "error": null,
-      "match_count": 4,
-      "top_score": 0.6927,
+      "match_count": 6,
+      "top_score": 0.7335,
       "roles": [
         {
-          "title": "Lead Marketer, AI Usage Automation",
-          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
-          "score": 0.6927,
+          "title": "Enterprise Field Marketing Lead",
+          "url": "https://www.hubspot.com/careers/jobs/7715082?gh_jid=7715082",
+          "score": 0.7335,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lead Marketer, AI Usage Automation",
           "url": "https://www.hubspot.com/careers/jobs/8214455?gh_jid=8214455",
+          "score": 0.6927,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Lead Marketer, AI Usage Automation",
+          "url": "https://www.hubspot.com/careers/jobs/8201644?gh_jid=8201644",
           "score": 0.6927,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -43,6 +50,13 @@
           "score": 0.6625,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Lead Finance Partner",
+          "url": "https://www.hubspot.com/careers/jobs/8199408?gh_jid=8199408",
+          "score": 0.613,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Deal Lead, Corporate Development",
@@ -213,20 +227,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Outbound Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/8040674?gh_jid=8040674",
-          "score": 0.4464,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Outbound Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906",
-          "score": 0.4464,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Customer Success Manager, Small Business | ANZ",
           "url": "https://www.hubspot.com/careers/jobs/7691174?gh_jid=7691174",
           "score": 0.4425,
@@ -333,7 +333,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -361,14 +361,14 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -403,14 +403,14 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -954,13 +954,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Area Vice President, Sales Engineering",
-          "url": "https://careers.datadoghq.com/detail/7762722/?gh_jid=7762722",
-          "score": 0.5986,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Sales Engineer - Boston",
           "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
           "score": 0.5929,
@@ -1012,6 +1005,13 @@
         {
           "title": "Director, Enterprise Sales",
           "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
+          "score": 0.5559,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
           "score": 0.5559,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1241,13 +1241,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Account Executive (Italy)",
-          "url": "https://careers.datadoghq.com/detail/8210507/?gh_jid=8210507",
-          "score": 0.4815,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Datadog for Startups Founding Engineering Lead",
           "url": "https://careers.datadoghq.com/detail/7536402/?gh_jid=7536402",
           "score": 0.4815,
@@ -1285,6 +1278,13 @@
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
           "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "score": 0.4744,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1492,16 +1492,9 @@
         {
           "title": "Principal Sales Strategy Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Business-Partner_P750409-1",
-          "score": 0.4879,
+          "score": 0.4873,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Marketing Specialist, Media Reporting and Automation",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--Media-Reporting-and-Automation_P751329-2",
-          "score": 0.4837,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Applications Developer, Incentive Planning and Finance Operations",
@@ -1560,13 +1553,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Product Counsel, Real Estate Products",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Counsel---Real-Estate-Product_P751233-1",
-          "score": 0.3724,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Senior Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Recruiter_P751413-1",
           "score": 0.3722,
@@ -1588,11 +1574,25 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Lifecycle Marketing Operations Specialist, Audience",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Audience_P750923-1",
+          "score": 0.3602,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Principal Software Development Engineer, Backend",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Software-Development-Engineer--Backend_P751304-1",
           "score": 0.3465,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Lifecycle Marketing Operations Specialist, Templates",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P750921-1",
+          "score": 0.3374,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Contingent Workforce Business Partner",
