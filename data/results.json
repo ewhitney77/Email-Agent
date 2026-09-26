@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:05:16+00:00",
+  "generated_at": "2026-09-26T11:05:51+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 27,
+  "total_matches": 10,
   "companies": [
     {
       "company": "HubSpot",
@@ -443,145 +443,145 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6728,
+      "top_score": 0.6715,
       "roles": [
         {
           "title": "Director, Marketing AI & Automation",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Marketing-AI---Automation_P751408-1",
-          "score": 0.6728,
+          "score": 0.6715,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4987,
+          "score": 0.4997,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Software Development Engineer, Backend (Go/Python)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Go-Python-_P751308-1",
-          "score": 0.4648,
+          "score": 0.4541,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Software Development Engineer, Backend (Python /Kubernetes)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Python--Kubernetes-_P751307-1",
-          "score": 0.4411,
+          "score": 0.4415,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Marketing Specialist, SEM",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--SEM_P751416-1",
-          "score": 0.4161,
+          "score": 0.4162,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P751421-1",
-          "score": 0.4126,
+          "score": 0.4014,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Contingent Workforce Operations & Systems Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Contingent-Workforce-Operations---Systems-Analyst_P751194-1",
-          "score": 0.397,
+          "score": 0.3967,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Marketing Specialist, Paid Social",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--Paid-Social_P751417-1",
-          "score": 0.3896,
+          "score": 0.3894,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Program-Manager--Studio-Z_P751356-2",
-          "score": 0.3847,
+          "score": 0.3857,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Program-Manager--Studio-Z_P751334-2",
-          "score": 0.3817,
+          "score": 0.3829,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Recruiter",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Recruiter_P751413-1",
-          "score": 0.3723,
+          "title": "Lifecycle Marketing Operations Specialist, Audience",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Audience_P750923-1",
+          "score": 0.3632,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "IT Support Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/IT-Support-Specialist_P751346-2",
-          "score": 0.3624,
+          "score": 0.363,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Lifecycle Marketing Operations Specialist, Audience",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Audience_P750923-1",
-          "score": 0.3597,
+          "title": "Senior Recruiter",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Recruiter_P751413-1",
+          "score": 0.3548,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Lifecycle Marketing Operations Specialist, Templates",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P750921-1",
+          "score": 0.3442,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Contingent Workforce Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Contingent-Workforce-Business-Partner_P751195-1",
-          "score": 0.3396,
+          "score": 0.3405,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Lifecycle Marketing Operations Specialist, Templates",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P750921-1",
-          "score": 0.3372,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3322,
+          "score": 0.333,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.3108,
+          "score": 0.3119,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "AV Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/AV-Engineer_P751376-1",
-          "score": 0.3054,
+          "score": 0.3061,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2956,
+          "score": 0.2978,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mobile Engineer, iOS",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Mobile-Engineer--iOS_P751306-2",
-          "score": 0.2336,
+          "score": 0.2344,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -589,407 +589,6 @@
           "title": "Zillow\u2019s Global Applicant Privacy Notice",
           "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
           "score": 0.0673,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Cribl",
-      "url": "https://boards.greenhouse.io/cribl",
-      "error": null,
-      "match_count": 17,
-      "top_score": 0.6542,
-      "roles": [
-        {
-          "title": "Revenue Strategy & Planning, Sr. Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6147586004",
-          "score": 0.6542,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Dir Sales, East (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6023513004",
-          "score": 0.6481,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Ohio (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135855004",
-          "score": 0.6457,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
-          "score": 0.6447,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Revenue Operations Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
-          "score": 0.6441,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6163842004",
-          "score": 0.6386,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Minneapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5971252004",
-          "score": 0.6216,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, North Carolina (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6116623004",
-          "score": 0.6211,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, NYC (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6115646004",
-          "score": 0.6208,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Indianapolis (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5740501004",
-          "score": 0.6191,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager,  Mid Atlantic/DMV (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6014118004",
-          "score": 0.6167,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Philadelphia (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6015360004",
-          "score": 0.6156,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Singapore",
-          "url": "https://cribl.io/job-detail/?gh_jid=6202393004",
-          "score": 0.6144,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Strategy & Operations Sr Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6188442004",
-          "score": 0.6125,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Bay Area (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6122564004",
-          "score": 0.6093,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Dallas/Fort Worth (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6147509004",
-          "score": 0.6052,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Japan (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6110917004",
-          "score": 0.604,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Storage & Analysis (EMEA)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6190561004",
-          "score": 0.592,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
-          "score": 0.5724,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative - DACH Territory",
-          "url": "https://cribl.io/job-detail/?gh_jid=6077488004",
-          "score": 0.569,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative - DACH Territory",
-          "url": "https://cribl.io/job-detail/?gh_jid=5823169004",
-          "score": 0.569,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Product Manager - Metrics/Tracing",
-          "url": "https://cribl.io/job-detail/?gh_jid=6178374004",
-          "score": 0.5634,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Technical Revenue Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6117646004",
-          "score": 0.5628,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Data Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135124004",
-          "score": 0.5578,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Staff Software Engineer, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=5992317004",
-          "score": 0.5572,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "GSI Partner Business Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6188059004",
-          "score": 0.5441,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative, US",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
-          "score": 0.5371,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Tallahassee  (PubSec)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6192356004",
-          "score": 0.5266,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, Sacramento (SLED)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6146658004",
-          "score": 0.5226,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Eastern Canada (Strategic)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6192111004",
-          "score": 0.5222,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Stream Integrations",
-          "url": "https://cribl.io/job-detail/?gh_jid=6184976004",
-          "score": 0.5202,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Customer Support Manager",
-          "url": "https://cribl.io/job-detail/?gh_jid=6123463004",
-          "score": 0.5196,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Engineer, Stream Control Plane",
-          "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
-          "score": 0.5163,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Commercial Counsel",
-          "url": "https://cribl.io/job-detail/?gh_jid=6152682004",
-          "score": 0.5087,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Commercial Sales Engineer, US West",
-          "url": "https://cribl.io/job-detail/?gh_jid=6143066004",
-          "score": 0.507,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, San Francisco (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-          "score": 0.5043,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. Engineering Manager, SDET",
-          "url": "https://cribl.io/job-detail/?gh_jid=6173732004",
-          "score": 0.4986,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
-          "score": 0.489,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. UX Designer, Security",
-          "url": "https://cribl.io/job-detail/?gh_jid=6181112004",
-          "score": 0.4877,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Solutions Engineer, Southern Europe",
-          "url": "https://cribl.io/job-detail/?gh_jid=6140843004",
-          "score": 0.4839,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, UK",
-          "url": "https://cribl.io/job-detail/?gh_jid=6185771004",
-          "score": 0.4838,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Engineer, Italy",
-          "url": "https://cribl.io/job-detail/?gh_jid=6108265004",
-          "score": 0.4797,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Head of Corporate Events",
-          "url": "https://cribl.io/job-detail/?gh_jid=6181124004",
-          "score": 0.4728,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Edge Agent",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
-          "score": 0.471,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Florida (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6199340004",
-          "score": 0.4708,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Sales Engineer, Poland",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
-          "score": 0.469,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
-          "score": 0.4617,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Chicago (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6190446004",
-          "score": 0.4609,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, New York (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6196253004",
-          "score": 0.4569,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Singapore",
-          "url": "https://cribl.io/job-detail/?gh_jid=5746407004",
-          "score": 0.4538,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Ohio (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6203143004",
-          "score": 0.4525,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Site Reliability Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6109420004",
-          "score": 0.452,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Solutions Engineer, Sydney",
-          "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
-          "score": 0.4454,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Japan",
-          "url": "https://cribl.io/job-detail/?gh_jid=6179246004",
-          "score": 0.4424,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior FedRamp ISSO",
-          "url": "https://cribl.io/job-detail/?gh_jid=6020584004",
-          "score": 0.4341,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Facility Security Officer",
-          "url": "https://cribl.io/job-detail/?gh_jid=5746415004",
-          "score": 0.3873,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1174,6 +773,13 @@
         },
         {
           "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
+          "score": 0.5559,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Director, Enterprise Sales",
           "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
           "score": 0.5559,
           "matched": false,
@@ -1313,13 +919,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Customer Success Associate - Dublin (MENA ROSE - Turkish Speaker)",
-          "url": "https://careers.datadoghq.com/detail/8195878/?gh_jid=8195878",
-          "score": 0.5149,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
           "url": "https://careers.datadoghq.com/detail/8147489/?gh_jid=8147489",
           "score": 0.5115,
@@ -1335,14 +934,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1447,14 +1046,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1636,8 +1235,15 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4577,
+      "top_score": 0.519,
       "roles": [
+        {
+          "title": "Staff Product Manager - AI FDE",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
+          "score": 0.519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
         {
           "title": "Solutions Architect",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C355E34A3F6474FAD5DC3BCDEC231B2EXTERNALENUS440EC976A3074575ABAB554AEF8151A4/Solutions-Architect",
@@ -1646,9 +1252,23 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. Technical Architect, AI/ML",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS47C3F8FCCD1B42A4B07A14C5056AC426EXTERNALENUS37D460D2F97E423BA5BC056E0548AADD/Sr-Technical-Architect-AI-ML",
-          "score": 0.4565,
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Manager Partner Development, Accenture",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
+          "score": 0.4417,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1660,23 +1280,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
-          "score": 0.439,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
-          "score": 0.4344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
+          "score": 0.4368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1688,25 +1294,447 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.4258,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
+          "title": "Staff Security Engineer - Threat Detection",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSBDFD57F61AB04673926A167896E97376EXTERNALENUS5ED76BCDCB614222900BAD9FA89A472E/Staff-Security-Engineer-Threat-Detection",
+          "score": 0.3678,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "Cribl",
+      "url": "https://boards.greenhouse.io/cribl",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.3091,
+      "roles": [
+        {
+          "title": "Data Strategy and Tiering",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/data-strategy-and-tiering/",
+          "score": 0.3091,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "AI Observability",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/ai-observability/",
+          "score": 0.2592,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Support",
+          "url": "https://boards.greenhouse.io/support/",
+          "score": 0.2468,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Empowering Platform Engineering and SREs",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/platform-engineering/",
+          "score": 0.2045,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer Intern - Warsaw Security",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS3045856C74A4469EBA81A176CC0BEF8FEXTERNALENUSFC1923C1B1514458A79240D58331A5BE/Software-Engineer-Intern-Warsaw-Security",
-          "score": 0.3945,
+          "title": "Manufacturing & Logistics",
+          "url": "https://boards.greenhouse.io/solutions/industries/manufacturing-and-logistics/",
+          "score": 0.1961,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Cribl AI",
+          "url": "https://boards.greenhouse.io/products/cribl-ai/",
+          "score": 0.1704,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Cribl.Cloud",
+          "url": "https://boards.greenhouse.io/products/cribl-cloud/",
+          "score": 0.1506,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Cloud Migration",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/cloud-migration/",
+          "score": 0.1187,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "See all Integrations",
+          "url": "https://boards.greenhouse.io/integrations/",
+          "score": 0.1138,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "SIEM Migration",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/siem-migration-and-optimization/",
+          "score": 0.1124,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Service Delivery Partners",
+          "url": "https://boards.greenhouse.io/partners/sdp/",
+          "score": 0.1087,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "NetOps Observability",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/netops-observability/",
+          "score": 0.1075,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Read customer stories",
+          "url": "https://boards.greenhouse.io/customers/",
+          "score": 0.1059,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Transform",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/optimize-data-value-with-transform/",
+          "score": 0.0984,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Activation Services",
+          "url": "https://boards.greenhouse.io/professional-services/",
+          "score": 0.0883,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Insights",
+          "url": "https://boards.greenhouse.io/products/insights/",
+          "score": 0.0854,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Palo Alto Networks - Nav",
+          "url": "https://boards.greenhouse.io/solutions/technologies/palo-alto-networks/",
+          "score": 0.0853,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Cribl Learning",
+          "url": "https://boards.greenhouse.io/learning/",
+          "score": 0.0852,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Splunk",
+          "url": "https://boards.greenhouse.io/solutions/technologies/splunk/",
+          "score": 0.0806,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Onboard",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/universal-receiver/",
+          "score": 0.0796,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Managed Security Services",
+          "url": "https://boards.greenhouse.io/solutions/industries/managed-security-services/",
+          "score": 0.0775,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Amazon Web Services",
+          "url": "https://boards.greenhouse.io/solutions/technologies/amazon-web-services/",
+          "score": 0.0754,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Build",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/build-apps-for-telemetry/",
+          "score": 0.0731,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "10x Investigations",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/investigations/",
+          "score": 0.0711,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "SOC Modernization",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/soc-modernization/",
+          "score": 0.0709,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Cost Control",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/cost-control/",
+          "score": 0.064,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Technology and Software",
+          "url": "https://boards.greenhouse.io/solutions/industries/technology/",
+          "score": 0.0639,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Deloitte Logo",
+          "url": "https://boards.greenhouse.io/solutions/technologies/deloitte/",
+          "score": 0.0611,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Avoid Vendor Lock-In",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/avoid-vendor-lock-in/",
+          "score": 0.0597,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Retail",
+          "url": "https://boards.greenhouse.io/solutions/industries/retail/",
+          "score": 0.0552,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Interactive Demos",
+          "url": "https://boards.greenhouse.io/demo/center/",
+          "score": 0.0519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Route",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/route-data-to-multiple-destinations/",
+          "score": 0.0452,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Reduce",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/reduce-size-of-data/",
+          "score": 0.0436,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Financial Services",
+          "url": "https://boards.greenhouse.io/solutions/industries/financial-services/",
+          "score": 0.0427,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Pricing",
+          "url": "https://boards.greenhouse.io/pricing/plan/",
+          "score": 0.0418,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Elastic",
+          "url": "https://boards.greenhouse.io/solutions/technologies/elastic/",
+          "score": 0.0408,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Edge",
+          "url": "https://boards.greenhouse.io/products/edge/",
+          "score": 0.0326,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Apps",
+          "url": "https://boards.greenhouse.io/products/apps/",
+          "score": 0.0316,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Google",
+          "url": "https://boards.greenhouse.io/solutions/technologies/google-cloud-platform/",
+          "score": 0.0305,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Stream",
+          "url": "https://boards.greenhouse.io/products/stream/",
+          "score": 0.029,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Visualize",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/visualize-your-telemetry-data/",
+          "score": 0.0244,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Store",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/data-storage/",
+          "score": 0.0171,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Telemetry as a Shared Service",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/telemetry-as-a-shared-service/",
+          "score": 0.0145,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Redact",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/redact-sensitive-data/",
+          "score": 0.0136,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Research Panel",
+          "url": "https://boards.greenhouse.io/products/research-panel/",
+          "score": 0.0132,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Communications & Media",
+          "url": "https://boards.greenhouse.io/solutions/industries/media-and-entertainment/",
+          "score": 0.0112,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Lake",
+          "url": "https://boards.greenhouse.io/products/lake/",
+          "score": 0.0074,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Collect",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/collect-data-logs/",
+          "score": 0.004,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Investigate",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/search-and-analyze-data/",
+          "score": 0.0003,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "DORA Compliance",
+          "url": "https://boards.greenhouse.io/solutions/initiatives/dora-compliance/",
+          "score": -0.0005,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Enrich",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/enrich-data-events/",
+          "score": -0.0021,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Healthcare",
+          "url": "https://boards.greenhouse.io/solutions/industries/healthcare/",
+          "score": -0.0033,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Crowdstrike",
+          "url": "https://boards.greenhouse.io/solutions/technologies/crowdstrike/",
+          "score": -0.013,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Federal",
+          "url": "https://boards.greenhouse.io/solutions/industries/federal/",
+          "score": -0.0225,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Microsoft",
+          "url": "https://boards.greenhouse.io/solutions/technologies/microsoft-azure/",
+          "score": -0.0263,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Confluent",
+          "url": "https://boards.greenhouse.io/solutions/technologies/confluent-cloud/",
+          "score": -0.0305,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Exabeam",
+          "url": "https://boards.greenhouse.io/solutions/technologies/exabeam/",
+          "score": -0.0421,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Wiz",
+          "url": "https://boards.greenhouse.io/solutions/technologies/wiz/",
+          "score": -0.0524,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Replay",
+          "url": "https://boards.greenhouse.io/solutions/use-cases/low-cost-data-replay/",
+          "score": -0.0562,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "State, Local Government, and Education",
+          "url": "https://boards.greenhouse.io/solutions/industries/public-sector/",
+          "score": -0.0639,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
