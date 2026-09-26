@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:19:08+00:00",
+  "generated_at": "2026-09-26T04:05:16+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -453,6 +453,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Principal Strategic GTM Program Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
+          "score": 0.4987,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Software Development Engineer, Backend (Go/Python)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Go-Python-_P751308-1",
           "score": 0.4648,
@@ -477,13 +484,6 @@
           "title": "Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P751421-1",
           "score": 0.4126,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Campaign Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Campaign-Manager_P751383-2",
-          "score": 0.4021,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -537,13 +537,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Product Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Product-Manager_P751347-1",
-          "score": 0.3559,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Contingent Workforce Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Contingent-Workforce-Business-Partner_P751195-1",
           "score": 0.3396,
@@ -570,6 +563,13 @@
           "score": 0.3108,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "AV Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/AV-Engineer_P751376-1",
+          "score": 0.3054,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
@@ -1636,15 +1636,8 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4638,
+      "top_score": 0.4577,
       "roles": [
-        {
-          "title": "Senior Software Engineer - Database Engineering",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS391FB988A5784FC1A638E76F9E7FD70AEXTERNALENUS30E214F2585340148DEFC4284C0E99F8/Senior-Software-Engineer-Database-Engineering",
-          "score": 0.4638,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
         {
           "title": "Solutions Architect",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C355E34A3F6474FAD5DC3BCDEC231B2EXTERNALENUS440EC976A3074575ABAB554AEF8151A4/Solutions-Architect",
@@ -1691,6 +1684,13 @@
           "title": "Staff Data Scientist, Finance",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS5BC3785279E94DFEB0018368FD42CB3FEXTERNALENUS5BE9023B12774F228483D9AEDAC2371F/Staff-Data-Scientist-Finance",
           "score": 0.428,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Software Engineer, App Runtime",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
+          "score": 0.4258,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
