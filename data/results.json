@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:17:09+00:00",
+  "generated_at": "2026-09-27T11:42:43+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -443,49 +443,56 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6715,
+      "top_score": 0.6684,
       "roles": [
         {
           "title": "Director, Marketing AI & Automation",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Marketing-AI---Automation_P751408-1",
-          "score": 0.6715,
+          "score": 0.6684,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Strategic GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4997,
+          "score": 0.4992,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Software Development Engineer, Backend (Go/Python)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Go-Python-_P751308-1",
-          "score": 0.4541,
+          "score": 0.4543,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Software Development Engineer, Backend (Python /Kubernetes)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Python--Kubernetes-_P751307-1",
-          "score": 0.4415,
+          "score": 0.4418,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Marketing Specialist, SEM",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--SEM_P751416-1",
-          "score": 0.4162,
+          "score": 0.4216,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P751421-1",
-          "score": 0.4014,
+          "score": 0.4018,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Marketing Specialist, Paid Social",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--Paid-Social_P751417-1",
+          "score": 0.3999,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Contingent Workforce Operations & Systems Analyst",
@@ -495,93 +502,86 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Marketing Specialist, Paid Social",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Marketing-Specialist--Paid-Social_P751417-1",
-          "score": 0.3894,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Program-Manager--Studio-Z_P751356-2",
-          "score": 0.3857,
+          "score": 0.3892,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Program-Manager--Studio-Z_P751334-2",
-          "score": 0.3829,
+          "score": 0.3792,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lifecycle Marketing Operations Specialist, Audience",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Audience_P750923-1",
-          "score": 0.3632,
+          "score": 0.3631,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "IT Support Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/IT-Support-Specialist_P751346-2",
-          "score": 0.363,
+          "score": 0.3631,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Recruiter_P751413-1",
-          "score": 0.3548,
+          "score": 0.3551,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lifecycle Marketing Operations Specialist, Templates",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P750921-1",
-          "score": 0.3442,
+          "score": 0.3443,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Contingent Workforce Business Partner",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Contingent-Workforce-Business-Partner_P751195-1",
-          "score": 0.3405,
+          "score": 0.34,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.333,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.312,
+          "score": 0.3306,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "AV Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/AV-Engineer_P751376-1",
-          "score": 0.3061,
+          "score": 0.3142,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2978,
+          "score": 0.2942,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
+          "score": 0.2932,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mobile Engineer, iOS",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Mobile-Engineer--iOS_P751306-2",
-          "score": 0.2344,
+          "score": 0.2348,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1636,26 +1636,12 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4577,
+      "top_score": 0.4456,
       "roles": [
-        {
-          "title": "Solutions Architect",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C355E34A3F6474FAD5DC3BCDEC231B2EXTERNALENUS440EC976A3074575ABAB554AEF8151A4/Solutions-Architect",
-          "score": 0.4577,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
         {
           "title": "Sr. Technical Architect, AI/ML",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS47C3F8FCCD1B42A4B07A14C5056AC426EXTERNALENUS37D460D2F97E423BA5BC056E0548AADD/Sr-Technical-Architect-AI-ML",
-          "score": 0.4565,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - Unistore",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
-          "score": 0.4412,
+          "score": 0.4456,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1670,13 +1656,6 @@
           "title": "Senior Solution Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
           "score": 0.4344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1702,9 +1681,30 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Solutions Architect",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0C355E34A3F6474FAD5DC3BCDEC231B2EXTERNALENUS440EC976A3074575ABAB554AEF8151A4/Solutions-Architect",
+          "score": 0.4038,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Software Engineer Intern - Warsaw Security",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS3045856C74A4469EBA81A176CC0BEF8FEXTERNALENUSFC1923C1B1514458A79240D58331A5BE/Software-Engineer-Intern-Warsaw-Security",
           "score": 0.3945,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Software Engineer - Unistore",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
+          "score": 0.2519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. District Manager",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
+          "score": 0.2049,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
