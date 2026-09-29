@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:50:10+00:00",
+  "generated_at": "2026-09-29T12:25:51+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -443,33 +443,33 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 2,
-      "top_score": 0.6687,
+      "top_score": 0.6691,
       "roles": [
         {
           "title": "Director, Marketing AI & Automation",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Marketing-AI---Automation_P751408-1",
-          "score": 0.6687,
+          "score": 0.6691,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Marketing Intelligence Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Intelligence-Strategist_P751271-1",
-          "score": 0.6185,
+          "score": 0.6184,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Operations Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Business-Operations-Specialist_P751388",
-          "score": 0.4804,
+          "score": 0.4794,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Software Development Engineer, Backend (Go/Python)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer--Backend--Go-Python-_P751308-1",
-          "score": 0.4546,
+          "score": 0.4551,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -483,7 +483,7 @@
         {
           "title": "Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Recruiter_P751421-1",
-          "score": 0.4019,
+          "score": 0.4023,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -497,77 +497,77 @@
         {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Program-Manager--Studio-Z_P751356-2",
-          "score": 0.3895,
+          "score": 0.3836,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Program Manager, Studio Z",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Program-Manager--Studio-Z_P751334-2",
-          "score": 0.3793,
+          "score": 0.3791,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Lifecycle Marketing Operations Specialist, Audience",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Audience_P750923-1",
-          "score": 0.3636,
+          "score": 0.3639,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Recruiter",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Recruiter_P751413-1",
-          "score": 0.3553,
+          "score": 0.3556,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lifecycle Marketing Operations Specialist, Templates",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P750921-1",
-          "score": 0.3443,
+          "score": 0.3449,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Loan Officer Development Program (Irvine, CA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Loan-Officer-Development-Program--Irvine--CA-_P751196-1",
-          "score": 0.3325,
+          "score": 0.3335,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3303,
+          "score": 0.3304,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Loan Officer Development Program (Seattle, WA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
-          "score": 0.3255,
+          "score": 0.3266,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "AV Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/AV-Engineer_P751376-1",
-          "score": 0.3139,
+          "score": 0.3141,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2935,
+          "score": 0.2938,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.2928,
+          "score": 0.2926,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -581,7 +581,7 @@
         {
           "title": "Mobile Engineer, iOS",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Mobile-Engineer--iOS_P751306-2",
-          "score": 0.2353,
+          "score": 0.2347,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
