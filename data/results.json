@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:46:59+00:00",
+  "generated_at": "2026-10-01T12:43:57+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -14,89 +14,82 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 2,
-      "top_score": 0.6694,
+      "top_score": 0.6689,
       "roles": [
         {
           "title": "Director, Marketing AI & Automation",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Marketing-AI---Automation_P751408-1",
-          "score": 0.6694,
+          "score": 0.6689,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Marketing Intelligence Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Intelligence-Strategist_P751271-1",
-          "score": 0.6266,
+          "score": 0.6265,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Data Scientist, Experimentation & AI Measurement",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Data-Scientist--Experimentation---AI-Measurement_P751328-1",
-          "score": 0.5318,
+          "score": 0.5335,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Technical Program Manager, Industry Software",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Technical-Program-Manager--Industry-Software_P750335-1",
-          "score": 0.5222,
+          "score": 0.5178,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal Data Scientist - Rentals Shopping",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Data-Scientist_P749116-1",
-          "score": 0.5042,
+          "score": 0.5047,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Manager, Ads and Marketing Data Science",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Manager--Ads-and-Marketing-Data-Science_P750305",
+          "score": 0.498,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Applied Scientist, Shopping AI",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Applied-Scientist_P751403",
-          "score": 0.4892,
+          "score": 0.4839,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Manager, Mid-Market, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Manager--Mid-Market--Rentals_P751453-1",
-          "score": 0.4484,
+          "score": 0.4526,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Program Manager, Studio Z",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Program-Manager--Studio-Z_P751356-2",
-          "score": 0.384,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Program Manager, Studio Z",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Program-Manager--Studio-Z_P751334-2",
-          "score": 0.3794,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Instructional Designer, Mortgage",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Instructional-Designer--Mortgage_P751484-1",
-          "score": 0.3674,
+          "score": 0.3594,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Learning Facilitator, Mortgage",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sr-Facilitator--Fulfillment-Enablement_P751483-1",
-          "score": 0.3608,
+          "score": 0.3533,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Incident Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Incident-Manager_P751406-1",
-          "score": 0.3514,
+          "score": 0.3485,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -110,49 +103,56 @@
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3308,
+          "score": 0.3307,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Loan Officer Development Program (Seattle, WA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Loan-Officer-Development-Program--Seattle--WA-_P751197-1",
-          "score": 0.3233,
+          "score": 0.3232,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "AV Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/AV-Engineer_P751376-1",
-          "score": 0.3145,
+          "score": 0.3137,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2939,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.2933,
+          "score": 0.2942,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Manager, Rentals Collections",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager--Rentals-Collections_P751411-1",
-          "score": 0.2868,
+          "score": 0.2938,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
+          "score": 0.2931,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Funding Coordinator",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Mortgage-Funding-Coordinator_P751522-1",
+          "score": 0.2539,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Condo Review Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Condo-Review-Specialist_P751423-1",
-          "score": 0.2455,
+          "score": 0.2466,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1209,14 +1209,14 @@
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
+          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
           "score": 0.5559,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
+          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
           "score": 0.5559,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1363,14 +1363,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1650,14 +1650,14 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4854,
+      "top_score": 0.519,
       "roles": [
         {
           "title": "Staff Product Manager - AI FDE",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.4854,
+          "score": 0.519,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Solutions Architect",
@@ -1748,7 +1748,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2151,
+          "score": 0.2149,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
