@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:56:23+00:00",
+  "generated_at": "2026-10-06T05:27:04+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -659,14 +659,14 @@
         },
         {
           "title": "Customer Success Manager - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8127626?gh_jid=8127626",
+          "url": "https://www.hubspot.com/careers/jobs/8249201?gh_jid=8249201",
           "score": 0.5074,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Customer Success Manager - UKI",
-          "url": "https://www.hubspot.com/careers/jobs/8249201?gh_jid=8249201",
+          "url": "https://www.hubspot.com/careers/jobs/8127626?gh_jid=8127626",
           "score": 0.5074,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -764,14 +764,14 @@
         },
         {
           "title": "Hubspot Software Engineer Co-op Placement Program (Ireland)",
-          "url": "https://www.hubspot.com/careers/jobs/8176420?gh_jid=8176420",
+          "url": "https://www.hubspot.com/careers/jobs/8176430?gh_jid=8176430",
           "score": 0.4233,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Hubspot Software Engineer Co-op Placement Program (Ireland)",
-          "url": "https://www.hubspot.com/careers/jobs/8176430?gh_jid=8176430",
+          "url": "https://www.hubspot.com/careers/jobs/8176420?gh_jid=8176420",
           "score": 0.4233,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -855,7 +855,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -869,13 +869,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
-          "score": 0.3867,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.3867,
           "matched": false,
@@ -883,14 +876,21 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -918,28 +918,28 @@
         },
         {
           "title": "Academy Professor, French & Portuguese",
-          "url": "https://www.hubspot.com/careers/jobs/8249262?gh_jid=8249262",
-          "score": 0.3621,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Academy Professor, French & Portuguese",
           "url": "https://www.hubspot.com/careers/jobs/8185547?gh_jid=8185547",
           "score": 0.3621,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Hubspot Software Engineer Co-op Placement & Industrial Placement Program (UK)",
-          "url": "https://www.hubspot.com/careers/jobs/7283237?gh_jid=7283237",
-          "score": 0.3379,
+          "title": "Academy Professor, French & Portuguese",
+          "url": "https://www.hubspot.com/careers/jobs/8249262?gh_jid=8249262",
+          "score": 0.3621,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Hubspot Software Engineer Co-op Placement & Industrial Placement Program (UK)",
           "url": "https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239",
+          "score": 0.3379,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Hubspot Software Engineer Co-op Placement & Industrial Placement Program (UK)",
+          "url": "https://www.hubspot.com/careers/jobs/7283237?gh_jid=7283237",
           "score": 0.3379,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -953,28 +953,28 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
-          "score": 0.2855,
+          "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
+          "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
           "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
+          "score": 0.2855,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative - DACH",
+          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1207,14 +1207,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1319,14 +1319,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1415,8 +1415,15 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5614,
+      "top_score": 0.5717,
       "roles": [
+        {
+          "title": "Senior Analytics Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1",
+          "score": 0.5717,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
         {
           "title": "Principal Product Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Principal-Product-Manager_P750959",
@@ -1540,13 +1547,6 @@
           "title": "Remote Mortgage Loan Officer (Washington DC)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Washington-DC-DC-Massachusetts-Ave-NW/Remote-Mortgage-Loan-Officer--Washington-DC-_P749593-1",
           "score": 0.3367,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.3266,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
