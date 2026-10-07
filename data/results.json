@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:56:24+00:00",
+  "generated_at": "2026-10-07T22:58:13+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 22,
+  "total_matches": 23,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 16,
+      "match_count": 17,
       "top_score": 0.6542,
       "roles": [
         {
@@ -31,6 +31,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Regional Sales Manager, Chicago (Strategic)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6216908004",
+          "score": 0.6454,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Regional Sales Manager, Minneapolis (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=6015520004",
           "score": 0.6447,
@@ -41,13 +48,6 @@
           "title": "Sr Revenue Operations Analyst",
           "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
           "score": 0.6441,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist - EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6217167004",
-          "score": 0.6248,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -90,6 +90,13 @@
           "title": "Regional Sales Manager, Singapore",
           "url": "https://cribl.io/job-detail/?gh_jid=6202393004",
           "score": 0.6144,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
+          "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -165,31 +172,17 @@
         },
         {
           "title": "Sales Development Representative - DACH Territory",
-          "url": "https://cribl.io/job-detail/?gh_jid=5823169004",
-          "score": 0.569,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Development Representative - DACH Territory",
           "url": "https://cribl.io/job-detail/?gh_jid=6077488004",
           "score": 0.569,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Product Manager - Metrics/Tracing",
-          "url": "https://cribl.io/job-detail/?gh_jid=6178374004",
-          "score": 0.5634,
+          "title": "Sales Development Representative - DACH Territory",
+          "url": "https://cribl.io/job-detail/?gh_jid=5823169004",
+          "score": 0.569,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Data Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6135124004",
-          "score": 0.5578,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Customer Success Engineer, Sydney",
@@ -430,6 +423,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior Threat Detection Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6217897004",
+          "score": 0.394,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Facility Security Officer",
           "url": "https://cribl.io/job-detail/?gh_jid=5746415004",
           "score": 0.3873,
@@ -560,13 +560,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Engineering - Digital Experience Monitoring",
-          "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
-          "score": 0.5792,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Sales Engineer (Sao Paulo)",
           "url": "https://careers.datadoghq.com/detail/8211090/?gh_jid=8211090",
           "score": 0.5787,
@@ -595,32 +588,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Sales Engineer 2",
+          "title": "Commercial Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
-          "score": 0.5628,
+          "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Enterprise Customer Success",
-          "url": "https://careers.datadoghq.com/detail/8188985/?gh_jid=8188985",
-          "score": 0.5572,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
-          "score": 0.5559,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8195697/?gh_jid=8195697",
-          "score": 0.5559,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Commercial & Mid-Market Sales Engineer",
@@ -868,6 +840,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Copy of Manager I, Engineering - Language Platform",
+          "url": "https://careers.datadoghq.com/detail/8261223/?gh_jid=8261223",
+          "score": 0.4764,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Developer Advocate - Service Management EMEA",
           "url": "https://careers.datadoghq.com/detail/8161455/?gh_jid=8161455",
           "score": 0.4753,
@@ -876,14 +855,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -906,6 +885,27 @@
           "title": "Curriculum Manager (EMEA)",
           "url": "https://careers.datadoghq.com/detail/8170070/?gh_jid=8170070",
           "score": 0.439,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Compensation Specialist",
+          "url": "https://careers.datadoghq.com/detail/8263113/?gh_jid=8263113",
+          "score": 0.435,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Compensation Specialist, Executive",
+          "url": "https://careers.datadoghq.com/detail/8238444/?gh_jid=8238444",
+          "score": 0.4315,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Compensation Program Manager",
+          "url": "https://careers.datadoghq.com/detail/8238495/?gh_jid=8238495",
+          "score": 0.4251,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1032,8 +1032,8 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/22.37A",
-          "score": 0.5862,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A8.042",
+          "score": 0.57,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1060,13 +1060,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/54.869",
-          "score": 0.5045,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/18.370",
           "score": 0.4804,
           "matched": false,
@@ -1076,6 +1069,13 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EB.F63",
           "score": 0.4606,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EA.95F",
+          "score": 0.4398,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1110,6 +1110,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Software Development Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751150",
+          "score": 0.4877,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Marketing Technologist, Customer Data Platform",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Marketing-Technologist--Customer-Data-Platform_P751171-1",
           "score": 0.4854,
@@ -1129,13 +1136,6 @@
           "score": 0.4519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Analyst, Payments",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Analyst--Payments_P751490-2",
-          "score": 0.4286,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Engineering Manager, Software Engineering",
@@ -1159,9 +1159,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Principal Software Development Engineer, iOS",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Principal-Software-Development-Engineer--iOS_P751476",
-          "score": 0.392,
+          "title": "Accounting Manager - Financial Products & Services",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Accounting-Manager---Financial-Products---Services_P751506-2",
+          "score": 0.39,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1176,13 +1176,6 @@
           "title": "Full Stack Software Development Engineer - Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Full-Stack-Software-Development-Engineer---Mexico_P751464",
           "score": 0.3807,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior iOS Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-iOS-Engineer---Mexico_P751475",
-          "score": 0.3738,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1227,6 +1220,13 @@
           "score": 0.3205,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Applied Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1",
+          "score": 0.2882,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Zillow\u2019s Global Applicant Privacy Notice",
@@ -1321,18 +1321,32 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5173,
+      "top_score": 0.519,
       "roles": [
         {
-          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
-          "score": 0.5173,
+          "title": "Staff Product Manager - AI FDE",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
+          "score": 0.519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "TLM, Apps and Experiences Storage Team",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2C1EF6392D3640A197A24CE869A3D45EEXTERNALENUS1B7C31C2D3D74FD986EF1F8A4B167335/TLM-Apps-and-Experiences-Storage-Team",
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Manager Partner Development, Accenture",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1345,30 +1359,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
-          "score": 0.439,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Solution Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
           "score": 0.4368,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
-          "score": 0.4344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1380,9 +1373,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1390,6 +1383,13 @@
           "title": "Software Engineer Intern - Warsaw Security",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS3045856C74A4469EBA81A176CC0BEF8FEXTERNALENUSFC1923C1B1514458A79240D58331A5BE/Software-Engineer-Intern-Warsaw-Security",
           "score": 0.3945,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Security Engineer - Threat Detection",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSBDFD57F61AB04673926A167896E97376EXTERNALENUS5ED76BCDCB614222900BAD9FA89A472E/Staff-Security-Engineer-Threat-Detection",
+          "score": 0.3678,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
