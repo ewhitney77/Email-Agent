@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:58:13+00:00",
+  "generated_at": "2026-10-08T05:07:04+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -743,14 +743,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1082,162 +1082,6 @@
       ]
     },
     {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5631,
-      "roles": [
-        {
-          "title": "Senior Analytics Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1",
-          "score": 0.5631,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Director--Engineering_P751170-1",
-          "score": 0.5284,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Workforce Capability Lead",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Workforce-Capability-Lead_P751351-2",
-          "score": 0.5259,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Software Development Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751150",
-          "score": 0.4877,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Marketing Technologist, Customer Data Platform",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Marketing-Technologist--Customer-Data-Platform_P751171-1",
-          "score": 0.4854,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Marketing Technologist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Marketing-Technologist_P751514-2",
-          "score": 0.4618,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Software Development Engineer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751457",
-          "score": 0.4519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Engineering Manager, Software Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Engineering-Manager--Software-Engineering_P751320-1",
-          "score": 0.4284,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Backend Software Development Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Backend-Software-Development-Engineer---Mexico_P751468-1",
-          "score": 0.401,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Backend Software Development Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Backend-Software-Development-Engineer---Mexico_P751469-1",
-          "score": 0.3994,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Accounting Manager - Financial Products & Services",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Accounting-Manager---Financial-Products---Services_P751506-2",
-          "score": 0.39,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Product Counsel, Mortgages",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Counsel--Mortgages_P751422",
-          "score": 0.3851,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Full Stack Software Development Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Full-Stack-Software-Development-Engineer---Mexico_P751464",
-          "score": 0.3807,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Mortgage Loan Officer (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
-          "score": 0.3718,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Full Stack Software Development Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Principal-Full-Stack-Software-Development-Engineer---Mexico_P751467",
-          "score": 0.3699,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Full Stack Software Development Engineer - Mexico",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Full-Stack-Software-Development-Engineer---Mexico_P751466",
-          "score": 0.3672,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
-          "score": 0.3462,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
-          "score": 0.3443,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Underwriting Support Specialist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Underwriting-Support-Specialist_P751546-1",
-          "score": 0.3205,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Applied Scientist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1",
-          "score": 0.2882,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
       "company": "Wasabi Technologies",
       "url": "https://wasabi.com/company/careers",
       "error": null,
@@ -1392,6 +1236,162 @@
           "score": 0.3678,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        }
+      ]
+    },
+    {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.4877,
+      "roles": [
+        {
+          "title": "Senior Software Development Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751150",
+          "score": 0.4877,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Accounting Manager - Financial Products & Services",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Accounting-Manager---Financial-Products---Services_P751506-2",
+          "score": 0.39,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Product Counsel, Mortgages",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Counsel--Mortgages_P751422",
+          "score": 0.3851,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Principal Full Stack Software Development Engineer - Mexico",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Principal-Full-Stack-Software-Development-Engineer---Mexico_P751467",
+          "score": 0.3699,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Mississippi)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MS/Remote-Mortgage-Loan-Officer--Mississippi-_P749652-1",
+          "score": 0.3413,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Idaho)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ID/Remote-Mortgage-Loan-Officer--Idaho-_P749615-1",
+          "score": 0.3383,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Arkansas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
+          "score": 0.3361,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (South Dakota)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-SD/Remote-Mortgage-Loan-Officer--South-Dakota-_P749657-1",
+          "score": 0.3333,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Massachusetts)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
+          "score": 0.3321,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (California)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Remote-Mortgage-Loan-Officer--California-_P749613-1",
+          "score": 0.3282,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Iowa)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IA/Remote-Mortgage-Loan-Officer--Illinois-_P749649-1",
+          "score": 0.3256,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (North Dakota)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ND/Remote-Mortgage-Loan-Officer--North-Dakota-_P749655-1",
+          "score": 0.3227,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Underwriting Support Specialist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Underwriting-Support-Specialist_P751546-1",
+          "score": 0.3205,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Minnesota)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MN/Remote-Mortgage-Loan-Officer--Minnesota-_P749651-1",
+          "score": 0.3181,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Ohio)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OH/Remote-Mortgage-Loan-Officer--Ohio-_P749586-1",
+          "score": 0.3174,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Oklahoma)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OK/Remote-Mortgage-Loan-Officer--Oklahoma-_P749656-1",
+          "score": 0.3171,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (West Virginia)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
+          "score": 0.3153,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (New Hampshire)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
+          "score": 0.3002,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Connecticut)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CT/Remote-Mortgage-Loan-Officer--Connecticut-_P749575-1",
+          "score": 0.2978,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Applied Scientist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1",
+          "score": 0.2882,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Zillow\u2019s Global Applicant Privacy Notice",
+          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
+          "score": 0.0673,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
