@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:29:21+00:00",
+  "generated_at": "2026-10-10T04:54:25+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -862,14 +862,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1275,7 +1275,7 @@
         {
           "title": "Remote Mortgage Loan Officer (North Carolina)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Remote-Mortgage-Loan-Officer--North-Carolina-_P749585-1",
-          "score": 0.3156,
+          "score": 0.3157,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1314,18 +1314,32 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5173,
+      "top_score": 0.519,
       "roles": [
         {
-          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
-          "score": 0.5173,
+          "title": "Staff Product Manager - AI FDE",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
+          "score": 0.519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "TLM, Apps and Experiences Storage Team",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2C1EF6392D3640A197A24CE869A3D45EEXTERNALENUS1B7C31C2D3D74FD986EF1F8A4B167335/TLM-Apps-and-Experiences-Storage-Team",
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Manager Partner Development, Accenture",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
           "score": 0.4417,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1352,13 +1366,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Staff Software Engineer, App Runtime",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
           "score": 0.4258,
@@ -1366,25 +1373,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Software Engineer Intern - Warsaw Security",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS3045856C74A4469EBA81A176CC0BEF8FEXTERNALENUSFC1923C1B1514458A79240D58331A5BE/Software-Engineer-Intern-Warsaw-Security",
-          "score": 0.3961,
+          "score": 0.3945,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
-          "score": 0.2539,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
