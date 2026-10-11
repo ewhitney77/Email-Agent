@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:23:17+00:00",
+  "generated_at": "2026-10-11T04:40:22+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1268,7 +1268,7 @@
         {
           "title": "Remote Mortgage Loan Officer (North Carolina)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Remote-Mortgage-Loan-Officer--North-Carolina-_P749585-1",
-          "score": 0.3208,
+          "score": 0.321,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
