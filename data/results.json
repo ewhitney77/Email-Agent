@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:05:48+00:00",
+  "generated_at": "2026-10-15T16:34:54+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -554,13 +554,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9F.279",
-          "score": 0.5963,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/A0.B55-26.50F",
           "score": 0.5907,
           "matched": false,
@@ -582,15 +575,22 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/79.F49",
-          "score": 0.5879,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/79.F49-26.50F",
+          "score": 0.5869,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/79.F49-26.50F",
-          "score": 0.5869,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.372",
+          "score": 0.5772,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.760",
+          "score": 0.5725,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -807,13 +807,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Account Executive - Israel",
-          "url": "https://careers.datadoghq.com/detail/8245889/?gh_jid=8245889",
-          "score": 0.525,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Commercial Account Executive UKI/Nordics",
           "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176",
           "score": 0.5224,
@@ -871,14 +864,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -945,6 +938,13 @@
           "score": 0.4849,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive (Italy)",
+          "url": "https://careers.datadoghq.com/detail/8210507/?gh_jid=8210507",
+          "score": 0.4815,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Customer Success Associate (Spanish Speaking)",
@@ -1096,9 +1096,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Development Engineer",
+          "title": "Senior Software Development Engineer, Agentic Memory & Evals Team",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer_P751322",
-          "score": 0.5865,
+          "score": 0.5769,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1266,6 +1266,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Architect \u2013 Object Storage & Database Systems",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5453125008",
+          "score": 0.4603,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Principal Cloud Support Engineer",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5214686008",
           "score": 0.4363,
@@ -1294,6 +1301,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Renewals Representative",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5453136008",
+          "score": 0.409,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Business Systems Engineer (Salesforce & Billing Platform)",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5366870008",
           "score": 0.406,
@@ -1301,9 +1315,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Architect \u2013 Object Storage & Database Systems",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5453125008",
-          "score": 0.3898,
+          "title": "Technical program manager",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5454019008",
+          "score": 0.3723,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1387,16 +1401,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solutions Engineer - FSI",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
-          "score": 0.4248,
+          "title": "Staff Software Engineer, App Runtime",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
+          "score": 0.4258,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.2552,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
