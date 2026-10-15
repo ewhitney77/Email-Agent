@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:27:44+00:00",
+  "generated_at": "2026-10-15T03:44:31+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1086,8 +1086,15 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5633,
+      "top_score": 0.5907,
       "roles": [
+        {
+          "title": "Principal Product Manager, Developer Experience AI SDLC",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Principal-Product-Manager_P750959",
+          "score": 0.5907,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
         {
           "title": "Lifecycle Marketing Operations Specialist, Templates",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Lifecycle-Marketing-Operations-Specialist--Templates_P751060-1",
@@ -1178,13 +1185,6 @@
           "score": 0.4075,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Video Content Producer",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Video-Content-Producer_P751441-1",
-          "score": 0.3897,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Web Marketing Specialist",
@@ -1285,6 +1285,13 @@
           "score": 0.4105,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Channel Account Manager, ASEAN",
+          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5451866008",
+          "score": 0.4104,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Business Systems Engineer (Salesforce & Billing Platform)",
