@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:21:12+00:00",
+  "generated_at": "2026-10-16T20:43:11+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 24,
+  "total_matches": 25,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 20,
+      "match_count": 21,
       "top_score": 0.6542,
       "roles": [
         {
@@ -122,6 +122,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
+          "score": 0.6094,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Regional Sales Director, Singapore",
           "url": "https://cribl.io/job-detail/?gh_jid=6220343004",
           "score": 0.6059,
@@ -192,9 +199,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sr Software Engineer, Cribl AI",
-          "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
-          "score": 0.5724,
+          "title": "Cloud Partner Sales Manager",
+          "url": "https://cribl.io/job-detail/?gh_jid=6225541004",
+          "score": 0.5591,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -335,13 +342,6 @@
           "title": "Head of Corporate Events",
           "url": "https://cribl.io/job-detail/?gh_jid=6181124004",
           "score": 0.4728,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Software Engineer, Edge Agent",
-          "url": "https://cribl.io/job-detail/?gh_jid=6000054004",
-          "score": 0.471,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -674,6 +674,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Enterprise Sales Engineering - US Central",
+          "url": "https://careers.datadoghq.com/detail/8136510/?gh_jid=8136510",
+          "score": 0.5809,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Director, Engineering - Digital Experience Monitoring",
           "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
           "score": 0.5792,
@@ -716,6 +723,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
+          "score": 0.5559,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Commercial & Mid-Market Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/8130580/?gh_jid=8130580",
           "score": 0.5521,
@@ -733,13 +747,6 @@
           "title": "Commercial Sales Engineer 2 (AMER - West)",
           "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
           "score": 0.5472,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Datadog for Startups - Forward Deployed Engineering Lead",
-          "url": "https://careers.datadoghq.com/detail/8003181/?gh_jid=8003181",
-          "score": 0.546,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -856,22 +863,15 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Corporate Communications Senior Manager, Executive Communications Programs",
-          "url": "https://careers.datadoghq.com/detail/8144783/?gh_jid=8144783",
-          "score": 0.5112,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1131,11 +1131,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Recruiter, GTM",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Recruiter--GTM_P751572-1",
-          "score": 0.5111,
+          "title": "Software Asset Management Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Asset-Management-Analyst_P751465-1",
+          "score": 0.5124,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal GTM Program Manager",
@@ -1261,7 +1261,7 @@
         {
           "title": "Supply Chain Manager \u2013 Commodity Management",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5362689008",
-          "score": 0.4674,
+          "score": 0.4718,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1373,6 +1373,20 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Solution Engineer - Global Accounts",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
+          "score": 0.439,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
+          "score": 0.4368,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Solution Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
           "score": 0.4344,
@@ -1397,20 +1411,6 @@
           "title": "Senior Technical Support Engineer, Observe by Snowflake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
           "score": 0.4244,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
-          "score": 0.2539,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
-          "score": 0.2535,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1440,7 +1440,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2144,
+          "score": 0.2142,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
