@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:43:11+00:00",
+  "generated_at": "2026-10-17T03:30:17+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -199,9 +199,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Cloud Partner Sales Manager",
+          "title": "Cloud Partner Sales Manager  (Northeast)",
           "url": "https://cribl.io/job-detail/?gh_jid=6225541004",
-          "score": 0.5591,
+          "score": 0.5572,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -976,14 +976,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
