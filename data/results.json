@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:35:23+00:00",
+  "generated_at": "2026-10-20T21:27:05+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 25,
+  "total_matches": 24,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 21,
+      "match_count": 20,
       "top_score": 0.6542,
       "roles": [
         {
@@ -41,13 +41,6 @@
           "title": "Regional Sales Manager, Chicago (Strategic)",
           "url": "https://cribl.io/job-detail/?gh_jid=6216908004",
           "score": 0.6454,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr Revenue Operations Analyst",
-          "url": "https://cribl.io/job-detail/?gh_jid=6018893004",
-          "score": 0.6441,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -171,6 +164,20 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Regional Sales Manager, Digital Native",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
+          "score": 0.5972,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Regional Sales Manager, Digital Native",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
+          "score": 0.5972,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Regional Sales Manager, United Kingdom (Public Sector)",
           "url": "https://cribl.io/job-detail/?gh_jid=6202597004",
           "score": 0.5967,
@@ -246,6 +253,13 @@
           "score": 0.5415,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Analytics Business Partner",
+          "url": "https://cribl.io/job-detail/?gh_jid=6219915004",
+          "score": 0.5409,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Sales Development Representative, US",
@@ -388,23 +402,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solutions Engineer, Singapore",
-          "url": "https://cribl.io/job-detail/?gh_jid=5746407004",
-          "score": 0.4538,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Solutions Engineer, Ohio (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6203143004",
           "score": 0.4525,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Sydney",
-          "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
-          "score": 0.4454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -467,9 +467,23 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior Manager, Customer Success Management",
+          "url": "https://www.hubspot.com/careers/jobs/8191909?gh_jid=8191909",
+          "score": 0.549,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Enterprise",
           "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
           "score": 0.5428,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Account Executive, Sales Specialization",
+          "url": "https://www.hubspot.com/careers/jobs/7411473?gh_jid=7411473",
+          "score": 0.5378,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -498,6 +512,13 @@
           "title": "Outbound Business Development Representative (BDR)",
           "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
           "score": 0.5093,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Lead Customer Success Manager, Strategic Accounts (Trilingual in Portuguese)",
+          "url": "https://www.hubspot.com/careers/jobs/8176659?gh_jid=8176659",
+          "score": 0.4963,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -983,14 +1004,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1117,11 +1138,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Growth Specialist I, Preferred",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Specialist--Preferred_P751575",
-          "score": 0.5302,
+          "title": "Principal Product Manager, Product Development Platforms",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Product-Development-Platforms_P751586-1",
+          "score": 0.5464,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Business Systems Analyst",
@@ -1129,6 +1150,13 @@
           "score": 0.5041,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Fullstack Engineer, Mortgage Fulfillment AI",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Fullstack-Engineer--Mortgage-Fulfillment-AI_P751548-2",
+          "score": 0.4995,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Principal GTM Program Manager",
@@ -1199,13 +1227,6 @@
           "score": 0.3812,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Web Marketing Specialist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Web-Marketing-Specialist_P751534-1",
-          "score": 0.3699,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Frontend Software Development Engineer - Mexico",
