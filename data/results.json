@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:57:35+00:00",
+  "generated_at": "2026-10-20T11:09:38+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -674,13 +674,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Enterprise Sales Engineering - US Central",
-          "url": "https://careers.datadoghq.com/detail/8136510/?gh_jid=8136510",
-          "score": 0.5809,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Director, Engineering - Digital Experience Monitoring",
           "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
           "score": 0.5792,
@@ -819,6 +812,13 @@
           "score": 0.5339,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive - Israel",
+          "url": "https://careers.datadoghq.com/detail/8245889/?gh_jid=8245889",
+          "score": 0.525,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Commercial Account Executive UKI/Nordics",
@@ -1086,145 +1086,145 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 1,
-      "top_score": 0.6115,
+      "top_score": 0.612,
       "roles": [
         {
           "title": "Senior Software Development Engineer - Big Data",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer---Big-Data_P751458-2",
-          "score": 0.6115,
+          "score": 0.612,
           "matched": true,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Product Manager, Developer Experience AI SDLC",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Principal-Product-Manager_P750959",
-          "score": 0.584,
+          "score": 0.5838,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Software Development Engineer, Agentic Memory & Evals Team",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Software-Development-Engineer_P751322",
-          "score": 0.5766,
+          "score": 0.5768,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Analyst, New Construction Sales Analytics",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Analyst--New-Construction-Sales-Analytics_P751610",
-          "score": 0.5601,
+          "score": 0.5608,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Growth Specialist I, Preferred",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Specialist--Preferred_P751575",
-          "score": 0.523,
+          "score": 0.5227,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Business Systems Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Business-Systems-Analyst_P751532-2",
-          "score": 0.5034,
+          "score": 0.5041,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal GTM Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-GTM-Program-Manager_P751279-1",
-          "score": 0.4984,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sales Enablement Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Enablement-Manager_P751594-1",
-          "score": 0.4508,
+          "score": 0.4978,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Enterprise Customer Success Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CO/Enterprise-Customer-Success-Manager_P751358-1",
-          "score": 0.4504,
+          "score": 0.4514,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Sales Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Enablement-Manager_P751594-1",
+          "score": 0.4509,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Director, Workforce Planning",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Workforce-Planning_P751529-1",
-          "score": 0.4361,
+          "score": 0.4365,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1",
-          "score": 0.4286,
+          "score": 0.4292,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Data Scientist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Data-Scientist_P751528-2",
-          "score": 0.4219,
+          "score": 0.4218,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Backend Software Development Engineer - Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Principal-Backend-Software-Development-Engineer---Mexico_P751470-1",
-          "score": 0.412,
+          "score": 0.4114,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Frontend Software Development Engineer - Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Principal-Frontend-Software-Development-Engineer---Mexico_P751473-1",
-          "score": 0.3933,
+          "score": 0.394,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Atlassian Platform Administrator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Atlassian-Platform-Administrator_P751283-1",
-          "score": 0.3808,
+          "score": 0.3812,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Web Marketing Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Web-Marketing-Specialist_P751534-1",
-          "score": 0.3702,
+          "score": 0.3699,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Frontend Software Development Engineer - Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Frontend-Software-Development-Engineer---Mexico_P751472-1",
-          "score": 0.3597,
+          "score": 0.3599,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Principal Strategic Researcher",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Strategic-Researcher_P751568-1",
-          "score": 0.3556,
+          "score": 0.3558,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Frontend Software Development Engineer - Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Frontend-Software-Development-Engineer---Mexico_P751471-1",
-          "score": 0.3439,
+          "score": 0.3444,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Copywriter, Mexico",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Copywriter--Mexico_P751222-1",
-          "score": 0.2653,
+          "score": 0.2649,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1342,12 +1342,19 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5173,
+      "top_score": 0.519,
       "roles": [
         {
-          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
-          "score": 0.5173,
+          "title": "Staff Product Manager - AI FDE",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
+          "score": 0.519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1359,23 +1366,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "TLM, Apps and Experiences Storage Team",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2C1EF6392D3640A197A24CE869A3D45EEXTERNALENUS1B7C31C2D3D74FD986EF1F8A4B167335/TLM-Apps-and-Experiences-Storage-Team",
-          "score": 0.4417,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Staff Software Engineer - Unistore",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
           "score": 0.4412,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Solution Engineer - Global Accounts",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
-          "score": 0.439,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1408,9 +1401,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr. Manager Partner Development, Accenture",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9329E834081D48B0A67FB49EFC801360EXTERNALENUS1965834BF73D4AEB8C827338481201E4/Sr-Manager-Partner-Development-Accenture",
+          "score": 0.356,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1440,7 +1440,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2151,
+          "score": 0.2153,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
