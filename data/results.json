@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:31:11+00:00",
+  "generated_at": "2026-10-22T16:58:18+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -95,6 +95,13 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
+          "score": 0.6122,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
           "score": 0.6122,
           "matched": true,
@@ -103,13 +110,6 @@
         {
           "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
-          "score": 0.6122,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -460,13 +460,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "VP, Growth Marketing",
-          "url": "https://www.hubspot.com/careers/jobs/8118941?gh_jid=8118941",
-          "score": 0.5665,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Account Executive , Expansion -  UKI (UK Based)",
           "url": "https://www.hubspot.com/careers/jobs/8030173?gh_jid=8030173",
           "score": 0.565,
@@ -559,14 +552,14 @@
         },
         {
           "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
+          "url": "https://www.hubspot.com/careers/jobs/8031160?gh_jid=8031160",
           "score": 0.5093,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8031160?gh_jid=8031160",
+          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
           "score": 0.5093,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -677,6 +670,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Contract Manager, 1:Few - US Accounts",
+          "url": "https://www.hubspot.com/careers/jobs/7668971?gh_jid=7668971",
+          "score": 0.4361,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
           "score": 0.4325,
@@ -706,14 +706,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -839,14 +839,14 @@
         },
         {
           "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH (Ireland Basierend)",
-          "url": "https://www.hubspot.com/careers/jobs/6046172?gh_jid=6046172",
+          "url": "https://www.hubspot.com/careers/jobs/6046168?gh_jid=6046168",
           "score": 0.3099,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH (Ireland Basierend)",
-          "url": "https://www.hubspot.com/careers/jobs/6046168?gh_jid=6046168",
+          "url": "https://www.hubspot.com/careers/jobs/6046172?gh_jid=6046172",
           "score": 0.3099,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1502,13 +1502,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Enterprise Customer Success Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CO/Enterprise-Customer-Success-Manager_P751358-1",
-          "score": 0.4474,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Applied Scientist (Economics) Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
           "score": 0.444,
@@ -1544,9 +1537,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Mortgage Disclosure Analyst",
+          "title": "Closing Disclosure Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Mortgage-Disclosure-Analyst_P751650-2",
-          "score": 0.3379,
+          "score": 0.3619,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Accounting Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Accounting-Manager_P749560-2",
+          "score": 0.3535,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1681,6 +1681,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "TLM, Apps and Experiences Storage Team",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS2C1EF6392D3640A197A24CE869A3D45EEXTERNALENUS1B7C31C2D3D74FD986EF1F8A4B167335/TLM-Apps-and-Experiences-Storage-Team",
           "score": 0.4417,
@@ -1698,6 +1705,13 @@
           "title": "Senior Solution Engineer - Global Accounts",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS0621B333E1484A6DBFAC251BA1309934EXTERNALENUSE32988E04E3942A0A9D3E3E98248668E/Senior-Solution-Engineer-Global-Accounts",
           "score": 0.439,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
+          "score": 0.4368,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1726,20 +1740,6 @@
           "title": "Senior Technical Support Engineer, Observe by Snowflake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
           "score": 0.4244,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.3018,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
-          "score": 0.2535,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
