@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:27:27+00:00",
+  "generated_at": "2026-10-22T03:47:26+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -353,6 +353,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Software Engineer, Stream Integrations",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226641004",
+          "score": 0.4985,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Technical Support Engineer",
           "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
           "score": 0.489,
@@ -405,13 +412,6 @@
           "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
           "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
           "score": 0.4617,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Solutions Engineer, Chicago (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6190446004",
-          "score": 0.4609,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -813,14 +813,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
