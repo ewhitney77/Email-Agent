@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:34:29+00:00",
+  "generated_at": "2026-10-23T03:52:31+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -931,13 +931,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
-          "score": 0.5559,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Commercial & Mid-Market Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/8130580/?gh_jid=8130580",
           "score": 0.5521,
@@ -1048,6 +1041,13 @@
           "score": 0.525,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Deal Desk Analyst",
+          "url": "https://careers.datadoghq.com/detail/8301039/?gh_jid=8301039",
+          "score": 0.5248,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive UKI/Nordics",
@@ -1319,15 +1319,15 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3E.46C",
-          "score": 0.5776,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/D3.471",
+          "score": 0.5779,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.372",
-          "score": 0.5772,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3E.46C",
+          "score": 0.5776,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1340,15 +1340,15 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/88.760",
-          "score": 0.5725,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/75.47D",
+          "score": 0.5727,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/7E.C6D-A3.50C",
-          "score": 0.5613,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/4F.15A",
+          "score": 0.5666,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1415,19 +1415,19 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5605,
+      "top_score": 0.59,
       "roles": [
         {
-          "title": "Principal Product Manager, Product Development Platforms",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Product-Development-Platforms_P751586-1",
-          "score": 0.5605,
+          "title": "Senior Business Intelligence Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Business-Intelligence-Analyst_P749745",
+          "score": 0.59,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Business Analyst, New Construction Sales Analytics",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Analyst--New-Construction-Sales-Analytics_P751610",
-          "score": 0.5462,
+          "title": "Principal Product Manager, Product Development Platforms",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--Product-Development-Platforms_P751586-1",
+          "score": 0.5605,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1467,6 +1467,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Machine Learning Engineer (Memory & Context)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Machine-Learning-Engineer--Memory---Context-_P748680-1",
+          "score": 0.5084,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Applied Scientist (Post-Training)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Applied-Scientist_P751331",
           "score": 0.5029,
@@ -1486,13 +1493,6 @@
           "score": 0.4959,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Machine Learning Engineer (Memory & Context)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Machine-Learning-Engineer--Memory---Context-_P748680-1",
-          "score": 0.4915,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Business Systems Analyst",
@@ -1681,6 +1681,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Software Engineer - FDB Platform",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
+          "score": 0.4572,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Software Engineer - Backend",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
           "score": 0.4542,
@@ -1730,16 +1737,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.3765,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Senior Solutions Engineer - FSI",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
-          "score": 0.2496,
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
