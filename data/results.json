@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:33:05+00:00",
+  "generated_at": "2026-10-24T15:38:26+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -95,7 +95,7 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -109,14 +109,14 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -179,14 +179,14 @@
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -818,6 +818,13 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
+          "score": 0.326,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
@@ -826,13 +833,6 @@
         {
           "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1093,14 +1093,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1567,16 +1567,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.4258,
+          "title": "Senior Solutions Engineer - FSI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solutions Engineer - FSI",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
-          "score": 0.4248,
+          "title": "Staff Software Engineer, App Runtime",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
+          "score": 0.2552,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
