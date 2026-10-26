@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:31:38+00:00",
+  "generated_at": "2026-10-26T22:29:06+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -102,13 +102,6 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
-          "score": 0.6122,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
           "score": 0.6122,
           "matched": true,
@@ -117,6 +110,13 @@
         {
           "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
+          "score": 0.6122,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -179,14 +179,14 @@
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -249,14 +249,14 @@
         },
         {
           "title": "Director, Solutions Engineering (Enterprise AMER)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6224834004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6225321004",
           "score": 0.5473,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Solutions Engineering (Enterprise AMER)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6225321004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6224834004",
           "score": 0.5473,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -523,6 +523,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Associate, Corporate Development",
+          "url": "https://www.hubspot.com/careers/jobs/8044961?gh_jid=8044961",
+          "score": 0.5163,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/5990225?gh_jid=5990225",
           "score": 0.5161,
@@ -552,14 +559,14 @@
         },
         {
           "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8031160?gh_jid=8031160",
+          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
           "score": 0.5093,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
+          "url": "https://www.hubspot.com/careers/jobs/8031160?gh_jid=8031160",
           "score": 0.5093,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -706,14 +713,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -776,14 +783,14 @@
         },
         {
           "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986119?gh_jid=5986119",
+          "url": "https://www.hubspot.com/careers/jobs/5986120?gh_jid=5986120",
           "score": 0.3718,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986120?gh_jid=5986120",
+          "url": "https://www.hubspot.com/careers/jobs/5986119?gh_jid=5986119",
           "score": 0.3718,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -818,13 +825,6 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
           "score": 0.326,
           "matched": false,
@@ -838,16 +838,16 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH",
-          "url": "https://www.hubspot.com/careers/jobs/5986427?gh_jid=5986427",
-          "score": 0.3113,
+          "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH (Ireland Basierend)",
-          "url": "https://www.hubspot.com/careers/jobs/6046172?gh_jid=6046172",
-          "score": 0.3099,
+          "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH",
+          "url": "https://www.hubspot.com/careers/jobs/5986427?gh_jid=5986427",
+          "score": 0.3113,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -936,13 +936,6 @@
           "score": 0.5521,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
-          "score": 0.5519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Commercial Sales",
@@ -1078,6 +1071,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Customer Success Associate - Boston",
+          "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466",
+          "score": 0.5187,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Commercial Account Executive - Sao Paulo (Portuguese Speaking)",
           "url": "https://careers.datadoghq.com/detail/7792997/?gh_jid=7792997",
           "score": 0.5178,
@@ -1100,14 +1100,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1312,13 +1312,6 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/B3.277",
-          "score": 0.5959,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/15.548",
           "score": 0.5903,
           "matched": false,
@@ -1328,20 +1321,6 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/D3.471",
           "score": 0.5779,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3E.46C",
-          "score": 0.5776,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3E.46C-D4.40E",
-          "score": 0.5759,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1361,8 +1340,8 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3D.179",
-          "score": 0.5594,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/08.37C",
+          "score": 0.5549,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1375,10 +1354,31 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/3D.273",
-          "score": 0.5425,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/AF.66B",
+          "score": 0.5275,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/D6.E64",
+          "score": 0.5122,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/26.472",
+          "score": 0.5037,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/45.F54",
+          "score": 0.4883,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "View position",
@@ -1403,10 +1403,10 @@
         },
         {
           "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/E4.47D",
-          "score": 0.1006,
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/26.471",
+          "score": 0.4485,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1576,7 +1576,7 @@
         {
           "title": "Senior Technical Support Engineer, Observe by Snowflake",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4014,
+          "score": 0.4244,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1587,8 +1587,29 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.4192,
+      "top_score": 0.444,
       "roles": [
+        {
+          "title": "Software Development Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer_P750928-1",
+          "score": 0.444,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Software Development Engineer",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751373-1",
+          "score": 0.4356,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Customer Success Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Customer-Success-Manager_P751643-1",
+          "score": 0.4326,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
         {
           "title": "Product Design Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613",
@@ -1611,44 +1632,23 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Mortgage Loan Officer (Plano, TX)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Plano-TX-Legacy-Dr-ZHL/Mortgage-Loan-Officer--Plano--TX-_P749661-1",
-          "score": 0.3715,
+          "title": "HR Undergraduate Intern - People Org",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/HR-Undergraduate-Intern---People-Org_P751612-1",
+          "score": 0.3836,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Illinois)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IL/Remote-Mortgage-Loan-Officer--Illinois-_P749648-1",
-          "score": 0.3494,
+          "title": "Sales Executive, SMB, Rentals",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--SMB--Rentals_P750747-2",
+          "score": 0.3764,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
           "score": 0.3461,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Chicago, IL)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Chicago-IL-W-Adams-Street/Remote-Mortgage-Loan-Officer--Chicago--IL-_P750862-1",
-          "score": 0.344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Texas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TX/Remote-Mortgage-Loan-Officer--Texas-_P749659-1",
-          "score": 0.3378,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Georgia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-GA/Remote-Mortgage-Loan-Officer--Georgia-_P749647-1",
-          "score": 0.3359,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1663,13 +1663,6 @@
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
           "score": 0.3313,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Michigan)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MI/Remote-Mortgage-Loan-Officer--Michigan-_P749581-1",
-          "score": 0.3246,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1712,6 +1705,13 @@
           "title": "Remote Mortgage Loan Officer (Montana)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MT/Remote-Mortgage-Loan-Officer--Montana-_P749653-1",
           "score": 0.3077,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Investor Suspense Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Investor-Suspense-Analyst_P751579",
+          "score": 0.3001,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1762,7 +1762,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.216,
+          "score": 0.2151,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
