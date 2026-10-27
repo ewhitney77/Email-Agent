@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:50:27+00:00",
+  "generated_at": "2026-10-27T17:43:27+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -102,7 +102,7 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -116,7 +116,7 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -179,14 +179,14 @@
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -346,13 +346,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sales Engineer, San Francisco (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
-          "score": 0.5043,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Information Systems Engineer",
           "url": "https://cribl.io/job-detail/?gh_jid=6232093004",
           "score": 0.5018,
@@ -416,6 +409,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Solutions Engineer, Chicago (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6190446004",
+          "score": 0.4609,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior FedRamp ISSO",
           "url": "https://cribl.io/job-detail/?gh_jid=6020584004",
           "score": 0.4341,
@@ -450,6 +450,13 @@
           "url": "https://www.hubspot.com/careers/jobs/5990166?gh_jid=5990166",
           "score": 0.6313,
           "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Director, Finance Transformation",
+          "url": "https://www.hubspot.com/careers/jobs/8250907?gh_jid=8250907",
+          "score": 0.5986,
+          "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
@@ -783,14 +790,14 @@
         },
         {
           "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986120?gh_jid=5986120",
+          "url": "https://www.hubspot.com/careers/jobs/5986119?gh_jid=5986119",
           "score": 0.3718,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986119?gh_jid=5986119",
+          "url": "https://www.hubspot.com/careers/jobs/5986120?gh_jid=5986120",
           "score": 0.3718,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -848,13 +855,6 @@
           "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH",
           "url": "https://www.hubspot.com/careers/jobs/5986427?gh_jid=5986427",
           "score": 0.3113,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH (Ireland Basierend)",
-          "url": "https://www.hubspot.com/careers/jobs/6046168?gh_jid=6046168",
-          "score": 0.3099,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -918,14 +918,14 @@
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
+          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1488,13 +1488,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Channel Account Manager - United Kingdom",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5449302008",
-          "score": 0.3532,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Hardware Operations Engineer \u2013 VA(Hybrid)",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5442846008",
           "score": 0.3519,
@@ -1532,6 +1525,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Product Manager, Seller",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Seller_P751573-1",
+          "score": 0.4406,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751373-1",
           "score": 0.4366,
@@ -1567,13 +1567,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Sales Executive, SMB, Rentals",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--SMB--Rentals_P750747-2",
-          "score": 0.3783,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Closing Disclosure Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Closing-Disclosure-Analyst_P751369-1",
           "score": 0.3365,
@@ -1581,16 +1574,16 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Arizona)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AZ/Remote-Mortgage-Loan-Officer--Arizona-_P749612",
-          "score": 0.3316,
+          "title": "Manager, Underwriting Support",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Underwriting-Support_P751656-1",
+          "score": 0.3333,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3311,
+          "title": "Remote Mortgage Loan Officer (Arizona)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AZ/Remote-Mortgage-Loan-Officer--Arizona-_P749612",
+          "score": 0.3316,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1646,7 +1639,7 @@
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.295,
+          "score": 0.0855,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1664,19 +1657,26 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.519,
+      "top_score": 0.5173,
       "roles": [
         {
-          "title": "Staff Product Manager - AI FDE",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.519,
+          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
+          "score": 0.5173,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "TLM, Apps and Experiences Storage Team",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2C1EF6392D3640A197A24CE869A3D45EEXTERNALENUS1B7C31C2D3D74FD986EF1F8A4B167335/TLM-Apps-and-Experiences-Storage-Team",
+          "score": 0.4417,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1702,13 +1702,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
-          "score": 0.4344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Sr. District Manager",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
           "score": 0.4282,
@@ -1723,18 +1716,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Solutions Engineer - FSI",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
-          "score": 0.4248,
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.4244,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.3018,
+          "title": "Senior Solution Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
+          "score": 0.2535,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
