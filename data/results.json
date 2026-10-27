@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:11:26+00:00",
+  "generated_at": "2026-10-27T11:50:27+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -635,20 +635,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive, Mid-Market UKI",
-          "url": "https://www.hubspot.com/careers/jobs/6879960?gh_jid=6879960",
-          "score": 0.4528,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Account Executive, Mid-Market UKI",
-          "url": "https://www.hubspot.com/careers/jobs/6879961?gh_jid=6879961",
-          "score": 0.4519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Manager, Corporate Sales\u2014 Brazil",
           "url": "https://www.hubspot.com/careers/jobs/7830281?gh_jid=7830281",
           "score": 0.4499,
@@ -684,9 +670,23 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Account Executive - Mid Market, UK/I Market (Ireland Based: Office, Flex or Remote)",
+          "url": "https://www.hubspot.com/careers/jobs/6879961?gh_jid=6879961",
+          "score": 0.4347,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Small Business - UK Based (Office, Flex or Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5986253?gh_jid=5986253",
           "score": 0.4325,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Account Executive - Mid Market, UK/I Market (UK Based: Office, Flex or Remote)",
+          "url": "https://www.hubspot.com/careers/jobs/6879960?gh_jid=6879960",
+          "score": 0.428,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -918,17 +918,17 @@
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
-          "score": 0.5559,
+          "title": "Commercial Sales Engineer",
+          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "score": 0.5623,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial & Mid-Market Sales Engineer",
@@ -1100,14 +1100,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1508,103 +1508,110 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5316,
+      "top_score": 0.5334,
       "roles": [
         {
           "title": "Data Science Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
-          "score": 0.5316,
+          "score": 0.5334,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Underwriting Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Underwriting-Enablement-Manager_P751360-1",
+          "score": 0.4528,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Software-Development-Engineer_P750928-1",
-          "score": 0.444,
+          "score": 0.4455,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Software Development Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P751373-1",
-          "score": 0.4356,
+          "score": 0.4366,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Customer Success Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Customer-Success-Manager_P751643-1",
-          "score": 0.4326,
+          "score": 0.4336,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Product Design Intern",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613",
-          "score": 0.4192,
+          "title": "Closing Operations Enablement Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Closing-Operations-Enablement-Manager_P751362-1",
+          "score": 0.4269,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Applied Scientist (Economics) Intern",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-          "score": 0.4099,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Software Engineer",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Engineer_P751275-1",
-          "score": 0.39,
+          "score": 0.3899,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "HR Undergraduate Intern - People Org",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/HR-Undergraduate-Intern---People-Org_P751612-1",
-          "score": 0.3836,
+          "score": 0.3844,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Sales Executive, SMB, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--SMB--Rentals_P750747-2",
-          "score": 0.3764,
+          "score": 0.3783,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Closing Disclosure Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Closing-Disclosure-Analyst_P751369-1",
+          "score": 0.3365,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Remote Mortgage Loan Officer (Arizona)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AZ/Remote-Mortgage-Loan-Officer--Arizona-_P749612",
-          "score": 0.3319,
+          "score": 0.3316,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3313,
+          "score": 0.3311,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Florida)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-FL/Remote-Mortgage-Loan-Officer--Florida-_P749576-1",
-          "score": 0.3239,
+          "score": 0.3242,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (North Carolina)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Remote-Mortgage-Loan-Officer--North-Carolina-_P749585-1",
-          "score": 0.3209,
+          "score": 0.3211,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Tennessee)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TN/Remote-Mortgage-Loan-Officer--Tennessee-_P749658",
-          "score": 0.3204,
+          "score": 0.3202,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1618,35 +1625,28 @@
         {
           "title": "Remote Mortgage Loan Officer (Kansas)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KS/Remote-Mortgage-Loan-Officer--Kansas-_P749650-1",
-          "score": 0.3126,
+          "score": 0.3124,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Remote Mortgage Loan Officer (Montana)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MT/Remote-Mortgage-Loan-Officer--Montana-_P749653-1",
-          "score": 0.3077,
+          "score": 0.3074,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Investor Suspense Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Investor-Suspense-Analyst_P751579",
-          "score": 0.3001,
+          "score": 0.3015,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mortgage Loan Officer (Overland Park, KS)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2952,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.2936,
+          "score": 0.295,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1677,13 +1677,6 @@
           "title": "Staff Software Engineer - FDB Platform",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
           "score": 0.4572,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.4542,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1723,6 +1716,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Staff Software Engineer, App Runtime",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
+          "score": 0.4258,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Solutions Engineer - FSI",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS9444EC8CA9CC478DA281D1FE1EB0A6D8EXTERNALENUSB222E7657459464689AFE9B11B4A8311/Senior-Solutions-Engineer-FSI",
           "score": 0.4248,
@@ -1730,11 +1730,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.2552,
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.3018,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1762,7 +1762,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2151,
+          "score": 0.2139,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
