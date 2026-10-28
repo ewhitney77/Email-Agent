@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:00:33+00:00",
+  "generated_at": "2026-10-28T04:37:37+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -488,6 +488,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior Account Executive - Mid-Market",
+          "url": "https://www.hubspot.com/careers/jobs/5990867?gh_jid=5990867",
+          "score": 0.5523,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Manager, Customer Success Management",
           "url": "https://www.hubspot.com/careers/jobs/8191909?gh_jid=8191909",
           "score": 0.549,
@@ -586,6 +593,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Renewal Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/8081933?gh_jid=8081933",
+          "score": 0.4975,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Lead Customer Success Manager, Strategic Accounts (Trilingual in Portuguese)",
           "url": "https://www.hubspot.com/careers/jobs/8176659?gh_jid=8176659",
           "score": 0.4963,
@@ -607,6 +621,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Partner Development Manager, Growth - ANZ",
+          "url": "https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770",
+          "score": 0.4841,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Account Executive - Small Business",
           "url": "https://www.hubspot.com/careers/jobs/5988676?gh_jid=5988676",
           "score": 0.4711,
@@ -614,23 +635,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "LATAM Sales Intern - January 2027",
-          "url": "https://www.hubspot.com/careers/jobs/8243591?gh_jid=8243591",
-          "score": 0.4674,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Lead Account Executive, Corporate - Benelux",
           "url": "https://www.hubspot.com/careers/jobs/5986326?gh_jid=5986326",
           "score": 0.4598,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Small Business Growth Specialist - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/5986980?gh_jid=5986980",
-          "score": 0.4573,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -720,14 +727,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -810,6 +817,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 / Business Development Rep (BDR)",
+          "url": "https://www.hubspot.com/careers/jobs/7083778?gh_jid=7083778",
+          "score": 0.3642,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Account Executive, Mid Market - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/5986346?gh_jid=5986346",
           "score": 0.3623,
@@ -817,16 +831,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Gro\u00dfkunden, DACH (Remote)",
-          "url": "https://www.hubspot.com/careers/jobs/5986461?gh_jid=5986461",
-          "score": 0.3389,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Gro\u00dfkunden, DACH",
-          "url": "https://www.hubspot.com/careers/jobs/5986460?gh_jid=5986460",
-          "score": 0.3375,
+          "title": "Lead Corporate Account Executive - France",
+          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
+          "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -845,25 +852,18 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH",
-          "url": "https://www.hubspot.com/careers/jobs/5986427?gh_jid=5986427",
-          "score": 0.3113,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Mid-Market Account Executive, DACH (German Speaker - Remote, Ireland Based)",
           "url": "https://www.hubspot.com/careers/jobs/5986433?gh_jid=5986433",
           "score": 0.3057,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Customer Onboarding Specialist",
+          "url": "https://www.hubspot.com/careers/jobs/8220502?gh_jid=8220502",
+          "score": 0.0859,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
@@ -918,14 +918,14 @@
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
+          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1100,14 +1100,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1590,7 +1590,7 @@
         {
           "title": "Remote Mortgage Loan Officer (Florida)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-FL/Remote-Mortgage-Loan-Officer--Florida-_P749576-1",
-          "score": 0.3242,
+          "score": 0.3241,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1657,19 +1657,12 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.519,
+      "top_score": 0.5173,
       "roles": [
         {
-          "title": "Staff Product Manager - AI FDE",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
+          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
+          "score": 0.5173,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1726,6 +1719,13 @@
           "title": "Staff Software Engineer, App Runtime",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
           "score": 0.4258,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.4244,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
