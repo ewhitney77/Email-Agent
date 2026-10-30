@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:37:47+00:00",
+  "generated_at": "2026-10-30T04:53:25+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -95,6 +95,13 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
+          "score": 0.6122,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
           "score": 0.6122,
           "matched": true,
@@ -103,13 +110,6 @@
         {
           "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
-          "score": 0.6122,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -325,13 +325,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Technical Support Engineer",
-          "url": "https://cribl.io/job-detail/?gh_jid=6113659004",
-          "score": 0.489,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Sales Engineer, SLED (Midwest/Southeast)",
           "url": "https://cribl.io/job-detail/?gh_jid=6227896004",
           "score": 0.4888,
@@ -384,6 +377,13 @@
           "title": "Senior Sales Engineer, Poland",
           "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
           "score": 0.469,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solutions Engineer, San Francisco (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
+          "score": 0.4626,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -600,9 +600,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Partner Development Manager, Growth - ANZ",
+          "title": "Partner Development Manager, Growth Accounts",
           "url": "https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770",
-          "score": 0.4841,
+          "score": 0.4791,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1508,15 +1508,8 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5352,
+      "top_score": 0.5323,
       "roles": [
-        {
-          "title": "Data Science Intern",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
-          "score": 0.5352,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
         {
           "title": "SEO Product Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/SEO-Product-Manager_P751410-1",
@@ -1555,7 +1548,7 @@
         {
           "title": "Enterprise Customer Success Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CO/Enterprise-Customer-Success-Manager_P751358-1",
-          "score": 0.4511,
+          "score": 0.4507,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1630,6 +1623,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Senior Program Manager, Contingent Workforce",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Program-Manager--Contingent-Workforce_P751705-1",
+          "score": 0.3309,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Manager, Underwriting Support",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Underwriting-Support_P751656-1",
           "score": 0.3199,
@@ -1664,19 +1664,12 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.519,
+      "top_score": 0.5173,
       "roles": [
         {
-          "title": "Staff Product Manager - AI FDE",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.519,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
+          "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS9C3CFA97EC5042DBBF9B4F1A8678E9B1EXTERNALENUSF3102D9189B54C7C8D77D915751C039A/Strategic-Finance-Strategic-Engagements-Deal-Lead-NoAM",
+          "score": 0.5173,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1733,6 +1726,13 @@
           "title": "Staff Software Engineer, App Runtime",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
           "score": 0.4258,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Senior Technical Support Engineer, Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
+          "score": 0.4244,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
