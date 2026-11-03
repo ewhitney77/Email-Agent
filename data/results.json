@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:46:27+00:00",
+  "generated_at": "2026-11-03T13:50:52+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -467,30 +467,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sales Director, Small Business (NAM)",
-          "url": "https://www.hubspot.com/careers/jobs/8330841?gh_jid=8330841",
-          "score": 0.5816,
+          "title": "Business Development Representative - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/8038099?gh_jid=8038099",
+          "score": 0.5615,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Sales Manager, Mid Market",
-          "url": "https://www.hubspot.com/careers/jobs/7973939?gh_jid=7973939",
-          "score": 0.5599,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Sales Manager, Small Business",
-          "url": "https://www.hubspot.com/careers/jobs/5831802?gh_jid=5831802",
-          "score": 0.5562,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Senior Account Executive - Mid-Market",
-          "url": "https://www.hubspot.com/careers/jobs/5990867?gh_jid=5990867",
-          "score": 0.5523,
+          "title": "Business Development Representative - Growth regions",
+          "url": "https://www.hubspot.com/careers/jobs/8043166?gh_jid=8043166",
+          "score": 0.5518,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -498,20 +484,6 @@
           "title": "Account Executive - Enterprise",
           "url": "https://www.hubspot.com/careers/jobs/5990250?gh_jid=5990250",
           "score": 0.5428,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Account Executive , Expansion -  DACH (Ireland Based)",
-          "url": "https://www.hubspot.com/careers/jobs/8161433?gh_jid=8161433",
-          "score": 0.5391,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Account Executive , Expansion -  DACH (Germany Based)",
-          "url": "https://www.hubspot.com/careers/jobs/8161436?gh_jid=8161436",
-          "score": 0.5375,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -537,23 +509,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8031160?gh_jid=8031160",
-          "score": 0.5093,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Outbound Business Development Representative (BDR)",
-          "url": "https://www.hubspot.com/careers/jobs/8035238?gh_jid=8035238",
-          "score": 0.5093,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Renewal Specialist",
-          "url": "https://www.hubspot.com/careers/jobs/8081933?gh_jid=8081933",
-          "score": 0.4975,
+          "title": "Business Development Representative - Iberia",
+          "url": "https://www.hubspot.com/careers/jobs/8038105?gh_jid=8038105",
+          "score": 0.5027,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -575,13 +533,6 @@
           "title": "Corporate Account Executive - DACH (German Speaker)",
           "url": "https://www.hubspot.com/careers/jobs/5986463?gh_jid=5986463",
           "score": 0.4867,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Development Manager, Growth Accounts",
-          "url": "https://www.hubspot.com/careers/jobs/8316770?gh_jid=8316770",
-          "score": 0.4791,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -621,6 +572,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Lead Account Executive, Corporate - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/5986931?gh_jid=5986931",
+          "score": 0.4509,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Manager, Corporate Sales\u2014 Brazil",
           "url": "https://www.hubspot.com/careers/jobs/7830281?gh_jid=7830281",
           "score": 0.4499,
@@ -643,7 +601,7 @@
         },
         {
           "title": "Outbound Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906",
+          "url": "https://www.hubspot.com/careers/jobs/8040674?gh_jid=8040674",
           "score": 0.4464,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -657,22 +615,36 @@
         },
         {
           "title": "Outbound Business Development Representative - ANZ",
-          "url": "https://www.hubspot.com/careers/jobs/8040674?gh_jid=8040674",
+          "url": "https://www.hubspot.com/careers/jobs/8034906?gh_jid=8034906",
           "score": 0.4464,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive, Mid Market - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986345?gh_jid=5986345",
-          "score": 0.4441,
+          "title": "Lead Account Executive, Corporate - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/5986932?gh_jid=5986932",
+          "score": 0.4434,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics and Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986963?gh_jid=5986963",
+          "score": 0.441,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Contract Manager, 1:Few - US Accounts",
           "url": "https://www.hubspot.com/careers/jobs/7668971?gh_jid=7668971",
           "score": 0.4361,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Lead Account Executive, Corporate - UKI",
+          "url": "https://www.hubspot.com/careers/jobs/5986933?gh_jid=5986933",
+          "score": 0.4357,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -712,13 +684,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive,  Mid Market  - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5983376?gh_jid=5983376",
-          "score": 0.417,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Account Executive SMB -France",
           "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
@@ -729,20 +694,6 @@
           "title": "Account Executive SMB -France",
           "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Partner Development Team Manager, Japan",
-          "url": "https://www.hubspot.com/careers/jobs/7192127?gh_jid=7192127",
-          "score": 0.4109,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Account Executive - Central & East Europe",
-          "url": "https://www.hubspot.com/careers/jobs/5986419?gh_jid=5986419",
-          "score": 0.4109,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -761,6 +712,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986965?gh_jid=5986965",
+          "score": 0.4055,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Lead Counsel, Public Company Governance & Corporate Programs",
           "url": "https://www.hubspot.com/careers/jobs/8266540?gh_jid=8266540",
           "score": 0.4048,
@@ -768,9 +726,23 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive,  Mid Market  - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5983374?gh_jid=5983374",
-          "score": 0.4001,
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "score": 0.4044,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "score": 0.4044,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986964?gh_jid=5986964",
+          "score": 0.4024,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -796,30 +768,51 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Senior Account Executive - Central & East Europe",
-          "url": "https://www.hubspot.com/careers/jobs/5986418?gh_jid=5986418",
-          "score": 0.3823,
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986119?gh_jid=5986119",
-          "score": 0.3718,
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/5986120?gh_jid=5986120",
-          "score": 0.3718,
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "score": 0.3867,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Account Executive, Mid-Market -France",
-          "url": "https://www.hubspot.com/careers/jobs/6649361?gh_jid=6649361",
-          "score": 0.3652,
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "score": 0.3867,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics & Benelux (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/6158968?gh_jid=6158968",
+          "score": 0.385,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -827,13 +820,6 @@
           "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 / Business Development Rep (BDR)",
           "url": "https://www.hubspot.com/careers/jobs/7083778?gh_jid=7083778",
           "score": 0.3642,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Account Executive, Mid Market - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986346?gh_jid=5986346",
-          "score": 0.3623,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -846,14 +832,14 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -862,6 +848,20 @@
           "title": "Mid-Market Account Executive, DACH (German Speaker - Remote, Ireland Based)",
           "url": "https://www.hubspot.com/careers/jobs/5986433?gh_jid=5986433",
           "score": 0.3057,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative - DACH",
+          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
+          "score": 0.2855,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Business Development Representative - DACH",
+          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
+          "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -904,6 +904,13 @@
         },
         {
           "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/0B.B65",
+          "score": 0.5443,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/01.06D",
           "score": 0.5395,
           "matched": false,
@@ -941,13 +948,6 @@
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/45.F54",
           "score": 0.4883,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/9D.171",
-          "score": 0.4581,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1003,6 +1003,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Director, Enterprise Sales Engineering - US Central",
+          "url": "https://careers.datadoghq.com/detail/8136510/?gh_jid=8136510",
+          "score": 0.5809,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
           "title": "Director, Engineering - Digital Experience Monitoring",
           "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591",
           "score": 0.5792,
@@ -1032,14 +1039,14 @@
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
+          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1097,13 +1104,6 @@
           "title": "Customer Success Manager",
           "url": "https://careers.datadoghq.com/detail/8206747/?gh_jid=8206747",
           "score": 0.5435,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer (Spanish-Speaking)",
-          "url": "https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628",
-          "score": 0.5425,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1504,162 +1504,6 @@
       ]
     },
     {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.5378,
-      "roles": [
-        {
-          "title": "Strategic Account Executive, Agent Software and Advertising",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Strategic-Account-Executive--Agent-Software-and-Advertising_P751556-2",
-          "score": 0.5378,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Data Scientist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Data-Scientist_P750307-1",
-          "score": 0.5288,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Underwriting Enablement Manager",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Underwriting-Enablement-Manager_P751360-1",
-          "score": 0.4528,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Information Security Cyber Defense Incident Responder",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Information-Security-Cyber-Defense-Incident-Responder_P750946",
-          "score": 0.3996,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Mortgage Loan Officer (Seattle, WA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Mortgage-Loan-Officer--Seattle--WA-_P749620",
-          "score": 0.3478,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Atlanta, GA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Atlanta-GA-Howell-Mill-Road/Remote-Mortgage-Loan-Officer--Atlanta--GA-_P750860-1",
-          "score": 0.3461,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Washington DC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Washington-DC-DC-Massachusetts-Ave-NW/Remote-Mortgage-Loan-Officer--Washington-DC-_P749593-1",
-          "score": 0.3367,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Washington)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WA/Remote-Mortgage-Loan-Officer--Washington-_P749619-1",
-          "score": 0.3338,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Indiana)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-IN/Remote-Mortgage-Loan-Officer--Indiana-_P749577-1",
-          "score": 0.3337,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Massachusetts)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Remote-Mortgage-Loan-Officer--Massachusetts-_P749580-1",
-          "score": 0.3335,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Maryland)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MD/Remote-Mortgage-Loan-Officer--Maryland-_P749579-1",
-          "score": 0.3242,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Virginia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VA/Remote-Mortgage-Loan-Officer--Virginia-_P749589-1",
-          "score": 0.324,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Florida)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-FL/Remote-Mortgage-Loan-Officer--Florida-_P749576-1",
-          "score": 0.3236,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (North Carolina)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NC/Remote-Mortgage-Loan-Officer--North-Carolina-_P749585-1",
-          "score": 0.3207,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Tennessee)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TN/Remote-Mortgage-Loan-Officer--Tennessee-_P749658",
-          "score": 0.3194,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Kentucky)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KY/Remote-Mortgage-Loan-Officer--Kentucky-_P749578-1",
-          "score": 0.3037,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Connecticut)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CT/Remote-Mortgage-Loan-Officer--Connecticut-_P749575-1",
-          "score": 0.2998,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Pennsylvania)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-PA/Remote-Mortgage-Loan-Officer--Pennsylvania-_P749587-1",
-          "score": 0.2986,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Charlotte, NC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Charlotte-NC-S-Tryon-Street-Suite-2700/Remote-Mortgage-Loan-Officer--Charlotte--NC-_P750861",
-          "score": 0.2933,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Philadelphia, PA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Philadelphia-PA-Market-Street/Remote-Mortgage-Loan-Officer--Philadelphia--PA-_P750865-1",
-          "score": 0.2895,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
       "company": "Snowflake",
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
@@ -1762,7 +1606,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2153,
+          "score": 0.2147,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1778,6 +1622,14 @@
     {
       "company": "Snyk",
       "url": "https://job-boards.greenhouse.io/snyk",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.0,
+      "roles": []
+    },
+    {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
       "top_score": 0.0,
