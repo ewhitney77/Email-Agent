@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:28:46+00:00",
+  "generated_at": "2026-11-06T05:39:06+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1609,9 +1609,9 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Washington DC)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Washington-DC-DC-Massachusetts-Ave-NW/Remote-Mortgage-Loan-Officer--Washington-DC-_P749593-1",
-          "score": 0.3371,
+          "title": "Transaction Management Associate",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Transaction-Management-Associate_P751661-1",
+          "score": 0.3327,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1681,6 +1681,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Software Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
+          "score": 0.4432,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Solutions Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSA6BF7983037B47C4B01BF6FC4F9F1B37EXTERNALENUSDA8298E6C9E14D128AF22405BA766602/Solutions-Engineer",
           "score": 0.4423,
@@ -1705,13 +1712,6 @@
           "title": "Senior Solution Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUS488DC68A22AA4102814D443DDF984146EXTERNALENUS435F13572F894B5FBC33B79B0A8355F2/Senior-Solution-Engineer",
           "score": 0.4344,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Sr. District Manager",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSC8E669C9530647FFB063102013372DDFEXTERNALENUS7D16C372DE19432AB8906259CB5A6D45/Sr-District-Manager",
-          "score": 0.4282,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
