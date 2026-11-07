@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:42:32+00:00",
+  "generated_at": "2026-11-07T21:38:13+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
