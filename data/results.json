@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:02:13+00:00",
+  "generated_at": "2026-11-08T12:59:47+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 30,
+  "total_matches": 29,
   "companies": [
     {
       "company": "Cribl",
@@ -1414,148 +1414,148 @@
       "company": "Zillow",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
-      "match_count": 1,
-      "top_score": 0.601,
+      "match_count": 0,
+      "top_score": 0.5962,
       "roles": [
         {
           "title": "Senior Product Manager, Agent CRM",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Agent-CRM_P751746-2",
-          "score": 0.601,
-          "matched": true,
+          "score": 0.5962,
+          "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Data Science Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
-          "score": 0.5556,
+          "score": 0.5471,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Marketing Technologist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Marketing-Technologist_P751708-1",
-          "score": 0.5381,
+          "score": 0.5383,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Marketing Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Marketing-Specialist_P751602",
-          "score": 0.4848,
+          "score": 0.4828,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Growth Account Executive, Agent Software and Advertising",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Account-Executive--Agent-Software-and-Advertising_P751688-1",
-          "score": 0.4708,
+          "score": 0.4636,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sales Executive, Small Business, New Construction",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--Small-Business--New-Construction_P751839-1",
+          "score": 0.4466,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Applied Scientist (Economics) Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-          "score": 0.4453,
+          "score": 0.4432,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Sales Executive, Small Business, New Construction",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Sales-Executive--Small-Business--New-Construction_P751839-1",
-          "score": 0.4447,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Content Designer (Motion and Visual)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Content-Designer--Motion-and-Visual-_P751595-1",
-          "score": 0.4255,
+          "score": 0.4259,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Product Design Intern",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613",
-          "score": 0.407,
+          "score": 0.4063,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Product Marketing Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Product-Marketing-Manager_P751596-1",
-          "score": 0.3989,
+          "score": 0.4051,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Product Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager_P751589-1",
-          "score": 0.3957,
+          "score": 0.3952,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Business Advisor, Single Family, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Business-Advisor--Single-Family--Rentals_P751583-1",
-          "score": 0.3942,
+          "score": 0.3889,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Manager, Loan Review",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Loan-Review_P751665",
-          "score": 0.3806,
+          "score": 0.3761,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Transaction Management Associate",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Transaction-Management-Associate_P751661-1",
-          "score": 0.3351,
+          "score": 0.3353,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Content Strategist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Content-Strategist_P751599-1",
-          "score": 0.3239,
+          "score": 0.327,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Frontline Marketing Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Frontline-Marketing-Manager_P751598-1",
-          "score": 0.3176,
+          "score": 0.3197,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Photo Editor",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Photo-Editor_P751603-1",
-          "score": 0.3105,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Loan Review Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Loan-Review-Specialist_P751835-1",
-          "score": 0.3065,
+          "score": 0.3043,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Photographer, Zillow Media Experts (Washington, D.C.)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-DC/Photographer--Zillow-Media-Experts--Washington--DC-_P751837-1",
-          "score": 0.2158,
+          "title": "Photo Editor",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Photo-Editor_P751603-1",
+          "score": 0.2967,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Photographer, Zillow Media Experts (Boston, MA)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MA/Photographer--Zillow-Media-Experts--Boston--MA-_P751838-1",
-          "score": 0.206,
+          "score": 0.2238,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Photographer, Zillow Media Experts (Washington, D.C.)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-DC/Photographer--Zillow-Media-Experts--Washington--DC-_P751837-1",
+          "score": 0.2112,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Zillow\u2019s Global Applicant Privacy Notice",
