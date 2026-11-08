@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:59:47+00:00",
+  "generated_at": "2026-11-08T21:53:54+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -1404,7 +1404,7 @@
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EC.937",
-          "score": 0.0968,
+          "score": 0.0966,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
