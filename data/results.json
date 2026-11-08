@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:38:13+00:00",
+  "generated_at": "2026-11-08T05:02:13+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -496,24 +496,17 @@
         },
         {
           "title": "Commercial Sales Engineer",
-          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
-          "score": 0.5623,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Sales Engineer",
           "url": "https://careers.datadoghq.com/detail/8326311/?gh_jid=8326311",
           "score": 0.5623,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248",
-          "score": 0.5559,
+          "title": "Commercial Sales Engineer",
+          "url": "https://careers.datadoghq.com/detail/8238655/?gh_jid=8238655",
+          "score": 0.5623,
           "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial & Mid-Market Sales Engineer",
@@ -521,6 +514,13 @@
           "score": 0.5521,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
+          "score": 0.5519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Commercial Sales",
