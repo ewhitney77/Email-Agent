@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:53:54+00:00",
+  "generated_at": "2026-11-09T05:10:04+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -671,13 +671,6 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Commercial Account Executive",
           "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
@@ -686,6 +679,13 @@
         {
           "title": "Commercial Account Executive",
           "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "score": 0.5083,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Commercial Account Executive",
+          "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
