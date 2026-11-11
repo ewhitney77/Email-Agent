@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:01:46+00:00",
+  "generated_at": "2026-11-11T05:11:59+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 34,
+  "total_matches": 35,
   "companies": [
     {
       "company": "Zillow",
@@ -279,6 +279,13 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
+          "score": 0.6122,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
           "score": 0.6122,
           "matched": true,
@@ -287,13 +294,6 @@
         {
           "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
-          "score": 0.6122,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -363,14 +363,14 @@
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Regional Sales Manager, Digital Native",
-          "url": "https://cribl.io/job-detail/?gh_jid=6226640004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6226680004",
           "score": 0.5972,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -847,13 +847,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
-          "score": 0.5083,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
           "title": "Commercial Account Executive - LATAM (Portuguese Speaking) - Denver",
           "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788",
           "score": 0.5052,
@@ -910,6 +903,13 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
+          "title": "Commercial Account Executive (Singapore & Philippines Market)",
+          "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
+          "score": 0.4844,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Commercial Account Executive (Benelux)",
           "url": "https://careers.datadoghq.com/detail/8200728/?gh_jid=8200728",
           "score": 0.4813,
@@ -939,14 +939,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1027,13 +1027,20 @@
       "company": "HubSpot",
       "url": "https://www.hubspot.com/careers/jobs",
       "error": null,
-      "match_count": 1,
+      "match_count": 2,
       "top_score": 0.6313,
       "roles": [
         {
           "title": "Account Executive - Mid-Market (Remote)",
           "url": "https://www.hubspot.com/careers/jobs/5990166?gh_jid=5990166",
           "score": 0.6313,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive- Corporate/Enterprise",
+          "url": "https://www.hubspot.com/careers/jobs/7005836?gh_jid=7005836",
+          "score": 0.6039,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1221,7 +1228,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.439,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1235,7 +1242,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/7292159?gh_jid=7292159",
           "score": 0.439,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1263,7 +1270,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4338,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1277,7 +1284,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
+          "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4338,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1354,14 +1361,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1417,13 +1424,6 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
-          "score": 0.326,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Lead Corporate Account Executive - France",
           "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
           "score": 0.326,
           "matched": false,
@@ -1431,21 +1431,21 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
+          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Business Development Representative - DACH",
-          "url": "https://www.hubspot.com/careers/jobs/8044985?gh_jid=8044985",
+          "url": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
