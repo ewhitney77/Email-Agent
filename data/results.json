@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:49:50+00:00",
+  "generated_at": "2026-11-12T00:15:48+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,7 +7,7 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 35,
+  "total_matches": 36,
   "companies": [
     {
       "company": "Zillow",
@@ -38,13 +38,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Growth Specialist I, Preferred",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Specialist--Preferred_P751575",
-          "score": 0.5219,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Strategic Advisor, Enterprise, Rentals",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Strategic-Advisor--Enterprise--Rentals_P751804-1",
           "score": 0.5051,
@@ -66,18 +59,18 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Senior Sales Strategy Manager, New Construction",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Sales-Strategy-Manager--New-Construction_P751820-1",
+          "score": 0.479,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Senior Counsel, Industry Data",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Counsel--Industry-Data_P751747-1",
           "score": 0.4738,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Growth Account Executive, Agent Software and Advertising",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Growth-Account-Executive--Agent-Software-and-Advertising_P751688-1",
-          "score": 0.4641,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Executive, Small Business, New Construction",
@@ -87,11 +80,11 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Applied Scientist (Economics) Intern",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-          "score": 0.4443,
+          "title": "Senior Software Development Engineer, Fullstack",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Fullstack_P751859-1",
+          "score": 0.4321,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Client Sales Specialist, New Construction, SMB",
@@ -113,6 +106,13 @@
           "score": 0.3857,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Development Engineer, Fullstack",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer_P748929-1",
+          "score": 0.3545,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Counsel, Contracts",
@@ -679,6 +679,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Director, Enterprise Sales",
+          "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886",
+          "score": 0.5519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Director, Commercial Sales",
           "url": "https://careers.datadoghq.com/detail/8059382/?gh_jid=8059382",
           "score": 0.5512,
@@ -696,13 +703,6 @@
           "title": "Commercial Customer Success Manager (Key Accounts) - Denver or San Francisco",
           "url": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
           "score": 0.5459,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Customer Success Manager (Key Accounts ) - Nordics",
-          "url": "https://careers.datadoghq.com/detail/8330644/?gh_jid=8330644",
-          "score": 0.5446,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -939,14 +939,14 @@
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "AI Research Scientist - Datadog AI Research (DAIR)",
-          "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
+          "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
           "score": 0.4744,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1018,6 +1018,120 @@
           "title": "Customer Success Associate",
           "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779",
           "score": -0.0244,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
+      "company": "Cyera",
+      "url": "https://www.cyera.com/careers",
+      "error": null,
+      "match_count": 4,
+      "top_score": 0.6347,
+      "roles": [
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/EE.07E",
+          "score": 0.6347,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/97.476",
+          "score": 0.6252,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.15E",
+          "score": 0.6083,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.15E-7E.20A",
+          "score": 0.6082,
+          "matched": true,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/AB.276",
+          "score": 0.5534,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/03.173",
+          "score": 0.5461,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/5E.47F",
+          "score": 0.4999,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F-A3.50C",
+          "score": 0.4764,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56-77.50D",
+          "score": 0.4712,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56",
+          "score": 0.4662,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F",
+          "score": 0.457,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56-77.50C",
+          "score": 0.4561,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F-25.40C",
+          "score": 0.4553,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FE.B4B",
+          "score": 0.4518,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "View position",
+          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.477",
+          "score": 0.4132,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         }
@@ -1221,7 +1335,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
+          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
           "score": 0.439,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1235,7 +1349,7 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986374?gh_jid=5986374",
+          "url": "https://www.hubspot.com/careers/jobs/7292163?gh_jid=7292163",
           "score": 0.439,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1263,13 +1377,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
-          "score": 0.4338,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
           "score": 0.4338,
           "matched": false,
@@ -1278,6 +1385,13 @@
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
+          "score": 0.4338,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4338,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1319,14 +1433,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1354,14 +1468,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1424,14 +1538,14 @@
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1449,120 +1563,6 @@
           "score": 0.2855,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
-        }
-      ]
-    },
-    {
-      "company": "Cyera",
-      "url": "https://www.cyera.com/careers",
-      "error": null,
-      "match_count": 3,
-      "top_score": 0.6252,
-      "roles": [
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/97.476",
-          "score": 0.6252,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.15E",
-          "score": 0.6083,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.15E-7E.20A",
-          "score": 0.6082,
-          "matched": true,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/AB.276",
-          "score": 0.5534,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/03.173",
-          "score": 0.5461,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/5E.47F",
-          "score": 0.4999,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F-A3.50C",
-          "score": 0.4764,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56-77.50D",
-          "score": 0.4712,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56",
-          "score": 0.4662,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F",
-          "score": 0.457,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/90.C56-77.50C",
-          "score": 0.4561,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CD.47F-25.40C",
-          "score": 0.4553,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/FE.B4B",
-          "score": 0.4518,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/CC.477",
-          "score": 0.4132,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "View position",
-          "url": "https://www.comeet.com/jobs/cyera/17.008/careers/0B.B65",
-          "score": 0.0966,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
@@ -1681,6 +1681,13 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Principal Software Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
+          "score": 0.4432,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Solutions Engineer",
           "url": "https://careers.snowflake.com/us/en/job/SNCOUSA6BF7983037B47C4B01BF6FC4F9F1B37EXTERNALENUSDA8298E6C9E14D128AF22405BA766602/Solutions-Engineer",
           "score": 0.4423,
@@ -1721,13 +1728,6 @@
           "score": 0.4244,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Principal Software Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
-          "score": 0.2454,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
         }
       ]
     },
@@ -1755,7 +1755,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2161,
+          "score": 0.2148,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
