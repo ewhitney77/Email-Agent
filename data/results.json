@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:22:22+00:00",
+  "generated_at": "2026-11-13T05:37:06+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -31,11 +31,11 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Marketing Technologist",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Marketing-Technologist_P751708-1",
-          "score": 0.5391,
+          "title": "Principal Product Manager, GenAI Media Experiences",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Product-Manager--GenAI-Media-Experiences_P751651",
+          "score": 0.5206,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Strategic Advisor, Enterprise, Rentals",
@@ -258,15 +258,8 @@
         },
         {
           "title": "Commercial Sales Representative",
-          "url": "https://cribl.io/job-detail/?gh_jid=5852256004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6250219004",
           "score": 0.6125,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
-          "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -279,7 +272,7 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231043004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -287,6 +280,13 @@
         {
           "title": "Product Sales Specialist, EMEA",
           "url": "https://cribl.io/job-detail/?gh_jid=6231051004",
+          "score": 0.6122,
+          "matched": true,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Product Sales Specialist, EMEA",
+          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -680,14 +680,14 @@
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886",
+          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
           "score": 0.5519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
+          "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886",
           "score": 0.5519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
