@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:11:43+00:00",
+  "generated_at": "2026-11-20T06:14:12+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -339,13 +339,6 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Partner Experience Specialist",
-          "url": "https://cribl.io/job-detail/?gh_jid=6223132004",
-          "score": 0.517,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Sales Engineer, Poland",
           "url": "https://cribl.io/job-detail/?gh_jid=6135289004",
           "score": 0.5146,
@@ -395,16 +388,23 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
-          "score": 0.4617,
+          "title": "Solutions Engineer, Florida (Enterprise)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6199340004",
+          "score": 0.4708,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solutions Engineer, Chicago (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6190446004",
-          "score": 0.4609,
+          "title": "Solutions Engineering Manager, Department of War & Intelligence Community (DoW/IC)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6209991004",
+          "score": 0.4695,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Partner Solutions Engineer - Federal Systems Integrators (FSI)",
+          "url": "https://cribl.io/job-detail/?gh_jid=6137900004",
+          "score": 0.4617,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -659,14 +659,14 @@
         },
         {
           "title": "German Customer Success Manager",
-          "url": "https://www.hubspot.com/careers/jobs/4991223?gh_jid=4991223",
+          "url": "https://www.hubspot.com/careers/jobs/4991221?gh_jid=4991221",
           "score": 0.4886,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "German Customer Success Manager",
-          "url": "https://www.hubspot.com/careers/jobs/4991221?gh_jid=4991221",
+          "url": "https://www.hubspot.com/careers/jobs/4991223?gh_jid=4991223",
           "score": 0.4886,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -792,13 +792,6 @@
         },
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
-          "score": 0.4338,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/5986372?gh_jid=5986372",
           "score": 0.4338,
           "matched": false,
@@ -807,6 +800,13 @@
         {
           "title": "Account Executive, Small Business - Nordics (English Speaking)",
           "url": "https://www.hubspot.com/careers/jobs/7292158?gh_jid=7292158",
+          "score": 0.4338,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Small Business - Nordics (English Speaking)",
+          "url": "https://www.hubspot.com/careers/jobs/7292157?gh_jid=7292157",
           "score": 0.4338,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -841,14 +841,14 @@
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
+          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive SMB -France",
-          "url": "https://www.hubspot.com/careers/jobs/5985924?gh_jid=5985924",
+          "url": "https://www.hubspot.com/careers/jobs/5985923?gh_jid=5985923",
           "score": 0.4155,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -876,14 +876,14 @@
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
+          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Account Executive, Small Business - Benelux (English Speaking)",
-          "url": "https://www.hubspot.com/careers/jobs/7120217?gh_jid=7120217",
+          "url": "https://www.hubspot.com/careers/jobs/7120216?gh_jid=7120216",
           "score": 0.4044,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -939,28 +939,28 @@
         },
         {
           "title": "Account Executive, Mid Market - Italy (Accepting Future Applications)",
-          "url": "https://www.hubspot.com/careers/jobs/5986411?gh_jid=5986411",
-          "score": 0.3742,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Mid Market - Italy (Accepting Future Applications)",
           "url": "https://www.hubspot.com/careers/jobs/5986410?gh_jid=5986410",
           "score": 0.3742,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
+          "title": "Account Executive, Mid Market - Italy (Accepting Future Applications)",
+          "url": "https://www.hubspot.com/careers/jobs/5986411?gh_jid=5986411",
+          "score": 0.3742,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986217?gh_jid=5986217",
+          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Lead Corporate Account Executive - France",
-          "url": "https://www.hubspot.com/careers/jobs/5986216?gh_jid=5986216",
+          "url": "https://www.hubspot.com/careers/jobs/5986215?gh_jid=5986215",
           "score": 0.326,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1046,14 +1046,14 @@
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
+          "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886",
           "score": 0.5519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886",
+          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
           "score": 0.5519,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -1411,6 +1411,162 @@
       ]
     },
     {
+      "company": "Zillow",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
+      "error": null,
+      "match_count": 0,
+      "top_score": 0.566,
+      "roles": [
+        {
+          "title": "Principal Technical Program Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Principal-Technical-Program-Manager_P751697-2",
+          "score": 0.566,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Resource Planning Analyst",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Resource-Planning-Analyst_P751644-2",
+          "score": 0.4296,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Activation Specialist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Activation-Specialist_P751926-1",
+          "score": 0.4188,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Irvine, CA)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
+          "score": 0.3489,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Mississippi)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MS/Remote-Mortgage-Loan-Officer--Mississippi-_P749652-1",
+          "score": 0.3433,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Idaho)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ID/Remote-Mortgage-Loan-Officer--Idaho-_P749615-1",
+          "score": 0.34,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Arkansas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
+          "score": 0.3375,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (South Dakota)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-SD/Remote-Mortgage-Loan-Officer--South-Dakota-_P749657-1",
+          "score": 0.335,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
+          "score": 0.3334,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (California)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Remote-Mortgage-Loan-Officer--California-_P749613-1",
+          "score": 0.3299,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Hawaii)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-HI/Remote-Mortgage-Loan-Officer--Hawaii-_P749614-1",
+          "score": 0.3274,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (North Dakota)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ND/Remote-Mortgage-Loan-Officer--North-Dakota-_P749655-1",
+          "score": 0.3244,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Oklahoma)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OK/Remote-Mortgage-Loan-Officer--Oklahoma-_P749656-1",
+          "score": 0.3185,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Vermont)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VT/Remote-Mortgage-Loan-Officer--Vermont-_P749588-1",
+          "score": 0.3162,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (West Virginia)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
+          "score": 0.3156,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Utah)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-UT/Remote-Mortgage-Loan-Officer--Utah-_P749660-1",
+          "score": 0.3152,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Oregon)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OR/Remote-Mortgage-Loan-Officer--Oregon-_P749617-1",
+          "score": 0.3147,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (Kansas)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KS/Remote-Mortgage-Loan-Officer--Kansas-_P749650-1",
+          "score": 0.309,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Remote Mortgage Loan Officer (New Hampshire)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
+          "score": 0.3007,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Mortgage Loan Officer (Overland Park, KS)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
+          "score": 0.2965,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Zillow\u2019s Global Applicant Privacy Notice",
+          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
+          "score": 0.0673,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        }
+      ]
+    },
+    {
       "company": "Wasabi Technologies",
       "url": "https://wasabi.com/company/careers",
       "error": null,
@@ -1453,13 +1609,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Channel Account Manager, ASEAN",
-          "url": "https://job-boards.greenhouse.io/wasabi/jobs/5451866008",
-          "score": 0.4104,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Senior Business Systems Engineer (Salesforce & Billing Platform)",
           "url": "https://job-boards.greenhouse.io/wasabi/jobs/5366870008",
           "score": 0.406,
@@ -1487,233 +1636,77 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.519,
+      "top_score": 0.5308,
       "roles": [
         {
-          "title": "Staff Product Manager - AI FDE",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSCACA807AEC05482C8E7B6F31EE3E081BEXTERNALENUS775F7C0EF4CA4334A3C5100811DAF192/Staff-Product-Manager-AI-FDE",
-          "score": 0.519,
+          "title": "Senior Product Manager - Applied AI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6D46178B560B4CA8A394924A52D5C977EXTERNALENUS5B04D532DF084D10AF9B3028037E7D8B/Senior-Product-Manager-Applied-AI",
+          "score": 0.5308,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Product Manager, Streaming Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSF40B0F2951194E1CA7F64DCCAB5B3797EXTERNALENUSE90E34F49746483D8D53C3D297E06FF9/Senior-Product-Manager-Streaming-Platform",
-          "score": 0.5086,
+          "title": "Sr. Product Marketing Manager, Department Solutions",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA75FE8713CF849C5AC2C036934CE578DEXTERNALENUS8DB8D9AEE35C4E1D9BD0078627DE3BD1/Sr-Product-Marketing-Manager-Department-Solutions",
+          "score": 0.5264,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - FDB Platform",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS80B703445FB0449DBD6FF5CF5E1ADBC8EXTERNALENUS3B88B37339B0472C99EC410EFDF37A15/Staff-Software-Engineer-FDB-Platform",
-          "score": 0.4572,
+          "title": "Engineering Manager - Cloud Efficiency",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4ED4C94717AE4E0D9862D939C5AB35C7EXTERNALENUS22344641A2C94B198068C6E0E80AC4E1/Engineering-Manager-Cloud-Efficiency",
+          "score": 0.4965,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.4542,
+          "title": "Sales Development Representative - Portuguese Speaker",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS85809A9C264346C1AE3161CC438F9326EXTERNALENUS2BCA874D6C174BC9AB05AD230FDE040A/Sales-Development-Representative-Portuguese-Speaker",
+          "score": 0.4962,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Solutions Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA6BF7983037B47C4B01BF6FC4F9F1B37EXTERNALENUSDA8298E6C9E14D128AF22405BA766602/Solutions-Engineer",
-          "score": 0.4423,
+          "title": "Technical Program Manager, Compute Infrastructure",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS61E26C1838A64CE7A59CF5C19EB5EDB6EXTERNALENUS1817E4BBBE4A45AC8A9F60B314F0962A/Technical-Program-Manager-Compute-Infrastructure",
+          "score": 0.4869,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer - Unistore",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS135FD75E6ABD4EBEA4D6B3F207F2F3FCEXTERNALENUS768BC008B6A64B1DA8AC3D44D052D6BA/Staff-Software-Engineer-Unistore",
-          "score": 0.4412,
+          "title": "Strategic Finance Analyst II",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7D5F51C7D26044538B0E07B37B309382EXTERNALENUS483F85676FA9443DBAF783775A07DA7D/Strategic-Finance-Analyst-II",
+          "score": 0.4843,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Manager/ Senior Manager, Finance Analytics & AI",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS2A34E4F1FA33481DAAAF8E9B640B9116EXTERNALENUSAC7E29E235D04670AFF85DD2E98833A9/Manager-Senior-Manager-Finance-Analytics-AI",
+          "score": 0.4755,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Senior Software Engineer - NatSec",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS792EE6EEB31B493FBBCD4758091603F6EXTERNALENUS5DB01AA492EB4796BD7E446EA98402F2/Senior-Software-Engineer-NatSec",
+          "score": 0.4519,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Executive Assistant, Product",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A1B6D8EA41C4A6782DAE05BBFD126CBEXTERNALENUS332A6281ADB146E98FC7E2E73BFFC27A/Executive-Assistant-Product",
+          "score": 0.44,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Solution Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E2678BC9017476290CD1B718C929CBBEXTERNALENUSA040ADC3959249CB84DB27FCC8EDE438/Senior-Solution-Engineer",
-          "score": 0.4368,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB6386FC82D9F469E8016C986BDCBA351EXTERNALENUSD80CC932E8F74A678D19680688CEB387/Senior-Solution-Engineer",
+          "score": 0.4191,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Data Scientist - Product",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS6E1D8BD82A6D438F8F5BB6AF7250D446EXTERNALENUSB9B85C1D07604E289DFE41724C8335A1/Senior-Data-Scientist-Product",
-          "score": 0.4324,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.4258,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Senior Technical Support Engineer, Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS60A664155D8241A0A047B8942A4275DEEXTERNALENUS7F5EAC56C65B4495B8B4BCACC7B2372D/Senior-Technical-Support-Engineer-Observe-by-Snowflake",
-          "score": 0.4244,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        }
-      ]
-    },
-    {
-      "company": "Zillow",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
-      "error": null,
-      "match_count": 0,
-      "top_score": 0.3489,
-      "roles": [
-        {
-          "title": "Mortgage Loan Officer (Irvine, CA)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Mortgage-Loan-Officer--Irvine--CA-_P749621-1",
-          "score": 0.3489,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Mississippi)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MS/Remote-Mortgage-Loan-Officer--Mississippi-_P749652-1",
-          "score": 0.3436,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Idaho)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ID/Remote-Mortgage-Loan-Officer--Idaho-_P749615-1",
-          "score": 0.34,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Arkansas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AR/Remote-Mortgage-Loan-Officer--Arkansas-_P749645",
-          "score": 0.3376,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (South Dakota)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-SD/Remote-Mortgage-Loan-Officer--South-Dakota-_P749657-1",
-          "score": 0.335,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Scottsdale, AZ)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Scottsdale-AZ-N-Scottsdale-Rd/Remote-Mortgage-Loan-Officer--Scottsdale--AZ-_P750866-1",
-          "score": 0.3334,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Arizona)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-AZ/Remote-Mortgage-Loan-Officer--Arizona-_P749612",
-          "score": 0.3312,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (California)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-CA/Remote-Mortgage-Loan-Officer--California-_P749613-1",
-          "score": 0.3299,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Hawaii)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-HI/Remote-Mortgage-Loan-Officer--Hawaii-_P749614-1",
-          "score": 0.3274,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (North Dakota)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-ND/Remote-Mortgage-Loan-Officer--North-Dakota-_P749655-1",
-          "score": 0.3245,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Oklahoma)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OK/Remote-Mortgage-Loan-Officer--Oklahoma-_P749656-1",
-          "score": 0.3187,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Vermont)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-VT/Remote-Mortgage-Loan-Officer--Vermont-_P749588-1",
-          "score": 0.3164,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (West Virginia)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-WV/Remote-Mortgage-Loan-Officer--West-Virginia-_P749599-1",
-          "score": 0.3157,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Utah)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-UT/Remote-Mortgage-Loan-Officer--Utah-_P749660-1",
-          "score": 0.3152,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Oregon)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OR/Remote-Mortgage-Loan-Officer--Oregon-_P749617-1",
-          "score": 0.3147,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Kansas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-KS/Remote-Mortgage-Loan-Officer--Kansas-_P749650-1",
-          "score": 0.3093,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (New Mexico)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NM/Remote-Mortgage-Loan-Officer--New-Mexico-_P749654-1",
-          "score": 0.307,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (Montana)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MT/Remote-Mortgage-Loan-Officer--Montana-_P749653-1",
-          "score": 0.3059,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Remote Mortgage Loan Officer (New Hampshire)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-NH/Remote-Mortgage-Loan-Officer--New-Hampshire-_P749584-1",
-          "score": 0.3008,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Mortgage Loan Officer (Overland Park, KS)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Overland-Park-KS-Foster-Street/Mortgage-Loan-Officer--Overland-Park--KS-_P749662-1",
-          "score": 0.2967,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Zillow\u2019s Global Applicant Privacy Notice",
-          "url": "https://www.zillow.com/careers/global-applicant-privacy-notice/",
-          "score": 0.0673,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
         }
       ]
     },
@@ -1741,7 +1734,7 @@
         {
           "title": "See all our locations",
           "url": "https://www.dynatrace.com/careers/locations/",
-          "score": 0.2161,
+          "score": 0.2156,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
