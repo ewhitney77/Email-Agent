@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:19:56+00:00",
+  "generated_at": "2026-11-26T07:21:39+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 32,
+  "total_matches": 31,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 28,
+      "match_count": 27,
       "top_score": 0.6542,
       "roles": [
         {
@@ -167,13 +167,6 @@
           "title": "Regional Director Sales, Boston (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6250464004",
           "score": 0.6113,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Director, Ohio Valley (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6008177004",
-          "score": 0.6094,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -405,6 +398,13 @@
           "title": "Solutions Engineer, Ohio (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6203143004",
           "score": 0.4525,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Solutions Engineer, Sydney",
+          "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
+          "score": 0.4454,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1093,14 +1093,14 @@
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
+          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Commercial Account Executive",
-          "url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "url": "https://careers.datadoghq.com/detail/6512326/?gh_jid=6512326",
           "score": 0.5083,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1247,14 +1247,14 @@
         },
         {
           "title": "Certification Program Lead",
-          "url": "https://careers.datadoghq.com/detail/8417469/?gh_jid=8417469",
+          "url": "https://careers.datadoghq.com/detail/8417250/?gh_jid=8417250",
           "score": 0.4137,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Certification Program Lead",
-          "url": "https://careers.datadoghq.com/detail/8417250/?gh_jid=8417250",
+          "url": "https://careers.datadoghq.com/detail/8417469/?gh_jid=8417469",
           "score": 0.4137,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
@@ -1404,7 +1404,7 @@
         {
           "title": "View position",
           "url": "https://www.comeet.com/jobs/cyera/17.008/careers/4F.47E",
-          "score": 0.0962,
+          "score": 0.0964,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
@@ -1495,13 +1495,6 @@
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Remote Mortgage Loan Officer (Texas)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-TX/Remote-Mortgage-Loan-Officer--Texas-_P749659-1",
-          "score": 0.3382,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
           "title": "Remote Mortgage Loan Officer (Minnesota)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-MN/Remote-Mortgage-Loan-Officer--Minnesota-_P749651-1",
           "score": 0.3367,
@@ -1547,6 +1540,13 @@
           "title": "Funding Coordinator",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Funding-Coordinator_P751704-1",
           "score": 0.2511,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Photographer, Zillow Media Experts (Washington, D.C.)",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-DC/Photographer--Zillow-Media-Experts--Washington--DC-_P751865-1",
+          "score": 0.2155,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1629,33 +1629,40 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5467,
+      "top_score": 0.486,
       "roles": [
         {
-          "title": "Director, Product Management - Data Transformation (Frontier Engineering)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSF4F6B8F160E64A9F85FD401DC17BC705EXTERNALENUS2C1EDE0E02C94F74B084FC1F5CCD83E2/Director-Product-Management-Data-Transformation-Frontier-Engineering",
-          "score": 0.5467,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive, Enterprise Acquisition",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS929A9FCE331D4B93AC7E2681A9303B6CEXTERNALENUS4948012B4BE9414884834F3DC18C0B4A/Account-Executive-Enterprise-Acquisition",
-          "score": 0.5068,
+          "title": "Staff Frontend Software Engineer, AI Product: Observe by Snowflake",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB0AD4A46EC53449EB6C3EC7C7B32A9B0EXTERNALENUS4ACD9663EEBA41D18BD96EE6A94E1BF4/Staff-Frontend-Software-Engineer-AI-Product-Observe-by-Snowflake",
+          "score": 0.486,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Development Representative",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSE2872DA8A5A340F38502B07C99816129EXTERNALENUSA9B5D21F3ED941589B0576E65736A5DA/Sales-Development-Representative",
-          "score": 0.5037,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFDF4F34ACACE413C99081AE6A3DC55DDEXTERNALENUS3D6CD7D667A54E17B6AE58ABDF8BA0DF/Sales-Development-Representative",
+          "score": 0.4814,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Senior Manager, Brand Design",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS8B0A60AE2DFE4352BFE92F6BAE3A533EEXTERNALENUS0861407749B644A4A6593BDA16B102D4/Senior-Manager-Brand-Design",
-          "score": 0.4593,
+          "title": "AI Solutions Specialist",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS005667D381C84A3EB974C234981DC4DAEXTERNALENUS9321B73A1BC941D296FBD4EC1818F046/AI-Solutions-Specialist",
+          "score": 0.472,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Staff Software Engineer, Snowpark Container Service",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS88EF57F481AB462B8038211D914D45B9EXTERNALENUSB470BF4346B44A31A1647181E7372D29/Staff-Software-Engineer-Snowpark-Container-Service",
+          "score": 0.4587,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive - Expansion (Retail & CPG)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS8B2AD26DB3EB42BE9DEC67B30A2DD8DDEXTERNALENUS2995E87FF7A9445CB2FAEF0D90AA03BA/Account-Executive-Expansion-Retail-CPG",
+          "score": 0.4575,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1667,16 +1674,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Cloud Support Engineer - Japanese Speaking",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS32158E5D1B264CD58FE151B1D8EA01B9EXTERNALENUS1E128D1AB3D54FF38B3460A81165D27F/Cloud-Support-Engineer-Japanese-Speaking",
-          "score": 0.4499,
+          "title": "Software Engineer - Backend",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
+          "score": 0.4542,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA6C824EA783549DB8C6041E6E3D1E5BCEXTERNALENUSE56587DCDC4643E5A93E94D479FDB754/Software-Engineer",
-          "score": 0.4444,
+          "title": "Staff Software Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4514250A6E13401999C2DF1F586840A3EXTERNALENUS1C8DBE2C60B34D66A73F95DFFE416626/Staff-Software-Engineer",
+          "score": 0.4491,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1688,16 +1695,9 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer, App Runtime",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
-          "score": 0.4258,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Software Engineer, Identity & Access Management",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7450670F2689473A9D59EAB203EADBB5EXTERNALENUSD699971B0C2548E487337E8BD2328536/Software-Engineer-Identity-Access-Management",
-          "score": 0.4233,
+          "title": "Technical Account Manager, Observe",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSBCA63AE14AAE4D0A99D6D0457405DB56EXTERNALENUSE91C99B3175C44BFB30F3ADF815C2AA3/Technical-Account-Manager-Observe",
+          "score": 0.4248,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
