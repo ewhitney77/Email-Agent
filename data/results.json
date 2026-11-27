@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:17:30+00:00",
+  "generated_at": "2026-11-27T20:53:36+00:00",
   "threshold": 0.6,
   "embedding_backend": "sentence-transformers",
   "ideal_roles": [
@@ -7,13 +7,13 @@
     "distribution_intelligence_pm"
   ],
   "company_count": 9,
-  "total_matches": 28,
+  "total_matches": 27,
   "companies": [
     {
       "company": "Cribl",
       "url": "https://boards.greenhouse.io/cribl",
       "error": null,
-      "match_count": 24,
+      "match_count": 23,
       "top_score": 0.6542,
       "roles": [
         {
@@ -137,14 +137,14 @@
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Product Sales Specialist, EMEA",
-          "url": "https://cribl.io/job-detail/?gh_jid=6231042004",
+          "url": "https://cribl.io/job-detail/?gh_jid=6218679004",
           "score": 0.6122,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
@@ -167,13 +167,6 @@
           "title": "Regional Sales Manager, Western Canada (Enterprise)",
           "url": "https://cribl.io/job-detail/?gh_jid=6250262004",
           "score": 0.6043,
-          "matched": true,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Regional Sales Manager, United Kingdom (Enterprise)",
-          "url": "https://cribl.io/job-detail/?gh_jid=6202592004",
-          "score": 0.6023,
           "matched": true,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -405,6 +398,13 @@
           "title": "Solutions Engineer, Sydney",
           "url": "https://cribl.io/job-detail/?gh_jid=6185756004",
           "score": 0.4454,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Sr Staff Site Reliability Engineer",
+          "url": "https://cribl.io/job-detail/?gh_jid=6227072004",
+          "score": 0.4281,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1415,75 +1415,68 @@
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External",
       "error": null,
       "match_count": 0,
-      "top_score": 0.5619,
+      "top_score": 0.5622,
       "roles": [
         {
           "title": "Senior Data Scientist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Mexico-City/Senior-Data-Scientist_P751916-1",
-          "score": 0.5619,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Director, Software Engineering, Big Data",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Software-Engineering--Big-Data_P751862",
-          "score": 0.561,
+          "score": 0.5622,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Manager, FUB Implementation",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Manager--FUB-Implementation_P751864",
-          "score": 0.4975,
+          "score": 0.4971,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Underwriting Enablement Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Underwriting-Enablement-Manager_P752113",
-          "score": 0.4534,
+          "score": 0.4541,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Machine Learning Engineer, Rich Media Experiences",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Machine-Learning-Engineer--Rich-Media-Experiences_P750278-1",
-          "score": 0.445,
+          "score": 0.4452,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Strategic Sourcing Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Strategic-Sourcing-Manager_P751339-1",
-          "score": 0.437,
+          "score": 0.4375,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "LMS Administrator",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/LMS-Administrator_P751725-1",
-          "score": 0.4149,
+          "title": "Corporate Development Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Corporate-Development-Manager_P751866",
+          "score": 0.4165,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Capital Markets Pricing Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Capital-Markets-Pricing-Analyst_P752110-2",
-          "score": 0.3957,
+          "score": 0.3973,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
-          "title": "Senior Manager, Engineering",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Senior-Manager--Engineering_P751901-1",
-          "score": 0.3713,
+          "title": "Corporate Development Senior Manager",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Manager--Corporate-Development_P750773",
+          "score": 0.3846,
           "matched": false,
-          "best_role": "distribution_intelligence_pm"
+          "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Senior Workday Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Workday-Analyst_P751966-1",
-          "score": 0.3677,
+          "score": 0.3675,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1497,63 +1490,70 @@
         {
           "title": "Research Analyst",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Research-Analyst_P751715-1",
-          "score": 0.3589,
+          "score": 0.3513,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Senior Product Designer, Home Details Page",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Senior-Product-Designer--Home-Details-Page_P751902-1",
-          "score": 0.3404,
+          "score": 0.3409,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Manager, Mortgage Funding",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Manager--Mortgage-Funding_P752002-1",
-          "score": 0.3371,
+          "score": 0.3385,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Investor Suspense Analyst-1",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Investor-Suspense-Analyst-1_P752112-2",
-          "score": 0.3341,
+          "score": 0.3349,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Research Program Manager",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Research-Program-Manager_P751716-1",
-          "score": 0.3319,
+          "score": 0.3299,
+          "matched": false,
+          "best_role": "distribution_intelligence_pm"
+        },
+        {
+          "title": "Loan Review Specialist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Loan-Review-Specialist_P751835-1",
+          "score": 0.3059,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
         {
           "title": "Credit Specialist",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Bengaluru/Credit-Specialist_P752004",
-          "score": 0.2953,
+          "score": 0.2958,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Mortgage Loan Processor",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Mortgage-Loan-Processor_P751557",
-          "score": 0.2937,
+          "score": 0.2942,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Trailing Document Specialist",
+          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Irvine-CA-Michelson-Dr/Trailing-Document-Specialist_P751517",
+          "score": 0.2586,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Photographer, Zillow Media Experts (Washington, D.C.)",
           "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-DC/Photographer--Zillow-Media-Experts--Washington--DC-_P751865-1",
-          "score": 0.2154,
-          "matched": false,
-          "best_role": "distribution_intelligence_pm"
-        },
-        {
-          "title": "Photographer, Zillow Media Experts (Columbus, OH)",
-          "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-OH/Photographer--Zillow-Media-Experts--Columbus--OH-_P751093",
-          "score": 0.1965,
+          "score": 0.2111,
           "matched": false,
           "best_role": "distribution_intelligence_pm"
         },
@@ -1629,40 +1629,33 @@
       "url": "https://careers.snowflake.com/us/en/search-results",
       "error": null,
       "match_count": 0,
-      "top_score": 0.486,
+      "top_score": 0.5467,
       "roles": [
         {
-          "title": "Staff Frontend Software Engineer, AI Product: Observe by Snowflake",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSB0AD4A46EC53449EB6C3EC7C7B32A9B0EXTERNALENUS4ACD9663EEBA41D18BD96EE6A94E1BF4/Staff-Frontend-Software-Engineer-AI-Product-Observe-by-Snowflake",
-          "score": 0.486,
+          "title": "Director, Product Management - Data Transformation (Frontier Engineering)",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSF4F6B8F160E64A9F85FD401DC17BC705EXTERNALENUS2C1EDE0E02C94F74B084FC1F5CCD83E2/Director-Product-Management-Data-Transformation-Frontier-Engineering",
+          "score": 0.5467,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Account Executive, Enterprise Acquisition",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS929A9FCE331D4B93AC7E2681A9303B6CEXTERNALENUS4948012B4BE9414884834F3DC18C0B4A/Account-Executive-Enterprise-Acquisition",
+          "score": 0.5068,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
           "title": "Sales Development Representative",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSFDF4F34ACACE413C99081AE6A3DC55DDEXTERNALENUS3D6CD7D667A54E17B6AE58ABDF8BA0DF/Sales-Development-Representative",
-          "score": 0.4814,
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSE2872DA8A5A340F38502B07C99816129EXTERNALENUSA9B5D21F3ED941589B0576E65736A5DA/Sales-Development-Representative",
+          "score": 0.5037,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "AI Solutions Specialist",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS005667D381C84A3EB974C234981DC4DAEXTERNALENUS9321B73A1BC941D296FBD4EC1818F046/AI-Solutions-Specialist",
-          "score": 0.472,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Staff Software Engineer, Snowpark Container Service",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS88EF57F481AB462B8038211D914D45B9EXTERNALENUSB470BF4346B44A31A1647181E7372D29/Staff-Software-Engineer-Snowpark-Container-Service",
-          "score": 0.4587,
-          "matched": false,
-          "best_role": "cribl_sr_pm_pipeline_generation"
-        },
-        {
-          "title": "Account Executive - Expansion (Retail & CPG)",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS8B2AD26DB3EB42BE9DEC67B30A2DD8DDEXTERNALENUS2995E87FF7A9445CB2FAEF0D90AA03BA/Account-Executive-Expansion-Retail-CPG",
-          "score": 0.4575,
+          "title": "Senior Manager, Brand Design",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS8B0A60AE2DFE4352BFE92F6BAE3A533EEXTERNALENUS0861407749B644A4A6593BDA16B102D4/Senior-Manager-Brand-Design",
+          "score": 0.4593,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1674,16 +1667,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Software Engineer - Backend",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
-          "score": 0.4542,
+          "title": "Cloud Support Engineer - Japanese Speaking",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS32158E5D1B264CD58FE151B1D8EA01B9EXTERNALENUS1E128D1AB3D54FF38B3460A81165D27F/Cloud-Support-Engineer-Japanese-Speaking",
+          "score": 0.4499,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Staff Software Engineer",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUS4514250A6E13401999C2DF1F586840A3EXTERNALENUS1C8DBE2C60B34D66A73F95DFFE416626/Staff-Software-Engineer",
-          "score": 0.4491,
+          "title": "Software Engineer",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUSA6C824EA783549DB8C6041E6E3D1E5BCEXTERNALENUSE56587DCDC4643E5A93E94D479FDB754/Software-Engineer",
+          "score": 0.4444,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
@@ -1695,9 +1688,16 @@
           "best_role": "cribl_sr_pm_pipeline_generation"
         },
         {
-          "title": "Technical Account Manager, Observe",
-          "url": "https://careers.snowflake.com/us/en/job/SNCOUSBCA63AE14AAE4D0A99D6D0457405DB56EXTERNALENUSE91C99B3175C44BFB30F3ADF815C2AA3/Technical-Account-Manager-Observe",
-          "score": 0.4248,
+          "title": "Staff Software Engineer, App Runtime",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS37647739E8074EEFA9FBD1078D863A8DEXTERNALENUS708992C767DA4F9999F039ED70E360D4/Staff-Software-Engineer-App-Runtime",
+          "score": 0.4258,
+          "matched": false,
+          "best_role": "cribl_sr_pm_pipeline_generation"
+        },
+        {
+          "title": "Software Engineer, Identity & Access Management",
+          "url": "https://careers.snowflake.com/us/en/job/SNCOUS7450670F2689473A9D59EAB203EADBB5EXTERNALENUSD699971B0C2548E487337E8BD2328536/Software-Engineer-Identity-Access-Management",
+          "score": 0.4233,
           "matched": false,
           "best_role": "cribl_sr_pm_pipeline_generation"
         }
